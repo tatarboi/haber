@@ -500,6 +500,7 @@ main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative
 let on=false,si=null,cdi=null,seen=new Set(),news=[],sc=0,nc=0,ns=null,sasc=false,showAll=false;
 let gridView=false, hideDups=true;
 const PG=15;
+const SETTINGS_KEY='sr-settings';
 
 // ── THEME ──
 function toggleTheme(){
@@ -515,6 +516,33 @@ function toggleTheme(){
   document.getElementById('theme-toggle').textContent=t==='dark'?'☀️':'🌙';
 })();
 
+// ── USER SETTINGS ──
+function loadSettings(){
+  try{return JSON.parse(localStorage.getItem(SETTINGS_KEY)||'{}');}
+  catch{return{};}
+}
+function saveSettings(){
+  localStorage.setItem(SETTINGS_KEY,JSON.stringify({
+    interval:document.getElementById('isel').value,
+    gridView,
+    hideDups
+  }));
+}
+function applySettings(){
+  const s=loadSettings();
+  const interval=document.getElementById('isel');
+  if(s.interval&&[...interval.options].some(o=>o.value===s.interval))interval.value=s.interval;
+
+  gridView=Boolean(s.gridView);
+  document.getElementById('news-container').classList.toggle('grid-view',gridView);
+  document.getElementById('viewbtn').textContent=gridView?'☰ Liste':'⊞ Kart';
+
+  hideDups=s.hideDups!==false;
+  document.getElementById('dupbtn').textContent=hideDups?'≈ Tekrar: GİZLE':'≈ Tekrar: GÖSTER';
+  document.getElementById('dupbtn').classList.toggle('active',!hideDups);
+  document.getElementById('news-container').classList.toggle('show-dup',!hideDups);
+}
+
 // ── VIEW TOGGLE ──
 function toggleView(){
   gridView=!gridView;
@@ -522,6 +550,7 @@ function toggleView(){
   const btn=document.getElementById('viewbtn');
   if(gridView){ctr.classList.add('grid-view');btn.textContent='☰ Liste';}
   else{ctr.classList.remove('grid-view');btn.textContent='⊞ Kart';}
+  saveSettings();
   render();
 }
 
@@ -533,6 +562,7 @@ function toggleDups(){
   btn.classList.toggle('active',!hideDups);
   const ctr=document.getElementById('news-container');
   ctr.classList.toggle('show-dup',!hideDups);
+  saveSettings();
   render();
 }
 
@@ -652,6 +682,7 @@ function stop(){
   dot('','DURDURULDU');
 }
 document.getElementById('isel').addEventListener('change',()=>{
+  saveSettings();
   if(!on)return;clearInterval(si);
   const s=+document.getElementById('isel').value;
   si=setInterval(fetch_all,s*1000);cd(s);
@@ -805,7 +836,7 @@ function render(){
     </div>`;
     const items=dayItems.map((n,i)=>{
       const isDup=dupSet.has(n.id);
-      const hidden=isDup&&hideDups&&gridView?'style="display:none"':'';
+      const hidden=isDup&&hideDups?'style="display:none"':'';
       const thumb=n.img
         ? `<div class="ni-thumb"><img src="${esc(n.img)}" loading="lazy" alt="" onerror="this.parentNode.innerHTML='<div class=\\'thumb-placeholder\\'><span class=\\'thumb-icon\\'>📰</span></div>'"></div>`
         : `<div class="ni-thumb"><div class="thumb-placeholder"><span class="thumb-icon">📰</span></div></div>`;
@@ -935,6 +966,7 @@ function reltime(d){
 })();
 
 // init
+applySettings();
 checkPerm();
 </script>
 </body>
