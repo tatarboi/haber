@@ -49,7 +49,7 @@ header::after{content:'';position:absolute;bottom:0;left:0;right:0;height:1px;ba
 .logo-icon{width:36px;height:36px;border:1px solid var(--border2);border-radius:8px;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,var(--surface2),var(--accent3));box-shadow:0 0 12px var(--glow);position:relative;flex-shrink:0}
 .radar-svg{width:20px;height:20px}
 .logo-texts{display:flex;flex-direction:column}
-.logo-main{font-family:'Orbitron',monospace;font-size:.88rem;font-weight:900;letter-spacing:2.5px;color:var(--white);line-height:1}
+.logo-main{font-family:'Orbitron',monospace;font-size Club;font-size:.88rem;font-weight:900;letter-spacing:2.5px;color:var(--white);line-height:1}
 .logo-main em{color:var(--accent2);font-style:normal}
 .logo-sub{font-size:.5rem;font-family:'Share Tech Mono',monospace;color:var(--sub);letter-spacing:2px;margin-top:2px}
 .live-pill{display:flex;align-items:center;gap:4px;background:var(--red2);border:1px solid rgba(244,63,94,.3);border-radius:999px;padding:3px 9px;flex-shrink:0}
@@ -63,10 +63,6 @@ header::after{content:'';position:absolute;bottom:0;left:0;right:0;height:1px;ba
 .sdot.scan{background:var(--amber);box-shadow:0 0 7px var(--amber);animation:pulse .4s infinite}
 #status-text{font-family:'Share Tech Mono',monospace;font-size:.62rem;color:var(--sub);white-space:nowrap}
 .isel{background:var(--surface);border:1px solid var(--border2);color:var(--text);padding:5px 9px;border-radius:6px;font-family:'Share Tech Mono',monospace;font-size:.65rem;cursor:pointer;outline:none;appearance:none;flex-shrink:0}
-.tbtn{font-family:'Orbitron',monospace;font-size:.56rem;font-weight:700;letter-spacing:1.5px;padding:7px 16px;border:1px solid var(--accent);background:var(--accent3);color:var(--accent2);cursor:pointer;border-radius:6px;transition:background .2s,box-shadow .2s;white-space:nowrap;flex-shrink:0}
-.tbtn:hover{background:var(--accent);color:#fff;box-shadow:0 0 14px var(--glow)}
-.tbtn.stop{border-color:var(--red);background:var(--red2);color:var(--red)}
-.tbtn.stop:hover{background:var(--red);color:#fff}
 .theme-toggle{width:36px;height:36px;border:1px solid var(--border2);background:var(--surface);border-radius:8px;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:1rem;flex-shrink:0;}
 main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative;z-index:1}
 .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--border);border:1px solid var(--border2);border-radius:10px;overflow:hidden;margin-bottom:1.2rem}
@@ -75,7 +71,7 @@ main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative
 .sl{font-family:'Share Tech Mono',monospace;font-size:.56rem;color:var(--sub);letter-spacing:2px}
 .sv{font-family:'Orbitron',monospace;font-size:1.5rem;font-weight:700;color:var(--text);line-height:1}
 .sv.a{color:var(--accent2)}.sv.r{color:var(--red)}.sv.g{color:var(--green);font-size:.82rem;padding-top:.3rem;font-family:'Share Tech Mono',monospace}
-.cdstrip{display:none;align-items:center;gap:.8rem;margin-bottom:.9rem;padding:.4rem .9rem;background:var(--surface);border:1px solid var(--border2);border-radius:6px}
+.cdstrip{display:flex;align-items:center;gap:.8rem;margin-bottom:.9rem;padding:.4rem .9rem;background:var(--surface);border:1px solid var(--border2);border-radius:6px}
 .cdlabel{font-family:'Share Tech Mono',monospace;font-size:.58rem;color:var(--sub);white-space:nowrap}
 .cdtrack{flex:1;height:2px;background:var(--dim);border-radius:1px;overflow:hidden}
 .cdfill{height:100%;background:linear-gradient(90deg,var(--accent),var(--accent2));box-shadow:0 0 5px var(--glow);border-radius:1px;transition:width 1s linear}
@@ -203,14 +199,14 @@ main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative
     </div>
     <div class="logo-texts">
       <div class="logo-main"><em>SAMSUN</em> RADAR</div>
-      <div class="logo-sub">OSINT MERKEZİ PANEL · v5.1</div>
+      <div class="logo-sub">OSINT MERKEZİ PANEL · v5.2</div>
     </div>
     <div class="live-pill"><div class="live-dot"></div><span class="live-txt">CANLI</span></div>
   </div>
   <div class="hdr-right">
     <div class="status-row">
       <div class="sdot" id="sdot"></div>
-      <span id="status-text">BEKLEME</span>
+      <span id="status-text">YÜKLENİYOR</span>
     </div>
     <select class="isel" id="isel">
       <option value="60">1 dak</option>
@@ -218,7 +214,6 @@ main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative
       <option value="600">10 dak</option>
     </select>
     <button class="theme-toggle" id="theme-toggle" onclick="toggleTheme()">☀️</button>
-    <button class="tbtn" id="tbtn" onclick="toggle()">BAŞLAT</button>
   </div>
 </header>
 
@@ -231,7 +226,7 @@ main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative
   </div>
 
   <div class="cdstrip" id="cdstrip">
-    <span class="cdlabel">SONRAKİ BAĞLANTI</span>
+    <span class="cdlabel">SONRAKİ PANEL YENİLEME</span>
     <div class="cdtrack"><div class="cdfill" id="cdfill" style="width:100%"></div></div>
     <span class="cdtimer" id="cdtimer">—</span>
   </div>
@@ -257,8 +252,8 @@ main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative
   <div id="news-container">
     <div class="estate">
       <div class="radar-wrap"><div class="rsweep"></div></div>
-      <div class="etitle">MERKEZ BAĞLANTISI HAZIR</div>
-      <div class="esub">Yenilenen kurşun geçirmez OSINT altyapısını başlatmak için BAŞLAT butonuna basın.</div>
+      <div class="etitle">MERKEZ BAĞLANTISI KURULUYOR...</div>
+      <div class="esub">7/24 Canlı OSINT veri akışı otomatik olarak senkronize ediliyor.</div>
     </div>
   </div>
 
@@ -268,7 +263,7 @@ main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative
 </main>
 
 <script>
-let on=false,si=null,cdi=null,seen=new Set(),news=[],sc=0,nc=0,ns=null,sasc=false,showAll=false,gridView=false,hideDups=true;
+let si=null,cdi=null,seen=new Set(),news=[],sc=0,nc=0,ns=null,sasc=false,showAll=false,gridView=false,hideDups=true;
 const PG=15;
 
 function toggleTheme(){
@@ -307,17 +302,15 @@ function findDuplicates(items){
   return dupSet;
 }
 
-function toggle(){on?stop():start();}
-function start(){
-  on=true; document.getElementById('tbtn').textContent='DURDUR'; document.getElementById('tbtn').classList.add('stop');
-  document.getElementById('cdstrip').style.display='flex'; fetch_all();
-  si=setInterval(fetch_all, (+document.getElementById('isel').value)*1000);
+// Otomatik Döngü Yönetimi (Butonlar Kalktı, Seçim Değişince Kendi Tetiklenir)
+function baslatOtomatikDongu(){
+  clearInterval(si);
+  fetch_all();
+  const s = parseInt(document.getElementById('isel').value);
+  si = setInterval(fetch_all, s * 1000);
 }
-function stop(){
-  on=false; clearInterval(si); clearInterval(cdi);
-  document.getElementById('tbtn').textContent='BAŞLAT'; document.getElementById('tbtn').classList.remove('stop');
-  document.getElementById('cdstrip').style.display='none'; dot('','DURDURULDU');
-}
+
+document.getElementById('isel').addEventListener('change', baslatOtomatikDongu);
 
 function cd(total){
   clearInterval(cdi); ns=Date.now()+total*1000;
@@ -328,7 +321,6 @@ function cd(total){
   },1000);
 }
 
-// Tamamen Kararlı Hale Getirilmiş JSON Okuma Fonksiyonu
 async function fetch_all(){ 
   dot('scan','VERİ OKUNUYOR'); 
   try { 
@@ -348,7 +340,7 @@ async function fetch_all(){
       }
 
       news.push({
-        idx: index, // Eşleştirme hatasını önleyen benzersiz tamsayı kimliği
+        idx: index,
         id: item.id || item.u,
         t: item.t || 'Başlıksız Haber',
         u: item.u || '#',
@@ -362,16 +354,15 @@ async function fetch_all(){
     
     news.sort((a,b) => b.d - a.d); 
     stats(); render(); 
-    dot('on','AKTİF · MERKEZ BAĞLI'); 
+    dot('on','7/24 CANLI İZLEME AKTİF'); 
     document.getElementById('st-last').textContent = new Date().toLocaleTimeString('tr-TR'); 
-    cd(+document.getElementById('isel').value);
+    cd(parseInt(document.getElementById('isel').value));
   } catch (error) { 
     console.error("Hata:", error); 
     dot('stop', 'BAĞLANTI HATASI'); 
   } 
 }
 
-// Index bazlı çalışan güvenli modal açma fonksiyonu
 function openModalByIdx(idx){
   const item = news.find(n => n.idx === parseInt(idx));
   if(!item) return;
@@ -424,7 +415,6 @@ function render(){
         ? `<div class="ni-thumb"><img src="${thumbUrl}" loading="lazy" onerror="this.style.display='none'"></div>`
         : `<div class="ni-thumb"><div class="thumb-placeholder"><span class="thumb-icon">📰</span></div></div>`;
         
-      // Nesneyi HTML tırnaklarıyla boğmak yerine sadece index değerini gönderiyoruz (Çökmeyi önleyen can damarı)
       return `<div class="ni ${isDup?'duplicate':''}" onclick="openModalByIdx(${n.idx})">
         <div class="ni-rank"><span class="rn">${String(i+1).padStart(2,'0')}</span></div>
         <div class="ni-content">${thumb}<div class="ni-body"><div class="ni-title">${n.t}</div><div class="ni-meta"><span class="ni-src">${n.src}</span></div></div></div>
@@ -446,6 +436,9 @@ function stats(){
   sel.innerHTML='<option value="">Tüm Kaynaklar</option>'+uniqueSrcs.map(s=>`<option ${s===cur?'selected':''}>${s}</option>`).join('');
 }
 function dot(state,txt){ document.getElementById('sdot').className='sdot '+state; document.getElementById('status-text').textContent=txt; }
+
+// Sayfa ilk yüklendiğinde sistemi sıfır tıklamayla tam otomatik başlatıyoruz
+document.addEventListener('DOMContentLoaded', baslatOtomatikDongu);
 </script>
 </body>
 </html>
