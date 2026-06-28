@@ -1,0 +1,31 @@
+name: Samsun Radar OSINT Botu
+
+on:
+  schedule:
+    - cron: '*/15 * * * *' # Her 15 dakikada bir otomatik çalışır
+  workflow_dispatch: # GitHub sayfasından manuel tetikleme butonu ekler
+
+jobs:
+  tarama-yap:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Projeyi Çek
+        uses: actions/checkout@v3
+        
+      - name: Python Ortamını Kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Tarayıcı Botu Çalıştır
+        run: python tarayıcı.py
+        
+      - name: Yeni Haberleri GitHub'a Kaydet (Commit)
+        run: |
+          git config --global user.name 'SamsunRadar-Bot'
+          git config --global user.email 'bot@samsunradar.local'
+          git add samsun_gundem.json
+          # Eğer yeni haber varsa kaydet, yoksa hata verme yoksay
+          git commit -m "Radar güncellendi: Yeni haberler eklendi" || exit 0
+          git push
