@@ -371,7 +371,6 @@ main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative
 <div class="corner corner-bl"></div><div class="corner corner-br"></div>
 <div id="toasts"></div>
 
-<!-- MODAL -->
 <div id="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="modal-title-el">
   <div class="modal">
     <button class="modal-close" onclick="closeModal()" aria-label="Kapat">✕</button>
@@ -394,7 +393,6 @@ main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative
   </div>
 </div>
 
-<!-- HEADER -->
 <header>
   <div class="logo-wrap">
     <div class="logo-icon">
@@ -412,7 +410,7 @@ main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative
     </div>
     <div class="logo-texts">
       <div class="logo-main"><em>SAMSUN</em> RADAR</div>
-      <div class="logo-sub">GOOGLE NEWS + RSS · v4.0</div>
+      <div class="logo-sub">GOOGLE NEWS + RSS · v4.1</div>
     </div>
     <div class="live-pill"><div class="live-dot"></div><span class="live-txt">CANLI</span></div>
   </div>
@@ -433,7 +431,6 @@ main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative
 </header>
 
 <main>
-  <!-- STATS -->
   <div class="stats">
     <div class="sc"><div class="sl">TOPLAM HABER</div><div class="sv a" id="st-total">000</div></div>
     <div class="sc"><div class="sl">YENİ HABER</div><div class="sv r" id="st-new">000</div></div>
@@ -441,20 +438,17 @@ main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative
     <div class="sc"><div class="sl">SON TARAMA</div><div class="sv g" id="st-last">——:——:——</div></div>
   </div>
 
-  <!-- NOTIF BANNER -->
   <div class="nbanner" id="nbanner">
     <p>🔔 Chrome bildirimleri için izin gerekiyor</p>
     <button class="nbtn" onclick="reqPerm()">İZİN VER</button>
   </div>
 
-  <!-- COUNTDOWN -->
   <div class="cdstrip" id="cdstrip">
     <span class="cdlabel">SONRAKİ TARAMA</span>
     <div class="cdtrack"><div class="cdfill" id="cdfill" style="width:100%"></div></div>
     <span class="cdtimer" id="cdtimer">—</span>
   </div>
 
-  <!-- TOOLBAR -->
   <div class="toolbar">
     <div class="sbox">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -471,13 +465,11 @@ main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative
     <button class="clrbtn" onclick="clearAll()">Temizle</button>
   </div>
 
-  <!-- PANEL HDR -->
   <div class="phdr">
     <span class="ptitle">HABERLEŞTİRME AKIŞI</span>
     <span class="pmeta" id="pmeta">—</span>
   </div>
 
-  <!-- NEWS -->
   <div id="news-container">
     <div class="estate">
       <div class="radar-wrap">
@@ -489,7 +481,6 @@ main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative
     </div>
   </div>
 
-  <!-- SEE ALL -->
   <div class="see-all" id="see-all">
     <button class="sa-btn" id="sa-btn" onclick="flipShow()">Tüm haberleri göster ▼</button>
   </div>
@@ -567,10 +558,8 @@ function toggleDups(){
 }
 
 // ── SIMILARITY DETECTION ──
-// Returns a set of IDs considered duplicates (similar title, same day)
 function findDuplicates(items){
   const dupSet=new Set();
-  // tokenize title → word set
   function tokens(title){
     return new Set(title.toLowerCase().replace(/[^\wığüşöçİĞÜŞÖÇ\s]/g,'').split(/\s+/).filter(w=>w.length>3));
   }
@@ -598,7 +587,6 @@ function findDuplicates(items){
 }
 
 // ── GOOGLE NEWS RSS QUERIES ──
-// Her sorgu farklı konularda Google'ın haber indexinden beslenir
 const GN_BASE='https://news.google.com/rss/search?hl=tr&gl=TR&ceid=TR:tr&q=';
 const GN_QUERIES=[
   {q:'samsun',            label:'Samsun Genel'},
@@ -620,10 +608,10 @@ const GN_QUERIES=[
 const GN_SRC=GN_QUERIES.map(q=>({
   n: q.label,
   u: GN_BASE+encodeURIComponent(q.q)+'&num=30',
-  gn: true, // flag: Google News source
+  gn: true,
 }));
 
-// ── YEREL RSS KAYNAKLAR (yedek/ek) ──
+// ── YEREL RSS KAYNAKLAR ──
 const LOCAL_SRC=[
   {n:'Açık Gazete',        u:'https://www.acikgazete.com/feed/',        mx:true},
   {n:'Samsun Gazetesi',    u:'https://www.samsungazetesi.com/rss'},
@@ -640,23 +628,28 @@ const LOCAL_SRC=[
   {n:'Denge Gazetesi',     u:'https://www.dengegazetesi.com.tr/service/rss.php',mx:true},
 ];
 const SRC=[...GN_SRC,...LOCAL_SRC];
-const H24=24*60*60*1000; // 24 saat ms
+const H24=24*60*60*1000;
 
-// ── PROXIES — with failure tracking ──
+// ── PROXIES — En stabil proxy'ler ve Cache Busting entegre edildi ──
 const PX_LIST=[
-  u=>`https://corsproxy.io/?${encodeURIComponent(u)}`,
-  u=>`https://api.allorigins.win/get?url=${encodeURIComponent(u)}`,
+  u=>`https://api.allorigins.win/raw?url=${encodeURIComponent(u)}`,
   u=>`https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(u)}`,
-  u=>`https://thingproxy.freeboard.io/fetch/${encodeURIComponent(u)}`,
+  u=>`https://corsproxy.io/?${encodeURIComponent(u)}`
 ];
 const pxFails=new Map();
+
 async function pfetch(url){
+  // Cache Buster: Proxy'nin bize eski veriyi dayatmasını önlemek için zaman damgası ekliyoruz
+  const nocacheUrl = url + (url.includes('?') ? '&' : '?') + '_t=' + Date.now();
   const sorted=[...PX_LIST].sort((a,b)=>(pxFails.get(a)||0)-(pxFails.get(b)||0));
+  
   for(const f of sorted){
     try{
-      const r=await fetch(f(url),{signal:AbortSignal.timeout(8000)});
+      // Timeout süresini 10 saniyeye çıkardık, bazı yerel siteler geç cevap verebilir
+      const r=await fetch(f(nocacheUrl),{signal:AbortSignal.timeout(10000)});
       if(!r.ok){pxFails.set(f,(pxFails.get(f)||0)+1);continue;}
       const t=await r.text();
+      
       if(t.trim().startsWith('{')){try{const j=JSON.parse(t);if(j.contents)return j.contents;}catch{}}
       if(t.includes('<item')||t.includes('<rss')||t.includes('<feed'))return t;
       pxFails.set(f,(pxFails.get(f)||0)+1);
@@ -698,11 +691,21 @@ function cd(total){
   },1000);
 }
 
-// ── FETCH ──
+// ── FETCH (Chunking/Gruplama Mantığı Eklendi) ──
 async function fetch_all(){
   dot('scan','TARANIYOR');
   const s=+document.getElementById('isel').value;cd(s);
-  const res=await Promise.allSettled(SRC.map(fetchOne));
+  
+  const res = [];
+  // Proxy'leri aynı anda 28 istekle boğup engellenmemek için kaynakları 4'erli gruplar halinde çekiyoruz
+  for (let i = 0; i < SRC.length; i += 4) {
+    const chunk = SRC.slice(i, i + 4);
+    const chunkRes = await Promise.allSettled(chunk.map(fetchOne));
+    res.push(...chunkRes);
+    // Diğer gruba geçmeden önce 800 milisaniye nefes alma (Rate-limit aşımı için hayati önem taşır)
+    if (i + 4 < SRC.length) await new Promise(resolve => setTimeout(resolve, 800));
+  }
+
   res.forEach(r=>{
     if(r.status!=='fulfilled')return;
     r.value.forEach(item=>{
@@ -720,38 +723,32 @@ async function fetch_all(){
 async function fetchOne(src){
   const xml=await pfetch(src.u);
   const doc=new DOMParser().parseFromString(xml,'text/xml');
-  // Google News uses <item> like standard RSS
   const items=doc.querySelectorAll('item');
   const out=[];
   const now=Date.now();
   items.forEach(it=>{
     const title=(it.querySelector('title')?.textContent||'').trim();
-    // Google News RSS: link is a text node after <link> tag (CDATA quirk)
     let link=it.querySelector('link')?.textContent?.trim()||'';
     if(!link){const le=it.querySelector('link');if(le)link=le.nextSibling?.nodeValue?.trim()||'';}
     if(!link)link=it.querySelector('guid')?.textContent?.trim()||'';
     const pd=it.querySelector('pubDate')?.textContent||'';
     const desc=it.querySelector('description')?.textContent||'';
 
-    // ── 24 SAAT FİLTRESİ ──
     const pubTime=pd?new Date(pd).getTime():0;
     if(pubTime&&(now-pubTime)>H24)return;
 
-    // ── GÖRSEL ──
     let img='';
     const enc=it.querySelector('enclosure');
     if(enc&&enc.getAttribute('type')?.startsWith('image'))img=enc.getAttribute('url')||'';
     if(!img){const mc=it.querySelector('content');if(mc)img=mc.getAttribute('url')||'';}
     if(!img){const mt=it.querySelector('thumbnail');if(mt)img=mt.getAttribute('url')||'';}
     if(!img&&desc){const m=desc.match(/src="([^"]*\.(jpg|jpeg|png|webp)[^"]*)"/i);if(m)img=m[1];}
-    // Google News genellikle description içinde resim barındırmaz ama kaynak logosunu tanımlamak için
-    // source tag'ını da okuyalım
+    
     const srcTag=it.querySelector('source');
     const realSrc=src.gn&&srcTag?clean(srcTag.textContent||src.n):src.n;
 
     if(!title)return;
     if(!src.gn&&src.mx&&!(title+' '+desc).toLowerCase().includes('samsun'))return;
-    // Google News haberlerinde samsun geçmiyorsa filtrele (çok geniş sorgular için güvenlik)
     if(src.gn&&!(title+' '+desc).toLowerCase().includes('samsun'))return;
 
     const descClean=desc.replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').trim().slice(0,400);
@@ -802,7 +799,6 @@ function render(){
   });
   f=[...f].sort((a,b)=>sasc?a.d-b.d:b.d-a.d);
 
-  // duplicate detection
   const dupSet=findDuplicates(f);
 
   document.getElementById('pmeta').textContent=f.length+' kayıt · '+(hideDups?'tekrarlar gizli':'tümü');
@@ -816,7 +812,6 @@ function render(){
   }
   const disp=showAll?f:f.slice(0,PG);
 
-  // group by day
   const groups=[];
   let curDay='';
   disp.forEach(n=>{
@@ -867,13 +862,11 @@ function render(){
   setTimeout(()=>document.querySelectorAll('.fresh').forEach(e=>e.classList.remove('fresh')),1800);
 }
 
-// build a map for quick lookup
 const newsById=new Map();
 function onItemClick(e,encodedId){
   const id=decodeURIComponent(encodedId);
   const item=news.find(n=>n.id===id);
   if(!item)return;
-  // If ctrl/cmd click or middle click, open link directly
   if(e.ctrlKey||e.metaKey||e.button===1){if(item.u)window.open(item.u,'_blank');return;}
   openModal(item);
 }
@@ -884,10 +877,8 @@ function clearAll(){if(!confirm('Tüm haberler silinsin mi?'))return;news=[];see
 function stats(){
   document.getElementById('st-total').textContent=String(news.length).padStart(3,'0');
   document.getElementById('st-new').textContent=String(nc).padStart(3,'0');
-  // benzersiz kaynak sayısı
   const uniqueSrcs=[...new Set(news.map(n=>n.src))].sort();
   document.getElementById('st-src').textContent=String(uniqueSrcs.length).padStart(3,'0');
-  // dinamik dropdown güncelle
   const sel=document.getElementById('fsrc');
   const cur=sel.value;
   sel.innerHTML='<option value="">Tüm Kaynaklar ('+uniqueSrcs.length+')</option>'+
