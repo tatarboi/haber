@@ -13,7 +13,7 @@ SORGULAR = [
     '"Samsun" AND ("kaza" OR "trafik" OR "karayolu")'
 ]
 
-# 2. SENİN YEREL RSS KAYNAKLARIN (Eksiksiz eklendi)
+# 2. YEREL RSS KAYNAKLARIN
 YEREL_RSS = [
     {"ad": "Açık Gazete", "url": "https://www.acikgazete.com/feed/"},
     {"ad": "Samsun Gazetesi", "url": "https://www.samsungazetesi.com/rss"},
@@ -35,14 +35,12 @@ toplanan_haberler = []
 görülen_linkler = set()
 
 def temizle(metin):
-    """HTML etiketlerini ve gereksiz boşlukları temizler"""
     if not metin: return ""
     temiz = re.sub(r'<[^>]+>', '', metin)
     return temiz.replace('&amp;', '&').replace('&quot;', '"').strip()
 
 def haber_ekle(baslik, link, kaynak, tarih, aciklama="", resim=""):
     if not baslik or not link: return
-    # Aynı haberi iki kez eklememek için link kontrolü
     if link not in görülen_linkler:
         görülen_linkler.add(link)
         toplanan_haberler.append({
@@ -51,43 +49,38 @@ def haber_ekle(baslik, link, kaynak, tarih, aciklama="", resim=""):
             "u": link,
             "src": kaynak,
             "d": tarih or "",
-            "desc": temizle(aciklama)[:400], # Çok uzun açıklamaları frontend'i yormaması için kesiyoruz
+            "desc": temizle(aciklama)[:400],
             "img": resim
         })
 
-# --- 1. AŞAMA: GOOGLE NEWS TARAMASI ---
+# --- GOOGLE NEWS TARAMASI ---
 for sorgu in SORGULAR:
     url = GN_BASE + urllib.parse.quote(sorgu)
     try:
         req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
         response = urllib.request.urlopen(req, timeout=10).read()
         root = ET.fromstring(response)
-        
         for item in root.findall('.//item'):
             baslik = item.findtext('title')
             link = item.findtext('link') or item.findtext('guid')
             tarih = item.findtext('pubDate')
             kaynak = item.findtext('source') or "Google News"
-            
             haber_ekle(baslik, link, kaynak, tarih)
     except Exception as e:
-        print(f"Uyarı (Google News - {sorgu}): Veri çekilemedi.")
+        pass
 
-# --- 2. AŞAMA: YEREL RSS TARAMASI ---
+# --- YEREL RSS TARAMASI ---
 for rss in YEREL_RSS:
     try:
         req = urllib.request.Request(rss["url"], headers={'User-Agent': 'Mozilla/5.0'})
-        # Yerel siteler bazen yavaş yanıt verir, timeout'u 15 saniyeye çıkardık
         response = urllib.request.urlopen(req, timeout=15).read()
         root = ET.fromstring(response)
-        
         for item in root.findall('.//item'):
             baslik = item.findtext('title')
             link = item.findtext('link') or item.findtext('guid')
             tarih = item.findtext('pubDate')
             aciklama = item.findtext('description')
             
-            # Resim çıkarma (Enclosure tag'i kullanan siteler için)
             resim_url = ""
             enc = item.find('enclosure')
             if enc is not None and enc.get('type', '').startswith('image'):
@@ -95,11 +88,9 @@ for rss in YEREL_RSS:
                 
             haber_ekle(baslik, link, rss["ad"], tarih, aciklama, resim_url)
     except Exception as e:
-        print(f"Uyarı (Yerel RSS - {rss['ad']}): Site yanıt vermedi.")
+        pass
 
-# --- 3. AŞAMA: JSON DOSYASINI OLUŞTURMA ---
-# Dosyayı yazarken Türkçe karakterlerin (ş,ğ,ü vb.) bozulmaması için ensure_ascii=False kullanıyoruz
 with open('samsun_gundem.json', 'w', encoding='utf-8') as f:
     json.dump(toplanan_haberler, f, ensure_ascii=False, indent=4)
 
-print(f"BİLGİ: Toplam {len(toplanan_haberler)} adet haber başarıyla çekildi ve 'samsun_gundem.json' dosyasına yazıldı.")
+print(f"BİLGİ: {len(toplanan_haberler)} haber 'samsun_gundem.json' dosyasına yazıldı.")
