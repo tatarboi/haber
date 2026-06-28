@@ -75,9 +75,6 @@ main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative
 .sl{font-family:'Share Tech Mono',monospace;font-size:.56rem;color:var(--sub);letter-spacing:2px}
 .sv{font-family:'Orbitron',monospace;font-size:1.5rem;font-weight:700;color:var(--text);line-height:1}
 .sv.a{color:var(--accent2)}.sv.r{color:var(--red)}.sv.g{color:var(--green);font-size:.82rem;padding-top:.3rem;font-family:'Share Tech Mono',monospace}
-.nbanner{display:none;align-items:center;gap:1rem;justify-content:space-between;background:rgba(245,158,11,.06);border:1px solid rgba(245,158,11,.3);border-left:3px solid var(--amber);padding:.7rem 1.1rem;border-radius:6px;margin-bottom:.9rem}
-.nbanner p{font-size:.8rem;color:var(--amber);font-family:'Share Tech Mono',monospace}
-.nbtn{font-family:'Orbitron',monospace;font-size:.55rem;padding:5px 12px;border:1px solid var(--amber);background:transparent;color:var(--amber);cursor:pointer;border-radius:4px;letter-spacing:1.5px;}
 .cdstrip{display:none;align-items:center;gap:.8rem;margin-bottom:.9rem;padding:.4rem .9rem;background:var(--surface);border:1px solid var(--border2);border-radius:6px}
 .cdlabel{font-family:'Share Tech Mono',monospace;font-size:.58rem;color:var(--sub);white-space:nowrap}
 .cdtrack{flex:1;height:2px;background:var(--dim);border-radius:1px;overflow:hidden}
@@ -86,7 +83,6 @@ main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative
 .toolbar{display:flex;gap:.5rem;margin-bottom:.8rem;align-items:center;flex-wrap:wrap}
 .sbox{flex:1;min-width:150px;display:flex;align-items:center;gap:.5rem;background:var(--surface);border:1px solid var(--border2);border-radius:8px;padding:0 .8rem;}
 .sbox:focus-within{border-color:var(--accent);box-shadow:0 0 0 3px rgba(99,102,241,.1)}
-.sbox svg{width:13px;height:13px;opacity:.35;color:var(--accent2);flex-shrink:0}
 .sbox input{background:transparent;border:none;color:var(--text);padding:9px 0;font-family:'Share Tech Mono',monospace;font-size:.73rem;outline:none;width:100%}
 .sbox input::placeholder{color:var(--sub)}
 .fsel,.sortbtn,.clrbtn,.viewbtn,.dupbtn{background:var(--surface);border:1px solid var(--border2);color:var(--sub);padding:9px 11px;border-radius:8px;font-family:'Share Tech Mono',monospace;font-size:.66rem;cursor:pointer;outline:none;appearance:none;white-space:nowrap}
@@ -100,14 +96,10 @@ main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative
 .ni:last-child{border-bottom:none}
 .ni:hover{background:var(--surface2)}
 .ni::before{content:'';position:absolute;left:0;top:0;bottom:0;width:2px;background:var(--accent);transform:scaleY(0);transition:transform .2s}
-.ni:hover::before,.ni.fresh::before{transform:scaleY(1)}
-.ni.fresh::before{background:var(--red)}
-.ni.fresh{animation:freshIn .8s ease}
-@keyframes freshIn{0%{background:rgba(244,63,94,.08)}100%{background:transparent}}
+.ni:hover::before{transform:scaleY(1)}
 .ni.duplicate{opacity:.5}
 .ni-rank{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;border-right:1px solid var(--border)}
 .rn{font-family:'Orbitron',monospace;font-size:.62rem;font-weight:700;color:var(--dim)}
-.dup-badge{font-size:.45rem;font-family:'Share Tech Mono',monospace;color:var(--amber);border:1px solid rgba(245,158,11,.4);border-radius:3px;padding:1px 3px}
 .ni-content{display:flex;align-items:center;min-width:0}
 .ni-thumb{width:84px;height:84px;flex-shrink:0;overflow:hidden;position:relative;background:var(--surface2)}
 .ni-thumb img{width:100%;height:100%;object-fit:cover;opacity:.85;}
@@ -120,7 +112,6 @@ main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative
 .ni-src{font-family:'Share Tech Mono',monospace;font-size:.58rem;color:var(--accent2);letter-spacing:1px;}
 .ni-sep{color:var(--dim);font-size:.62rem}
 .ni-time{font-family:'Share Tech Mono',monospace;font-size:.58rem;color:var(--sub)}
-.ni-new{font-family:'Orbitron',monospace;font-size:.46rem;font-weight:700;letter-spacing:1.5px;color:var(--red);border:1px solid rgba(244,63,94,.5);padding:1px 4px;border-radius:3px;}
 .ni-arrow{display:flex;align-items:center;padding:0 .9rem;font-size:.85rem;color:var(--dim);transition:transform .2s}
 .ni:hover .ni-arrow{color:var(--accent2);transform:translateX(3px)}
 #news-container.grid-view{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:1px;background:var(--border2);}
@@ -141,13 +132,11 @@ main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative
 .esub{font-family:'Share Tech Mono',monospace;font-size:.73rem;color:var(--dim);max-width:280px;line-height:1.7}
 .day-group-hdr{padding:.45rem .9rem;background:var(--surface2);border-bottom:1px solid var(--border);display:flex;align-items:center;gap:.7rem}
 .day-group-hdr .dg-label{font-family:'Orbitron',monospace;font-size:.55rem;font-weight:700;color:var(--accent2);letter-spacing:2px}
-.day-group-hdr .dg-count{font-family:'Share Tech Mono',monospace;font-size:.56rem;color:var(--sub)}
 .day-group-hdr .dg-sep{flex:1;height:1px;background:var(--border)}
 #news-container.grid-view .day-group-hdr{grid-column:1/-1}
 .see-all{display:none;padding:.65rem;text-align:center;background:var(--surface)}
 .sa-btn{font-family:'Share Tech Mono',monospace;font-size:.68rem;color:var(--sub);background:transparent;border:1px solid var(--border2);padding:6px 18px;cursor:pointer;border-radius:6px;}
 #toasts{position:fixed;top:76px;right:16px;z-index:9999;display:flex;flex-direction:column;gap:.35rem;width:320px;pointer-events:none}
-.toast{background:rgba(9,9,15,0.97);border:1px solid var(--border2);border-left:3px solid var(--red);padding:.75rem .9rem;display:flex;gap:.6rem;border-radius:8px;pointer-events:all;box-shadow:0 8px 20px rgba(0,0,0,.4)}
 #modal-overlay{position:fixed;inset:0;z-index:10000;background:var(--modal-bg);display:flex;align-items:center;justify-content:center;padding:1rem;opacity:0;pointer-events:none;transition:opacity .2s}
 #modal-overlay.open{opacity:1;pointer-events:all}
 .modal{background:var(--surface);border:1px solid var(--border2);border-radius:14px;max-width:680px;width:100%;max-height:90vh;overflow:hidden;display:flex;flex-direction:column;position:relative}
@@ -214,7 +203,7 @@ main{max-width:1160px;margin:0 auto;padding:1.2rem 1.2rem 5rem;position:relative
     </div>
     <div class="logo-texts">
       <div class="logo-main"><em>SAMSUN</em> RADAR</div>
-      <div class="logo-sub">OSINT MERKEZİ PANEL · v5.0</div>
+      <div class="logo-sub">OSINT MERKEZİ PANEL · v5.1</div>
     </div>
     <div class="live-pill"><div class="live-dot"></div><span class="live-txt">CANLI</span></div>
   </div>
@@ -339,7 +328,7 @@ function cd(total){
   },1000);
 }
 
-// Güvenli ve Hatasız Merkezi Veri Okuma Fonksiyonu
+// Tamamen Kararlı Hale Getirilmiş JSON Okuma Fonksiyonu
 async function fetch_all(){ 
   dot('scan','VERİ OKUNUYOR'); 
   try { 
@@ -349,7 +338,7 @@ async function fetch_all(){
     const data = await response.json(); 
     news = []; 
     
-    data.forEach(item => { 
+    data.forEach((item, index) => { 
       let pubTime = 0;
       if (item.d) {
         const parsedDate = new Date(item.d);
@@ -359,6 +348,7 @@ async function fetch_all(){
       }
 
       news.push({
+        idx: index, // Eşleştirme hatasını önleyen benzersiz tamsayı kimliği
         id: item.id || item.u,
         t: item.t || 'Başlıksız Haber',
         u: item.u || '#',
@@ -381,7 +371,11 @@ async function fetch_all(){
   } 
 }
 
-function openModal(item){
+// Index bazlı çalışan güvenli modal açma fonksiyonu
+function openModalByIdx(idx){
+  const item = news.find(n => n.idx === parseInt(idx));
+  if(!item) return;
+
   const ov=document.getElementById('modal-overlay');
   const imgEl=document.getElementById('modal-img-el');
   const ph=document.getElementById('modal-placeholder');
@@ -392,7 +386,6 @@ function openModal(item){
   imgEl.style.display='none'; ph.style.display='flex';
   
   if(item.img){
-    // Resim engellerini kökten çözen wsrv.nl CDN proxy entegrasyonu
     const proxied = `https://wsrv.nl/?url=${encodeURIComponent(item.img)}&w=600&output=webp`;
     imgEl.src=proxied;
     imgEl.onload=()=>{imgEl.style.display='block'; ph.style.display='none';};
@@ -425,13 +418,14 @@ function render(){
     const items=g.items.map((n,i)=>{
       const isDup=dupSet.has(n.id);
       if(isDup&&hideDups) return '';
-      // Thumbnail optimizasyonu
+      
       const thumbUrl = n.img ? `https://wsrv.nl/?url=${encodeURIComponent(n.img)}&w=150&output=webp` : '';
       const thumb=thumbUrl 
         ? `<div class="ni-thumb"><img src="${thumbUrl}" loading="lazy" onerror="this.style.display='none'"></div>`
         : `<div class="ni-thumb"><div class="thumb-placeholder"><span class="thumb-icon">📰</span></div></div>`;
         
-      return `<div class="ni ${isDup?'duplicate':''}" onclick="openModal(${JSON.stringify(n).replace(/"/g, '&quot;')})">
+      // Nesneyi HTML tırnaklarıyla boğmak yerine sadece index değerini gönderiyoruz (Çökmeyi önleyen can damarı)
+      return `<div class="ni ${isDup?'duplicate':''}" onclick="openModalByIdx(${n.idx})">
         <div class="ni-rank"><span class="rn">${String(i+1).padStart(2,'0')}</span></div>
         <div class="ni-content">${thumb}<div class="ni-body"><div class="ni-title">${n.t}</div><div class="ni-meta"><span class="ni-src">${n.src}</span></div></div></div>
         <div class="ni-arrow">›</div>
