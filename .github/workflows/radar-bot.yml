@@ -1,31 +1,34 @@
-name: Samsun Radar OSINT Botu
+name: Samsun Haber Radar Botu
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # Her 15 dakikada bir otomatik çalışır
-  workflow_dispatch: # GitHub sayfasından manuel tetikleme butonu ekler
+    - cron: '0 * * * *' # Her saat başı çalışır
+  workflow_dispatch: # GitHub üzerinden manuel tetikleme butonu koyar
 
 jobs:
-  tarama-yap:
+  guncelle:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Projeyi Çek
-        uses: actions/checkout@v4 # v3'ten v4'e güncellendi (Node.js uyarısını çözer)
+    - name: Depoyu Çek
+      uses: actions/checkout@v3
+
+    - name: Python Ortamını Kur
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
         
-      - name: Python Ortamını Kur
-        uses: actions/setup-python@v5 # v4'ten v5'e güncellendi (Node.js uyarısını çözer)
-        with:
-          python-version: '3.10'
-          
-      - name: Tarayıcı Botu Çalıştır
-        run: python tarayıcı.py
+    - name: Gerekli Kütüphaneleri Yükle
+      run: |
+        pip install -r requirements.txt
         
-      - name: Yeni Haberleri GitHub'a Kaydet (Commit)
-        run: |
-          git config --global user.name 'SamsunRadar-Bot'
-          git config --global user.email 'bot@samsunradar.local'
-          git add samsun_gundem.json
-          # Eğer yeni haber varsa kaydet, yoksa hata verme yoksay
-          git commit -m "Radar güncellendi: Yeni haberler eklendi" || exit 0
-          git push
+    - name: Haberleri Tara ve JSON Oluştur
+      run: python taray.py
+        
+    - name: Değişiklikleri Commit Et ve Gönder
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action Bot"
+        git add samsun_gundem.json
+        git commit -m "Güncel Samsun Haberleri Çekildi" || echo "Değişiklik yok, commit atlanıyor."
+        git push
