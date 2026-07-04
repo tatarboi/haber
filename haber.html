@@ -28,7 +28,7 @@
 
     <script>
         async function haberleriGetir() {
-            // Eğer dosya lokalden çift tıklanarak açıldıysa direkt hata mesajını göster
+            // Lokal açılış CORS blokajı
             if (window.location.protocol === "file:") {
                 document.getElementById('hata-alani').classList.remove('hidden');
                 document.getElementById('haberler').innerHTML = '';
@@ -36,7 +36,7 @@
             }
 
             try {
-                // Tarayıcı önbelleğini kırmak için rastgele parametre ekliyoruz
+                // Tarayıcı önbelleğini atlatmak için versiyonlama
                 const url = 'samsun_gundem.json?v=' + new Date().getTime();
                 const response = await fetch(url);
                 
@@ -47,18 +47,24 @@
                 listeDiv.innerHTML = ''; 
 
                 haberler.forEach(haber => {
+                    // "Undefined" hatasını engelleyen varsayılan korumalar
+                    const baslik = haber.baslik || "Başlık bulunamadı";
+                    const link = haber.link || "#";
+                    const kaynak = haber.kaynak || "Samsun Haber";
+                    const tarih = haber.tarih || "Tarih belirsiz";
+
                     const html = `
-                        <a href="${haber.link}" target="_blank" class="block bg-white p-5 rounded-lg shadow-sm border border-gray-200 hover:shadow-md hover:border-red-300 transition-all duration-200 group">
+                        <a href="${link}" target="_blank" class="block bg-white p-5 rounded-lg shadow-sm border border-gray-200 hover:shadow-md hover:border-red-300 transition-all duration-200 group">
                             <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-2">
                                 <span class="inline-flex items-center px-2.5 py-0.5 rounded text-xs font-bold bg-gray-100 text-red-600 mb-2 sm:mb-0">
-                                    ${haber.kaynak}
+                                    ${kaynak}
                                 </span>
                                 <span class="text-xs font-medium text-gray-400">
-                                    ${haber.tarih}
+                                    ${tarih}
                                 </span>
                             </div>
                             <h2 class="text-lg font-bold text-gray-800 group-hover:text-red-600 transition-colors">
-                                ${haber.baslik}
+                                ${baslik}
                             </h2>
                         </a>
                     `;
