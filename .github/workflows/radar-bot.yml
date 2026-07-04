@@ -3,7 +3,7 @@ name: Samsun RSS Otomasyonu
 on:
   schedule:
     - cron: '0 * * * *' # Her saat başı tetiklenir
-  workflow_dispatch: # İstersen GitHub'dan elle tetikleyebilirsin
+  workflow_dispatch: # Manuel tetikleme butonu
 
 permissions:
   contents: write
@@ -26,7 +26,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install feedparser requests
         
-    - name: Tarama Betiğini Çalıştır (tarayici.py)
+    - name: Tarama Betiğini Çalıştır
       run: python tarayici.py
         
     - name: Değişiklikleri Kaydet (Commit & Push)
