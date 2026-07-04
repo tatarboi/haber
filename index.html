@@ -1,33 +1,15 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Samsun Haber Radarı - Giriş</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="refresh" content="0; url=haber.html">
+<title>Samsun Radar</title>
+<script>
+  window.location.replace('haber.html');
+</script>
 </head>
-<body class="bg-gray-900 text-white h-screen flex flex-col items-center justify-center antialiased">
-
-    <div class="text-center">
-        <!-- Radar Animasyonu -->
-        <div class="relative flex justify-center items-center mb-10">
-            <div class="absolute animate-ping inline-flex h-24 w-24 rounded-full bg-red-500 opacity-75"></div>
-            <div class="relative inline-flex rounded-full h-16 w-16 bg-red-600 border-4 border-gray-900 shadow-lg"></div>
-        </div>
-        
-        <!-- Başlık ve Açıklama -->
-        <h1 class="text-4xl md:text-5xl font-black mb-4 tracking-tight uppercase">
-            Samsun <span class="text-red-500">Radarı</span>
-        </h1>
-        <p class="text-gray-400 mb-10 max-w-sm mx-auto font-medium">
-            Sistem taranıyor... Şehrin en net ve kesintisiz haber akış ağına hoş geldiniz.
-        </p>
-        
-        <!-- Yönlendirme Butonu -->
-        <a href="haber.html" class="inline-block bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-8 rounded-full shadow-[0_0_15px_rgba(220,38,38,0.5)] hover:shadow-[0_0_25px_rgba(220,38,38,0.8)] transition-all duration-300 transform hover:-translate-y-1">
-            Ağa Bağlan ve Haberleri Gör
-        </a>
-    </div>
-
+<body>
+  <p>Samsun Radar açılıyor. Yönlendirme çalışmazsa <a href="haber.html">haber.html</a> sayfasına gidin.</p>
 </body>
 </html>
