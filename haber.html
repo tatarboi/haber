@@ -4,120 +4,77 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Samsun Haber Radarı</title>
-    <style>
-        * { box-sizing: border-box; }
-        body { 
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
-            background-color: #f0f2f5; 
-            margin: 0; 
-            padding: 20px 10px; 
-            color: #1c1e21; 
-        }
-        .container { 
-            max-width: 700px; 
-            margin: 0 auto; 
-        }
-        .baslik-alani {
-            text-align: center;
-            margin-bottom: 25px;
-        }
-        .baslik-alani h1 {
-            color: #d32f2f;
-            margin: 0;
-            font-size: 28px;
-            letter-spacing: -0.5px;
-        }
-        .haber-listesi { 
-            display: flex; 
-            flex-direction: column; 
-            gap: 12px; 
-        }
-        .haber-satiri { 
-            background: #ffffff; 
-            padding: 16px 20px; 
-            border-radius: 8px; 
-            box-shadow: 0 1px 2px rgba(0,0,0,0.1); 
-            text-decoration: none; 
-            color: inherit; 
-            border-left: 4px solid #d32f2f;
-            transition: background-color 0.2s, transform 0.2s; 
-            display: flex;
-            flex-direction: column;
-        }
-        .haber-satiri:hover { 
-            background-color: #f9f9f9;
-            transform: translateX(4px);
-        }
-        .haber-basligi { 
-            font-size: 16px; 
-            font-weight: 600; 
-            line-height: 1.4;
-            margin-bottom: 8px;
-        }
-        .haber-detay { 
-            font-size: 13px; 
-            color: #65676b; 
-            display: flex; 
-            justify-content: space-between; 
-            align-items: center;
-        }
-        .haber-kaynak { 
-            font-weight: bold; 
-            color: #d32f2f; 
-            background: #ffebee;
-            padding: 2px 8px;
-            border-radius: 12px;
-            font-size: 11px;
-        }
-        .yukleniyor { text-align: center; color: #666; font-style: italic; }
-    </style>
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
+<body class="bg-gray-100 text-gray-900 font-sans antialiased p-4 md:p-8">
 
-    <div class="container">
-        <div class="baslik-alani">
-            <h1>Samsun Haberleri</h1>
+    <div class="max-w-3xl mx-auto">
+        <header class="mb-8 border-b-4 border-red-600 pb-4">
+            <h1 class="text-3xl font-black text-gray-800 uppercase tracking-tight">
+                Samsun <span class="text-red-600">Gündem</span>
+            </h1>
+            <p class="text-sm text-gray-500 mt-1 font-medium">Şehrin nabzı, en güncel haberler.</p>
+        </header>
+
+        <div id="hata-alani" class="hidden bg-red-100 border-l-4 border-red-500 text-red-700 p-4 mb-6" role="alert">
+            <p class="font-bold">Güvenlik Engeli (CORS)!</p>
+            <p>HTML dosyasını bilgisayarınızda çift tıklayarak açtığınız için tarayıcı JSON dosyasını okuyamıyor. Lütfen dosyayı GitHub Pages üzerinden açın veya bir lokal sunucu (python -m http.server) kullanın.</p>
         </div>
 
-        <div id="haberler" class="haber-listesi">
-            <div class="yukleniyor">Haberler çekiliyor...</div>
+        <div id="haberler" class="space-y-4">
+            <div class="text-center text-gray-500 animate-pulse font-semibold">Sistem taranıyor, haberler çekiliyor...</div>
         </div>
     </div>
 
     <script>
         async function haberleriGetir() {
+            // Eğer dosya lokalden çift tıklanarak açıldıysa direkt hata mesajını göster
+            if (window.location.protocol === "file:") {
+                document.getElementById('hata-alani').classList.remove('hidden');
+                document.getElementById('haberler').innerHTML = '';
+                return;
+            }
+
             try {
-                // Tarayıcı önbelleğini aşmak için zaman damgası ekliyoruz
-                const url = 'samsun_gundem.json?t=' + new Date().getTime();
+                // Tarayıcı önbelleğini kırmak için rastgele parametre ekliyoruz
+                const url = 'samsun_gundem.json?v=' + new Date().getTime();
                 const response = await fetch(url);
-                const haberler = await response.json();
                 
+                if (!response.ok) throw new Error("JSON dosyası bulunamadı.");
+                
+                const haberler = await response.json();
                 const listeDiv = document.getElementById('haberler');
-                listeDiv.innerHTML = ''; // Yükleniyor yazısını temizle
+                listeDiv.innerHTML = ''; 
 
                 haberler.forEach(haber => {
-                    const linkElemani = document.createElement('a');
-                    linkElemani.className = 'haber-satiri';
-                    linkElemani.href = haber.link;
-                    linkElemani.target = '_blank';
-                    
-                    linkElemani.innerHTML = `
-                        <div class="haber-basligi">${haber.baslik}</div>
-                        <div class="haber-detay">
-                            <span class="haber-kaynak">${haber.kaynak}</span>
-                            <span>${haber.tarih}</span>
-                        </div>
+                    const html = `
+                        <a href="${haber.link}" target="_blank" class="block bg-white p-5 rounded-lg shadow-sm border border-gray-200 hover:shadow-md hover:border-red-300 transition-all duration-200 group">
+                            <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-2">
+                                <span class="inline-flex items-center px-2.5 py-0.5 rounded text-xs font-bold bg-gray-100 text-red-600 mb-2 sm:mb-0">
+                                    ${haber.kaynak}
+                                </span>
+                                <span class="text-xs font-medium text-gray-400">
+                                    ${haber.tarih}
+                                </span>
+                            </div>
+                            <h2 class="text-lg font-bold text-gray-800 group-hover:text-red-600 transition-colors">
+                                ${haber.baslik}
+                            </h2>
+                        </a>
                     `;
-                    listeDiv.appendChild(linkElemani);
+                    listeDiv.innerHTML += html;
                 });
 
             } catch (hata) {
-                console.error("Hata:", hata);
-                document.getElementById('haberler').innerHTML = '<div style="color:red; text-align:center; padding:20px; background:#fff; border-radius:8px;">Haberler yüklenirken bir sorun oluştu!</div>';
+                console.error("Sistem Hatası:", hata);
+                document.getElementById('haberler').innerHTML = `
+                    <div class="bg-yellow-50 text-yellow-800 p-4 rounded-lg border border-yellow-200 text-center">
+                        <p class="font-bold">JSON Dosyası Okunamadı</p>
+                        <p class="text-sm mt-1">Python betiğinin çalışıp <b>samsun_gundem.json</b> dosyasını oluşturduğundan emin olun.</p>
+                    </div>`;
             }
         }
 
-        // Sayfa açıldığında fonksiyonu tetikle
         haberleriGetir();
     </script>
 </body>
