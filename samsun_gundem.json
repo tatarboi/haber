@@ -1,5 +1,525 @@
 [
   {
+    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNmk5ZE1qbHBWOWVueS1qaGNxOTd0b1RmZmRFWk9nZjVqRVMwRDNJM2diRWd4OVRFb2k4VTY1RWxqemZjWG9oWEVuWHRYYmJXSHlQTURzU2p1Y0JQQUU1YmlwRjIyeEt2Tk5NRWZtb08tMTZUTzhRcmtSU3JOd1l1QWI1LW1qOXBjWno1V1RUSk82eEdzWEdsMERSQVpyY2sxNkdVb1BhMENzVE81Xzhv?oc=5",
+    "t": "Samsun'da kediye tekme atan şüpheli tutuklandı! 'Sinirliydim, pişmanım' - Hürriyet",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNmk5ZE1qbHBWOWVueS1qaGNxOTd0b1RmZmRFWk9nZjVqRVMwRDNJM2diRWd4OVRFb2k4VTY1RWxqemZjWG9oWEVuWHRYYmJXSHlQTURzU2p1Y0JQQUU1YmlwRjIyeEt2Tk5NRWZtb08tMTZUTzhRcmtSU3JOd1l1QWI1LW1qOXBjWno1V1RUSk82eEdzWEdsMERSQVpyY2sxNkdVb1BhMENzVE81Xzhv?oc=5",
+    "src": "Hürriyet",
+    "d": "2026-07-16T12:37:53+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWTVWeGdfLTlHb0xQc2JpNzkxZXRsb1ctTlVwcHhpeFFhM0VRbHRTTWZvaGRyOXRhMnQ1dDNsRFdQNmswbUdrZDlCODVCUU9zVlJMZ3BvUndOVDVWOU5TR1ZSdzY0UnhTTk1SbkticHZzdUV4MGY4SXZFRkRReGM2S0hXMWdHSTRn?oc=5",
+    "t": "Samsun'da kediyi tekmeleyen kişi tutuklandı - Halk TV",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWTVWeGdfLTlHb0xQc2JpNzkxZXRsb1ctTlVwcHhpeFFhM0VRbHRTTWZvaGRyOXRhMnQ1dDNsRFdQNmswbUdrZDlCODVCUU9zVlJMZ3BvUndOVDVWOU5TR1ZSdzY0UnhTTk1SbkticHZzdUV4MGY4SXZFRkRReGM2S0hXMWdHSTRn?oc=5",
+    "src": "Halk TV",
+    "d": "2026-07-16T12:35:00+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOenRKQTdvZGhhS3Ewa1BTMklFcERwZzRfcHo1VHVwZGlQX3F6M0NILTVaVEN1bG1tSldCbGFUbW5XTWFSaExCVlFEaVR3UkxSaEtNQ2FYMzQ2RlZkMlF2YlF6RUlub2J6ZThKcXZIM1lpblpGMy1vUXh6anBmX0NlMjlvaVZxazE5S3VlZTRtaDhiTmRveXROSjhHemQ4Z9IBogFBVV95cUxNSmV3ODByaHZzMUxlRmRhdjAwMmdLeEdHU2tiRFBXRzdySHJna0l6MlJ3UUxuNmlTcjhRX0JZNGJWbFRyT01Lbk91MDVZTmt0amdiNDRZbHR4dUxSNDJCQUc1YlhDSHY2N21ud1VyeVBELW90Q3hxVUdVS3ZtUEZSSll1TXdNSUlHYkQtSGVjUHp3STFZamRPRXJENUwwRENBV2c?oc=5",
+    "t": "Samsun- Kediye tekme atan şüpheli yakalandı (2) - DHA | Demirören Haber Ajansı",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOenRKQTdvZGhhS3Ewa1BTMklFcERwZzRfcHo1VHVwZGlQX3F6M0NILTVaVEN1bG1tSldCbGFUbW5XTWFSaExCVlFEaVR3UkxSaEtNQ2FYMzQ2RlZkMlF2YlF6RUlub2J6ZThKcXZIM1lpblpGMy1vUXh6anBmX0NlMjlvaVZxazE5S3VlZTRtaDhiTmRveXROSjhHemQ4Z9IBogFBVV95cUxNSmV3ODByaHZzMUxlRmRhdjAwMmdLeEdHU2tiRFBXRzdySHJna0l6MlJ3UUxuNmlTcjhRX0JZNGJWbFRyT01Lbk91MDVZTmt0amdiNDRZbHR4dUxSNDJCQUc1YlhDSHY2N21ud1VyeVBELW90Q3hxVUdVS3ZtUEZSSll1TXdNSUlHYkQtSGVjUHp3STFZamRPRXJENUwwRENBV2c?oc=5",
+    "src": "DHA | Demirören Haber Ajansı",
+    "d": "2026-07-16T12:34:07+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://www.samsungazetesi.com/video/samsunda-kacak-sigaraya-gecit-yok-2-supheli-adliyede",
+    "t": "Samsun'da kaçak sigaraya geçit yok! 2 şüpheli adliyede",
+    "u": "https://www.samsungazetesi.com/video/samsunda-kacak-sigaraya-gecit-yok-2-supheli-adliyede",
+    "src": "Samsun Gazetesi",
+    "d": "2026-07-16T15:26:00+03:00",
+    "desc": "Samsun'un İlkadım ilçesinde polis ekiplerince düzenlenen operasyonda bir kamyonette ele geçen 1 milyon 350 bin adet kaçak makaron ile ilgili gözaltına alınan 2 kişi adliyeye sevk edildi.",
+    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/samsunda-kacak-sigaraya-gecit-yok.jpg",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://www.samsunhaber.com/atakum-sahilinde-isgal-denetimi-kumsaldaki-masa-sandalye-ve-sezlonglar-kaldirildi",
+    "t": "Atakum sahilinde işgal denetimi: Kumsaldaki masa, sandalye ve şezlonglar kaldırıldı",
+    "u": "https://www.samsunhaber.com/atakum-sahilinde-isgal-denetimi-kumsaldaki-masa-sandalye-ve-sezlonglar-kaldirildi",
+    "src": "Samsun Haber",
+    "d": "2026-07-16T15:26:00+03:00",
+    "desc": "Samsun'un Atakum ve 19 Mayıs ilçe sahil bandını işgal eden masa ve sandalyeler, ekiplerce kaldırıldı.",
+    "img": "https://samsunhabercom.teimg.com/crop/1280x720/samsunhaber-com/uploads/2026/07/masa-6.jpg",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://www.samsunhaber.com/video/atakum-sahilinde-isgal-denetimi-kumsaldaki-masa-sandalye-ve-sezlonglar-kaldirildi",
+    "t": "Atakum sahilinde işgal denetimi: Kumsaldaki masa, sandalye ve şezlonglar kaldırıldı",
+    "u": "https://www.samsunhaber.com/video/atakum-sahilinde-isgal-denetimi-kumsaldaki-masa-sandalye-ve-sezlonglar-kaldirildi",
+    "src": "Samsun Haber",
+    "d": "2026-07-16T15:26:00+03:00",
+    "desc": "Samsun'un Atakum ve 19 Mayıs ilçe sahil bandını işgal eden masa ve sandalyeler, ekiplerce kaldırıldı.",
+    "img": "https://samsunhabercom.teimg.com/crop/1280x720/samsunhaber-com/uploads/2026/07/masa-6.jpg",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT0ZMMVJBa0c0dmhHeXlqNEVEcEh6Qzl2and1LU9CQlI4U0pvOTZvWTZ5Q2toaUZJd3E5UXVxSm1mV1NSTUVGZDc3SlQyUXFJeWx4Zk1fM3BQMFdjR3VnbXRNYWJhbjJDazVDdjUtVVV6ai1SRzlWdm5xM2FGdGdIQV81Y3BiYXk1eHphN3BCMFQ4LVJXMWM2blE2eUl4V1BraVk5Z2F1aDk4VF9QckgxUVdVVTN2Zw?oc=5",
+    "t": "Atakum sahilinde işgal denetimi: Kumsaldaki masa, sandalye ve şezlonglar kaldırıldı - Samsun Haber",
+    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT0ZMMVJBa0c0dmhHeXlqNEVEcEh6Qzl2and1LU9CQlI4U0pvOTZvWTZ5Q2toaUZJd3E5UXVxSm1mV1NSTUVGZDc3SlQyUXFJeWx4Zk1fM3BQMFdjR3VnbXRNYWJhbjJDazVDdjUtVVV6ai1SRzlWdm5xM2FGdGdIQV81Y3BiYXk1eHphN3BCMFQ4LVJXMWM2blE2eUl4V1BraVk5Z2F1aDk4VF9QckgxUVdVVTN2Zw?oc=5",
+    "src": "Samsun Haber",
+    "d": "2026-07-16T12:26:00+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVFpHOXR1OEF3eHJIU0tBdXRGSFVqWGdhaFNOMmlIbWZrWjJhS2NkWWpEbUYyWWRXOVlPUDZzWndGRUcwNzJabHRGTml5dUVCeFU4M2JoTzlhQ0xiX2l2NVF6U0hqWVZKSHdrMGZzWWM3YnpHa3V4U2p2ejFCN0JoTDVSSm9wRko5Z2l6UGFtaksyT3VQ0gGYAUFVX3lxTE9jeEsydWVxNWZjOENrazVFWTlDYkpkRU41c1FZbFZDZEtEVnU4UHZZaUZ4ZTFhc0ZPYmRmMExMZmowUC0yQ2ZxSkFoOWh1Q0lyMTNCUEFTRVBicU1tMllnTkJmSldyTThZTC1NbG5TWGxMbHNkM0owX0RWSkdvVDNZU05udHFTN0M1c2syNmFzYzhOQ2oxMzFQ?oc=5",
+    "t": "Kediye tekme atan şüpheli yakalandı (2) - DHA | Demirören Haber Ajansı",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVFpHOXR1OEF3eHJIU0tBdXRGSFVqWGdhaFNOMmlIbWZrWjJhS2NkWWpEbUYyWWRXOVlPUDZzWndGRUcwNzJabHRGTml5dUVCeFU4M2JoTzlhQ0xiX2l2NVF6U0hqWVZKSHdrMGZzWWM3YnpHa3V4U2p2ejFCN0JoTDVSSm9wRko5Z2l6UGFtaksyT3VQ0gGYAUFVX3lxTE9jeEsydWVxNWZjOENrazVFWTlDYkpkRU41c1FZbFZDZEtEVnU4UHZZaUZ4ZTFhc0ZPYmRmMExMZmowUC0yQ2ZxSkFoOWh1Q0lyMTNCUEFTRVBicU1tMllnTkJmSldyTThZTC1NbG5TWGxMbHNkM0owX0RWSkdvVDNZU05udHFTN0M1c2syNmFzYzhOQ2oxMzFQ?oc=5",
+    "src": "DHA | Demirören Haber Ajansı",
+    "d": "2026-07-16T12:22:27+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://www.samsungazetesi.com/naci-gorurden-yeni-deprem-uyarisi-gerilim-artiyor",
+    "t": "Naci Görür'den yeni deprem uyarısı! \"Gerilim artıyor\"",
+    "u": "https://www.samsungazetesi.com/naci-gorurden-yeni-deprem-uyarisi-gerilim-artiyor",
+    "src": "Samsun Gazetesi",
+    "d": "2026-07-16T15:15:00+03:00",
+    "desc": "Marmara'da 3,9 büyüklüğündeki depremin ardından Prof. Dr. Naci Görür'den dikkat çeken uyarı geldi. Ünlü yer bilimci, faylardaki gerilime ilişkin önemli değerlendirmelerde bulundu.",
+    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/naci-gorurden-yeni-deprem-uyarisi.jpg",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://www.samsungazetesi.com/video/samsunda-kediye-tekme-atan-zanli-tutuklandi",
+    "t": "Samsun'da kediye tekme atan zanlı tutuklandı!",
+    "u": "https://www.samsungazetesi.com/video/samsunda-kediye-tekme-atan-zanli-tutuklandi",
+    "src": "Samsun Gazetesi",
+    "d": "2026-07-16T15:15:00+03:00",
+    "desc": "Samsun'un İlkadım ilçesinde esnafın baktığı bir kediye yoldan geçerken tekme atan ve o anlar güvenlik kamerasına yansıyan şahıs, çıkarıldığı mahkemece tutuklandı. Tutuklanan şahıs adliye çıkışı gazetecilere, 'Sinirliydim, pişmanım' dedi.",
+    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/samsunda-kediye-tekme-atan-zanlinin-ifadesi-ortaya-cikti.jpg",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNUUxemZ0QkMtMllQbTZQQ0c3cXQ5SEhRNTNPZW9QeEE5ZUU3NWdsVHZ6VWZ0WFVsOFZLR2hfay1KcXNjd1hDaUF0VmduMEh1LWU4N3NuMXRDdEI5V0JYdC10cmtVdWt2ZU5OcHRhdkEtWTd2S3o2TFljYmlhbmRWV3c5dWNDZ3NsQkE?oc=5",
+    "t": "Samsun'da kediye tekme atan kişi tutuklandı - Evrensel.net",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNUUxemZ0QkMtMllQbTZQQ0c3cXQ5SEhRNTNPZW9QeEE5ZUU3NWdsVHZ6VWZ0WFVsOFZLR2hfay1KcXNjd1hDaUF0VmduMEh1LWU4N3NuMXRDdEI5V0JYdC10cmtVdWt2ZU5OcHRhdkEtWTd2S3o2TFljYmlhbmRWV3c5dWNDZ3NsQkE?oc=5",
+    "src": "Evrensel.net",
+    "d": "2026-07-16T12:09:11+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGVPWFB2WGc1dS1LbTFXay1nRDZLSGpBdkRxSmljNVFFbVNsSFNaaVJzUTVUTHAzRGhST2Rra1g1U0R1WHhUeS1icnJFZElFcGZZM1NsVFhxclR5WUFCZGFobDVraEZYZ2FMYWgzRzhuUjJGR3BYT2pRUFZrc0x0Y0JoSEVMdmNSbENrcEFoUjRHVWVUQnJWVHZLTTFDUmxhWXc?oc=5",
+    "t": "Samsun'da kediye tekme atan şüpheli tutuklandı - Dünya Gazetesi",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGVPWFB2WGc1dS1LbTFXay1nRDZLSGpBdkRxSmljNVFFbVNsSFNaaVJzUTVUTHAzRGhST2Rra1g1U0R1WHhUeS1icnJFZElFcGZZM1NsVFhxclR5WUFCZGFobDVraEZYZ2FMYWgzRzhuUjJGR3BYT2pRUFZrc0x0Y0JoSEVMdmNSbENrcEFoUjRHVWVUQnJWVHZLTTFDUmxhWXc?oc=5",
+    "src": "Dünya Gazetesi",
+    "d": "2026-07-16T12:09:00+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://www.samsungazetesi.com/samsunda-kediye-tekme-atan-zanlinin-ifadesi-ortaya-cikti-sinirliydim",
+    "t": "Samsun'da kediye tekme atan zanlının ifadesi ortaya çıktı: \"Sinirliydim\"",
+    "u": "https://www.samsungazetesi.com/samsunda-kediye-tekme-atan-zanlinin-ifadesi-ortaya-cikti-sinirliydim",
+    "src": "Samsun Gazetesi",
+    "d": "2026-07-16T15:08:00+03:00",
+    "desc": "SAMSUN HABER... Samsun'da esnafın baktığı kediye tekme atan 29 yaşındaki şüpheli tutuklandı. Zanlı, adliye çıkışında gazetecilere, \"Sinirliydim, pişmanım\" dedi.",
+    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/samsunda-kediye-tekme-atan-zanlinin-ifadesi-ortaya-ciktijpg-1.jpg",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://www.samsungazetesi.com/samsunda-kacak-sigaraya-gecit-yok-2-supheli-adliyede",
+    "t": "Samsun'da kaçak sigaraya geçit yok! 2 şüpheli adliyede",
+    "u": "https://www.samsungazetesi.com/samsunda-kacak-sigaraya-gecit-yok-2-supheli-adliyede",
+    "src": "Samsun Gazetesi",
+    "d": "2026-07-16T15:06:00+03:00",
+    "desc": "SAMSUN HABER... Samsun'da polis ekiplerinin düzenlediği operasyonda bir kamyonette 1 milyon 350 bin adet kaçak makaron ele geçirildi. Gözaltına alınan 2 şüpheli, emniyetteki işlemlerinin ardından adliyeye sevk edildi.",
+    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/samsunda-uyusturucu-operasyonu-2.jpg",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYklTM2NNWHAxSVNJd2JkRkItUngwWXlUakg5LXZMLXE5M2tSU1hzY3Ric3JQdXhVUHRaczFqM3R6eVdtYTdXeUV6QVBDY0ZmdUlxVjhQczRGeC1XY2RNN2NXQkJ1S1E0c3AyTW9pbUhPdS1oRnhFSDJuMEE3Sl9tdWdYc01DU2NMOFB6NlhBSkdldGQxeW1CQ1hySGN2dmRiSGtNc1g5dFFnZzh3ZW94NFotdUdad0V3MlcxOGhJdTlFaTQ0Vmxra3JR0gFXQVVfeXFMTzZpTDB1cjdjWGx1anFTNEQySG1xR3owSjgyVkpCZDZiRWhCRTJXaGNIV1NIVE5yTHN6a0hWOGZ6c3l5VVlNNks1Y0Q2ZDEyU0w1S3dqQXNB?oc=5",
+    "t": "Samsun İlkadım'da Kediye Tekme Atan Şahıs, Mahkemece Tutuklandı ve Pişman Olduğunu Açıkladı - Mersin Haber",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYklTM2NNWHAxSVNJd2JkRkItUngwWXlUakg5LXZMLXE5M2tSU1hzY3Ric3JQdXhVUHRaczFqM3R6eVdtYTdXeUV6QVBDY0ZmdUlxVjhQczRGeC1XY2RNN2NXQkJ1S1E0c3AyTW9pbUhPdS1oRnhFSDJuMEE3Sl9tdWdYc01DU2NMOFB6NlhBSkdldGQxeW1CQ1hySGN2dmRiSGtNc1g5dFFnZzh3ZW94NFotdUdad0V3MlcxOGhJdTlFaTQ0Vmxra3JR0gFXQVVfeXFMTzZpTDB1cjdjWGx1anFTNEQySG1xR3owSjgyVkpCZDZiRWhCRTJXaGNIV1NIVE5yTHN6a0hWOGZ6c3l5VVlNNks1Y0Q2ZDEyU0w1S3dqQXNB?oc=5",
+    "src": "Mersin Haber",
+    "d": "2026-07-16T12:02:00+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://www.samsuncanlihaber.com/kediye-tekme-atan-sahis-tutuklandi-sinirliydim-pismanim",
+    "t": "Kediye tekme atan şahıs tutuklandı: 'Sinirliydim, pişmanım'",
+    "u": "https://www.samsuncanlihaber.com/kediye-tekme-atan-sahis-tutuklandi-sinirliydim-pismanim",
+    "src": "Samsun Canlı Haber",
+    "d": "2026-07-16T15:02:00+03:00",
+    "desc": "Samsun'un İlkadım ilçesinde esnafın baktığı bir kediye yoldan geçerken tekme atan ve o anlar güvenlik kamerasına yansıyan şahıs, çıkarıldığı mahkemece tutuklandı. Tutuklanan şahıs adliye çıkışı gazetecilere, 'Sinirliydim, pişmanım' dedi.",
+    "img": "https://samsuncanlihabercom.teimg.com/crop/1280x720/samsuncanlihaber-com/uploads/2026/07/samsunda-kediye-tekme-atan-zanlinin-ifadesi-ortaya-cikti.jpg",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BUVc0R1pvU1U2WF83RjQ1dy1aSEY3bFUtYU44Y2dfNXpWQUl1NldadEJfLWV5TGdtSTNxRlBHcnFVUjI0aW1vOW8wRGJ6dDhCSFpGRjNYZWZneTVNZlg2MFowYlVnWmJmM181ZUFPalNyZ2l3?oc=5",
+    "t": "Samsun'da kedi tekmeleyen kişi tutuklandı - Diken",
+    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BUVc0R1pvU1U2WF83RjQ1dy1aSEY3bFUtYU44Y2dfNXpWQUl1NldadEJfLWV5TGdtSTNxRlBHcnFVUjI0aW1vOW8wRGJ6dDhCSFpGRjNYZWZneTVNZlg2MFowYlVnWmJmM181ZUFPalNyZ2l3?oc=5",
+    "src": "Diken",
+    "d": "2026-07-16T12:01:53+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://www.samsunhaber.com/samsunspor-guc-depoluyor-2",
+    "t": "Samsunspor GÜÇ DEPOLUYOR",
+    "u": "https://www.samsunhaber.com/samsunspor-guc-depoluyor-2",
+    "src": "Samsun Haber",
+    "d": "2026-07-16T15:01:00+03:00",
+    "desc": "Kırmızı beyazlı oyuncular, fitness salonunda yapılan antrenmanda kuvvet, dayanıklılık ve rejenerasyon (yenilenme) çalışmalarına ağırlık verildi.",
+    "img": "https://samsunhabercom.teimg.com/crop/1280x720/samsunhaber-com/uploads/2026/07/depo-7.jpg",
+    "kat": "Spor"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcXdLVWhiWjlySDFqSlFwQkZDa2JndXk0ek12ckJIcFA3a2NIcXprTzY5X242TXlvY2NFUVFseS1aMU93QmxCRERGWVd0U3NpWVctdzhpeVBzcmxDa1FtdzFuTm5DV0NDbU9HX3A5SGFqT2lxb3kyanVXTFExcXpGcExjS0g5X04wd1VueEs1ZFRkTFZDbzRnaWQ0cHlPdDFlNkNmWDNhaFdURXctOWVReVhKNk_SAbcBQVVfeXFMTmVDeUprR1l4MFVKMWljblItWFItRGM5eVBwOVpuV2loSkdYWGNld1gxcVl6NDdjSk55SjZxYmlUWUpsRnFSYmZwYnJlcV9hNnlhclprTkc2V0JrZjZNQlV1emtzN0t5RVVxM3lwaHVpLWc1NVRwN0JkeGZaSy1aNnNUczdjcW1EdTg3alF6aTJZTkFNTG9oZXlod3pwbWV1S3VjNGRmdTgwcUJxMXhCc2xYUEtWTXc0?oc=5",
+    "t": "Samsun'da akılalmaz oyun: Kucağında bebeği, çantasında uyuşturucuyla yakalandı! - Sabah",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcXdLVWhiWjlySDFqSlFwQkZDa2JndXk0ek12ckJIcFA3a2NIcXprTzY5X242TXlvY2NFUVFseS1aMU93QmxCRERGWVd0U3NpWVctdzhpeVBzcmxDa1FtdzFuTm5DV0NDbU9HX3A5SGFqT2lxb3kyanVXTFExcXpGcExjS0g5X04wd1VueEs1ZFRkTFZDbzRnaWQ0cHlPdDFlNkNmWDNhaFdURXctOWVReVhKNk_SAbcBQVVfeXFMTmVDeUprR1l4MFVKMWljblItWFItRGM5eVBwOVpuV2loSkdYWGNld1gxcVl6NDdjSk55SjZxYmlUWUpsRnFSYmZwYnJlcV9hNnlhclprTkc2V0JrZjZNQlV1emtzN0t5RVVxM3lwaHVpLWc1NVRwN0JkeGZaSy1aNnNUczdjcW1EdTg3alF6aTJZTkFNTG9oZXlod3pwbWV1S3VjNGRmdTgwcUJxMXhCc2xYUEtWTXc0?oc=5",
+    "src": "Sabah",
+    "d": "2026-07-16T12:00:21+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://www.dengegazetesi.com.tr/samsun-merkezli-4-ilde-dolandiricilik-operasyonu-206787h.htm",
+    "t": "Samsun merkezli 4 ilde dolandırıcılık operasyonu",
+    "u": "https://www.dengegazetesi.com.tr/samsun-merkezli-4-ilde-dolandiricilik-operasyonu-206787h.htm",
+    "src": "Denge Gazetesi",
+    "d": "2026-07-16T15:00:00+03:00",
+    "desc": "Samsun merkezli 4 ilde düzenlenen dolandırıcılık operasyonunda 7 şüpheli, gözaltına alındı. Şüphelilerin, banka hesaplarında 87 milyon liralık işlem hacmi olduğu tespit edildi.",
+    "img": "https://d.dengegazetesi.com.tr/news/251060.jpg",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2hNZm56ZEN3TUJoaGJIVWZPdzhwWjh1eDBtUDlnTHA1V3RGeGFJY2htc25pZnIwbGZKX1BqeDl5MEpDREJqbXF6YmMyaTc1OVBnOGxjdHpsbnh3Tm1hd0ZVU25adHN1cUZQX3ZZVElldDVHZEJrMTdiendDWFNpYktR0gGHAUFVX3lxTE9HV3BCX2hqY1FmaDhob2xRdnB3ZzVvMldBZzZ2Z1Qxa1oxMUsyb1QxWkZTSmllUnlTdWhqakttaUJsX29BeFQzNXlJV2VfUEN3OW1GWDNzMGtEVFJvdjl1QjA2Zkktc2lQX25FM2hXdXdqcU9GNTZlY2pYSUxacjc4SXhlN1A2SQ?oc=5",
+    "t": "Samsun'da kediye tekme atan cani tutuklandı - Sözcü Gazetesi",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2hNZm56ZEN3TUJoaGJIVWZPdzhwWjh1eDBtUDlnTHA1V3RGeGFJY2htc25pZnIwbGZKX1BqeDl5MEpDREJqbXF6YmMyaTc1OVBnOGxjdHpsbnh3Tm1hd0ZVU25adHN1cUZQX3ZZVElldDVHZEJrMTdiendDWFNpYktR0gGHAUFVX3lxTE9HV3BCX2hqY1FmaDhob2xRdnB3ZzVvMldBZzZ2Z1Qxa1oxMUsyb1QxWkZTSmllUnlTdWhqakttaUJsX29BeFQzNXlJV2VfUEN3OW1GWDNzMGtEVFJvdjl1QjA2Zkktc2lQX25FM2hXdXdqcU9GNTZlY2pYSUxacjc4SXhlN1A2SQ?oc=5",
+    "src": "Sözcü Gazetesi",
+    "d": "2026-07-16T11:59:36+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEsxdkFEQjFuOEZRYXFrRHhNblZ0bm9kWnM4U1FuRGNsVGhjZTFRTVh6bGpkTUxhMjVnRTl2bFNJNm40TW5PVjJUcm1aTWFLbF9ZRU9EOWZvWE95Q3Q4cHdJNlhjUGtnZnNTQTFhc2o3eGJpTnJpT1NCQWpnNUdVUmNteWJEaWhzeE1RNVMyMHVPZi13V0pJT0hJWXZ3UFhIeWpxekFoZlZuN25mMUZJWnhBazR2bUZKYTZ4blJYYzZ2LWJmTVpsVlk2YWZzT2lpdGtHMEx2NA?oc=5",
+    "t": "Samsun'da kediye tekme atan cani tutuklandı - Sözcü Gazetesi",
+    "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEsxdkFEQjFuOEZRYXFrRHhNblZ0bm9kWnM4U1FuRGNsVGhjZTFRTVh6bGpkTUxhMjVnRTl2bFNJNm40TW5PVjJUcm1aTWFLbF9ZRU9EOWZvWE95Q3Q4cHdJNlhjUGtnZnNTQTFhc2o3eGJpTnJpT1NCQWpnNUdVUmNteWJEaWhzeE1RNVMyMHVPZi13V0pJT0hJWXZ3UFhIeWpxekFoZlZuN25mMUZJWnhBazR2bUZKYTZ4blJYYzZ2LWJmTVpsVlk2YWZzT2lpdGtHMEx2NA?oc=5",
+    "src": "Sözcü Gazetesi",
+    "d": "2026-07-16T11:59:36+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcjR4RUZBV3hqam1VOF82NVVvbzBxaGUzMEpubjdDb2R2Xzd2TGp3RGFHcEFMYlVDdDFMMzYtNkx3cHl4SEhKbEM5Zk9EMFFiSEo1MGNrWG9lWFhQMUo2TmtIWERSQTJGLVZ2cWlGSXptcFBvcXhaUVBaN3MyTXhtRVBUY2FiOEExc0V2N1FWR1pzQ3g2TlZEOXFURUs4N1V5cFlXTTIwZjBDZnd4LWVYUlM5b2t4SUFyX0w5eTFCdnNuVGpKUXo5RDZHX0dUMXNVTm12MHQ1aHpNN3BwbHV1NWtB?oc=5",
+    "t": "Samsun'da uyuşturucu operasyonu: Kucağında bebekle yakalanan kadının çantasından 1 kilo metamfetamin çıktı - Hürriyet",
+    "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcjR4RUZBV3hqam1VOF82NVVvbzBxaGUzMEpubjdDb2R2Xzd2TGp3RGFHcEFMYlVDdDFMMzYtNkx3cHl4SEhKbEM5Zk9EMFFiSEo1MGNrWG9lWFhQMUo2TmtIWERSQTJGLVZ2cWlGSXptcFBvcXhaUVBaN3MyTXhtRVBUY2FiOEExc0V2N1FWR1pzQ3g2TlZEOXFURUs4N1V5cFlXTTIwZjBDZnd4LWVYUlM5b2t4SUFyX0w5eTFCdnNuVGpKUXo5RDZHX0dUMXNVTm12MHQ1aHpNN3BwbHV1NWtB?oc=5",
+    "src": "Hürriyet",
+    "d": "2026-07-16T11:53:30+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://www.gazetegercek.com.tr/samsunda-kediye-tekme-atan-sahis-tutuklandi/231133",
+    "t": "Samsun'da kediye tekme atan şahıs tutuklandı",
+    "u": "https://www.gazetegercek.com.tr/samsunda-kediye-tekme-atan-sahis-tutuklandi/231133",
+    "src": "Gazete Gerçek",
+    "d": "2026-07-16T14:53:08+03:00",
+    "desc": "Samsun'un İlkadım ilçesinde kaldırımdaki kediye tekme attığı gerekçesiyle gözaltına alınan zanlı tutuklandı.",
+    "img": "",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOENSc1lhVHowU2ZrV25zalFxWmV4YlFlV0VvNHgwQzBQbEVMV3FlVWVPSnNVNFdwUUg0OURJYnYyQWZhQ1VrR1JaQkRVT3VjNXVKTl9mR1F1RzhDLXhuekNleERNTXdLbS0tM0ItR2pXWS1nMXVOazI2OU95blN2Z3FkOUlHRUtEcC1oYUM5SlVPcW1KNmRMX3hPSVdscVRx?oc=5",
+    "t": "Samsun’da sokak kedisine tekme atan şüpheli tutuklandı - KARAR",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOENSc1lhVHowU2ZrV25zalFxWmV4YlFlV0VvNHgwQzBQbEVMV3FlVWVPSnNVNFdwUUg0OURJYnYyQWZhQ1VrR1JaQkRVT3VjNXVKTl9mR1F1RzhDLXhuekNleERNTXdLbS0tM0ItR2pXWS1nMXVOazI2OU95blN2Z3FkOUlHRUtEcC1oYUM5SlVPcW1KNmRMX3hPSVdscVRx?oc=5",
+    "src": "KARAR",
+    "d": "2026-07-16T11:52:12+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://www.gazetearena.com/samsunda-3-kisinin-yaralandigi-bicakli-kavgada-yeni-gelisme",
+    "t": "Samsun'da 3 kişinin yaralandığı bıçaklı kavgada yeni gelişme",
+    "u": "https://www.gazetearena.com/samsunda-3-kisinin-yaralandigi-bicakli-kavgada-yeni-gelisme",
+    "src": "Gazete Arena",
+    "d": "2026-07-16T14:51:00+03:00",
+    "desc": "Samsun'un Atakum ilçesinde bir kafede çıkan bıçaklı kavgada 3 kişi yaralanırken, gözaltına alınan 1 kişi adliyeye sevk edildi.",
+    "img": "https://gazetearenacom.teimg.com/gazetearena-com/uploads/2026/07/s-a-m-s-u-n1-1-511.jpg",
+    "kat": "Trafik/Kaza"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRTdmRDJ4RG9rMnM1dXlTOTNJZTh1c1ZucEpScG9ySUhDam5fdW41dzVnaHhua3JkMHNaQTNUNkdYd1pNNEMtZURHcUlRTzduZXluNHpfdTdseGkxMnVLWDQ5c3RyeThEWnNuc0wzbWFVblVWTjhQQ09jMExmX0NqT040RWFSeFZZdTlfZlYwSlJBSFNURjJLLVh4NHlDNjBISzNNSjZaMmdHLU3SAa8BQVVfeXFMUFFQZ3Jmcl9LdzgwdEVrcGR5d25pV3F1eHNZSXFwVThBYWFaWWZjNEZXczh6ekM2TjFkc3B5ckU5RUM1WHpKREJfZ19fOUpNTU1NOUxwbnd5U1JhVzJMUERVRGxqbFNTcTdiMDItcjlTU2ZfWkxma1I5WHNJZTNnMC11eVlLem12WTdxb255UDN4QmhuWEk0aExQYzVFM2thVUZhUjRGRHUzTFJnNFB5QQ?oc=5",
+    "t": "1 milyon 350 bin kaçak makaron ele geçirildi: 2 gözaltı - DHA | Demirören Haber Ajansı",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRTdmRDJ4RG9rMnM1dXlTOTNJZTh1c1ZucEpScG9ySUhDam5fdW41dzVnaHhua3JkMHNaQTNUNkdYd1pNNEMtZURHcUlRTzduZXluNHpfdTdseGkxMnVLWDQ5c3RyeThEWnNuc0wzbWFVblVWTjhQQ09jMExmX0NqT040RWFSeFZZdTlfZlYwSlJBSFNURjJLLVh4NHlDNjBISzNNSjZaMmdHLU3SAa8BQVVfeXFMUFFQZ3Jmcl9LdzgwdEVrcGR5d25pV3F1eHNZSXFwVThBYWFaWWZjNEZXczh6ekM2TjFkc3B5ckU5RUM1WHpKREJfZ19fOUpNTU1NOUxwbnd5U1JhVzJMUERVRGxqbFNTcTdiMDItcjlTU2ZfWkxma1I5WHNJZTNnMC11eVlLem12WTdxb255UDN4QmhuWEk0aExQYzVFM2thVUZhUjRGRHUzTFJnNFB5QQ?oc=5",
+    "src": "DHA | Demirören Haber Ajansı",
+    "d": "2026-07-16T11:49:52+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://www.samsungazetesi.com/samsunda-kediye-tekme-atan-zanli-tutuklandi",
+    "t": "Samsun'da kediye tekme atan zanlı tutuklandı!",
+    "u": "https://www.samsungazetesi.com/samsunda-kediye-tekme-atan-zanli-tutuklandi",
+    "src": "Samsun Gazetesi",
+    "d": "2026-07-16T14:48:00+03:00",
+    "desc": "SAMSUN HABER... Samsun'un İlkadım ilçesinde kaldırımdaki kediye tekme attığı anların güvenlik kamerasına yansımasının ardından gözaltına alınan şüpheli, çıkarıldığı mahkemece tutuklandı.",
+    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/samsunda-kediye-tekme-atan-zanli-tutuklandi-1.jpg",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://www.samsungazetesi.com/video/sure-verilmisti-samsun-buyuksehir-sahillerde-dugmeye-basti",
+    "t": "Süre verilmişti! Samsun Büyükşehir sahillerde düğmeye bastı",
+    "u": "https://www.samsungazetesi.com/video/sure-verilmisti-samsun-buyuksehir-sahillerde-dugmeye-basti",
+    "src": "Samsun Gazetesi",
+    "d": "2026-07-16T14:47:00+03:00",
+    "desc": "Samsun'un Atakum ve 19 Mayıs ilçe sahil bandını işgal eden masa, sandalye ve şezlonglar ekiplerce kaldırıldı.",
+    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/sure-verilmisti-samsun-buyuksehir-sahillerde-dugmeye-basti-2.jpg",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://www.gazetearena.com/samsunda-kediye-tekme-atan-zanli-tutuklandi",
+    "t": "Samsun'da kediye tekme atan zanlı tutuklandı",
+    "u": "https://www.gazetearena.com/samsunda-kediye-tekme-atan-zanli-tutuklandi",
+    "src": "Gazete Arena",
+    "d": "2026-07-16T14:45:00+03:00",
+    "desc": "Samsun'un İlkadım ilçesinde kaldırımdaki kediye tekme attığı iddia edilen ve görüntüleri sosyal medyada paylaşılan D.G. (29), çıkarıldığı hakimlikçe tutuklandı.",
+    "img": "https://gazetearenacom.teimg.com/gazetearena-com/uploads/2026/07/gazete-arena-recovered-25.jpg",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYmFSWGlvd0llYVVKZ2RBeE10bkp2WVJuYzF5TFJKM01fRFVPN0VNblpxM0R4RExUQXdEMzIxc1ROWUtsYUg5cGlFS19aNTVDTjJ1VW5Gbllra0FjaGdZekZFY0E3djg5UDNZQXlCOWw1R0RJRFIxY0RhMmtrZnI1Y2VZNDh4SWNPc2liMTd6UUk3djJOc0FJWUhZMV84d9IBogFBVV95cUxOUWdlWDNlLWdyeEVBc2pGMkMtcjEwLTBWZjBYWXE1Nk9FYU4wMGotZ0luWU9WcmhQWXYzUXJDdzNvcnZuTTJGMTkyR0I2SXRoN09NakNsWHFObTdYeXR2cGczOGxqbnNDR1djaWZidjlRbDViVjZoRFcwNFpUSDhVcU1HTHIwazkxQXF6X1B1MWlZdDZFLU5EaENfMDJLN0NVcEE?oc=5",
+    "t": "Samsun - Kucağında bebeğiyle, çantasında 1 kilogram metamfetaminle yakalandı - DHA | Demirören Haber Ajansı",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYmFSWGlvd0llYVVKZ2RBeE10bkp2WVJuYzF5TFJKM01fRFVPN0VNblpxM0R4RExUQXdEMzIxc1ROWUtsYUg5cGlFS19aNTVDTjJ1VW5Gbllra0FjaGdZekZFY0E3djg5UDNZQXlCOWw1R0RJRFIxY0RhMmtrZnI1Y2VZNDh4SWNPc2liMTd6UUk3djJOc0FJWUhZMV84d9IBogFBVV95cUxOUWdlWDNlLWdyeEVBc2pGMkMtcjEwLTBWZjBYWXE1Nk9FYU4wMGotZ0luWU9WcmhQWXYzUXJDdzNvcnZuTTJGMTkyR0I2SXRoN09NakNsWHFObTdYeXR2cGczOGxqbnNDR1djaWZidjlRbDViVjZoRFcwNFpUSDhVcU1HTHIwazkxQXF6X1B1MWlZdDZFLU5EaENfMDJLN0NVcEE?oc=5",
+    "src": "DHA | Demirören Haber Ajansı",
+    "d": "2026-07-16T11:43:26+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbFZtQVJqS1cxQXAyYzY0dnZOMkRUSEtjaWtCdFFVamF0VlF0QUNqOGVDVjNrRzVVcDNzcW5Eb0dDWE5HWmpEZDdNYUpNbmZwS3hkelU5cWhVUk9iSldwMjFLUXNKdzNndWc5RGlwcWY1STNLWkdmNG54Qi1tLU9yQTVqNG9DSy1TTlRnVVpoVnBQYmVHTjZrbVlTVWl2X0pocl9xVXk5NF9XUEM2cGdadEdsWVJPSFNQUnFV?oc=5",
+    "t": "Kucağında bebeğiyle, çantasında 1 kilogram metamfetaminle yakalandı - Habertürk",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbFZtQVJqS1cxQXAyYzY0dnZOMkRUSEtjaWtCdFFVamF0VlF0QUNqOGVDVjNrRzVVcDNzcW5Eb0dDWE5HWmpEZDdNYUpNbmZwS3hkelU5cWhVUk9iSldwMjFLUXNKdzNndWc5RGlwcWY1STNLWkdmNG54Qi1tLU9yQTVqNG9DSy1TTlRnVVpoVnBQYmVHTjZrbVlTVWl2X0pocl9xVXk5NF9XUEM2cGdadEdsWVJPSFNQUnFV?oc=5",
+    "src": "Habertürk",
+    "d": "2026-07-16T11:42:45+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://www.samsungazetesi.com/ahbap-dosyasinda-yeni-perde-haluk-leventin-kardesiyle-ilgili-carpici-iddia",
+    "t": "Ahbap dosyasında yeni perde! Haluk Levent'in kardeşiyle ilgili çarpıcı iddia",
+    "u": "https://www.samsungazetesi.com/ahbap-dosyasinda-yeni-perde-haluk-leventin-kardesiyle-ilgili-carpici-iddia",
+    "src": "Samsun Gazetesi",
+    "d": "2026-07-16T14:42:00+03:00",
+    "desc": "Ahbap soruşturmasında Haluk Levent'in kardeşi Berkant Acil hakkında dikkat çeken iddialar yer aldı. Dosyada 125 milyon 765 bin liralık para transferi öne çıktı.",
+    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/ahbap-dosyasinda-yeni-perde-haluk-leventin-kardesiyle-ilgili-carpici-iddia-1.jpg",
+    "kat": "Spor"
+  },
+  {
+    "id": "https://www.samsunhaber.com/cadli-yildiza-dev-talip",
+    "t": "ÇADLI YILDIZA DEV TALİP",
+    "u": "https://www.samsunhaber.com/cadli-yildiza-dev-talip",
+    "src": "Samsun Haber",
+    "d": "2026-07-16T14:41:00+03:00",
+    "desc": "Samsunspor’un Çadlı gol makinesi Marius Mouandilmadji, transfer piyasasını sallamaya devam ediyor. La Liga ve Belçika kulüpleri oyuncuya resmi teklifte bulunmaya hazırlanıyor. Telaffuz edilen rakam 12 milyon Euro",
+    "img": "https://samsunhabercom.teimg.com/crop/1280x720/samsunhaber-com/uploads/2026/07/talip-5.jpg",
+    "kat": "Spor"
+  },
+  {
+    "id": "https://www.samsungazetesi.com/sure-verilmisti-samsun-buyuksehir-sahillerde-dugmeye-basti",
+    "t": "Süre verilmişti! Samsun Büyükşehir sahillerde düğmeye bastı",
+    "u": "https://www.samsungazetesi.com/sure-verilmisti-samsun-buyuksehir-sahillerde-dugmeye-basti",
+    "src": "Samsun Gazetesi",
+    "d": "2026-07-16T14:39:00+03:00",
+    "desc": "SAMSUN HABER... Samsun'da Atakum ve 19 Mayıs sahillerini işgal eden masa, sandalye ve şezlonglar belediye ekiplerince kaldırıldı. Denetimlerin süreceği açıklandı.",
+    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/sure-verilmisti-samsun-buyuksehir-sahillerde-dugmeye-basti-2.jpg",
+    "kat": "Siyaset"
+  },
+  {
+    "id": "https://www.samsungazetesi.com/video/samsunda-kafede-kufur-tartismasi-kanli-bitti-3-yarali",
+    "t": "Samsun'da kafede küfür tartışması kanlı bitti! 3 yaralı",
+    "u": "https://www.samsungazetesi.com/video/samsunda-kafede-kufur-tartismasi-kanli-bitti-3-yarali",
+    "src": "Samsun Gazetesi",
+    "d": "2026-07-16T14:36:00+03:00",
+    "desc": "Samsun'un Atakum ilçesinde bir kafede çıkan bıçaklı kavgada 3 kişi yaralanırken, gözaltına alınan 1 kişi adliyeye sevk edildi.",
+    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/samsunda-kafede-kufur-tartismasi-kanli-bitti-3-yarali-3.jpg",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRjN3QjNjYjVwNGswdHdqX0U5Zjkzd2NmV0NjOWJ1ZkFaX214MnV3dkhjZHdLTy1QaVlBdGVibFg3X2tMdzJHQ0FjdEYyT1FIbTdXM2FDWXMya3h1VXJaLS1UTk1ZaDRELW5FWG1CSURxQnZWczhYNVc3WXVJeFpmNWlxdTJSY0lINTRtVmlJZHBIRHpKelBqdGxEd28yaFdEZGFBVkVPdWxYZHZ3TkJ3dnh4OVNsYVIxZHFGX29aSUNZZVpVSEF4V1RoaGlKZHJaLTJobkF2bFFlbW55?oc=5",
+    "t": "Samsunda Kafede Bıcaklı Kavga! 3 Kisinin Yaralandıgı Olayda 1 Supheli Adliyeye Sevk Edildi - Karadeniz Gazetesi",
+    "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRjN3QjNjYjVwNGswdHdqX0U5Zjkzd2NmV0NjOWJ1ZkFaX214MnV3dkhjZHdLTy1QaVlBdGVibFg3X2tMdzJHQ0FjdEYyT1FIbTdXM2FDWXMya3h1VXJaLS1UTk1ZaDRELW5FWG1CSURxQnZWczhYNVc3WXVJeFpmNWlxdTJSY0lINTRtVmlJZHBIRHpKelBqdGxEd28yaFdEZGFBVkVPdWxYZHZ3TkJ3dnh4OVNsYVIxZHFGX29aSUNZZVpVSEF4V1RoaGlKZHJaLTJobkF2bFFlbW55?oc=5",
+    "src": "Karadeniz Gazetesi",
+    "d": "2026-07-16T11:35:00+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Trafik/Kaza"
+  },
+  {
+    "id": "https://www.samsungazetesi.com/samsunda-kafede-kufur-tartismasi-kanli-bitti-3-yarali",
+    "t": "Samsun'da kafede küfür tartışması kanlı bitti! 3 yaralı",
+    "u": "https://www.samsungazetesi.com/samsunda-kafede-kufur-tartismasi-kanli-bitti-3-yarali",
+    "src": "Samsun Gazetesi",
+    "d": "2026-07-16T14:29:00+03:00",
+    "desc": "SAMSUN HABER... Samsun'un Atakum ilçesindeki bir kafede çıkan bıçaklı kavgada 3 kişi yaralandı. Olayın ardından gözaltına alınan 1 şüpheli adliyeye sevk edildi.",
+    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/samsunda-kafede-kufur-tartismasi-kanli-bitti-3-yarali.jpg",
+    "kat": "Trafik/Kaza"
+  },
+  {
+    "id": "https://www.gazetegercek.com.tr/samsunda-kufurlu-konusma-tartismasi-bicakli-kavgaya-donustu-3-yarali-1-gozalti/231129",
+    "t": "Samsun'da küfürlü konuşma tartışması bıçaklı kavgaya dönüştü: 3 yaralı 1 gözaltı",
+    "u": "https://www.gazetegercek.com.tr/samsunda-kufurlu-konusma-tartismasi-bicakli-kavgaya-donustu-3-yarali-1-gozalti/231129",
+    "src": "Gazete Gerçek",
+    "d": "2026-07-16T14:26:03+03:00",
+    "desc": "Samsun'un Atakum ilçesinde bir kafede çıkan bıçaklı kavgada 3 kişi yaralanırken, gözaltına alınan 1 kişi adliyeye sevk edildi.",
+    "img": "",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa0RDZEVZYkV1ZmNReEczcERIRkdfYzFYU1JyVy1qQTZkdXBheldPY2NUcW9ZNWRFdXdGWGJiUlR1TTJUR0lCSjE4Q0gxZFI3dlVfUDgxWHYxLVRWa29odUhrNE1EcERSeTNSZ09CMG5tQXEwX3l3WDZXd1lPNGRnaGJqSUE1VWxUbXplYzJZa3dxMzdDM25iMFZ3c090OWc?oc=5",
+    "t": "Bıçaklı kavgada üç kişi yaralandı… Bir kişi adliyeye sevk edildi - GZT",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa0RDZEVZYkV1ZmNReEczcERIRkdfYzFYU1JyVy1qQTZkdXBheldPY2NUcW9ZNWRFdXdGWGJiUlR1TTJUR0lCSjE4Q0gxZFI3dlVfUDgxWHYxLVRWa29odUhrNE1EcERSeTNSZ09CMG5tQXEwX3l3WDZXd1lPNGRnaGJqSUE1VWxUbXplYzJZa3dxMzdDM25iMFZ3c090OWc?oc=5",
+    "src": "GZT",
+    "d": "2026-07-16T11:25:52+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Trafik/Kaza"
+  },
+  {
+    "id": "https://www.samsungazetesi.com/chp-samsunda-kritik-gun-karar-bugun-cikabilir",
+    "t": "CHP Samsun'da kritik gün! Karar bugün çıkabilir",
+    "u": "https://www.samsungazetesi.com/chp-samsunda-kritik-gun-karar-bugun-cikabilir",
+    "src": "Samsun Gazetesi",
+    "d": "2026-07-16T14:24:00+03:00",
+    "desc": "SAMSUN HABER... CHP Samsun İl Başkanlığı'nda yaklaşık iki hafta önce Mehmet Özdağ'ın görevden alınmasıyla boşalan il başkanlığı koltuğuna bugün yeni bir atama yapılması bekleniyor",
+    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/c-h-p-samsunda-kritik-gun-karar-bugun-cikabilir-3.jpg",
+    "kat": "Siyaset"
+  },
+  {
+    "id": "https://www.gazetearena.com/parkinson-erken-teshisle-kontrol-altina-alinabilir-1",
+    "t": "Parkinson erken teşhisle kontrol altına alınabilir",
+    "u": "https://www.gazetearena.com/parkinson-erken-teshisle-kontrol-altina-alinabilir-1",
+    "src": "Gazete Arena",
+    "d": "2026-07-16T14:20:00+03:00",
+    "desc": "Modern yöntemlerle erken dönemde teşhis edilebilen Parkinson hastalığının kontrol altına alınması için birçok tedavi seçeneğinin bulunduğunu belirten Nöroloji Uzmanı Dr. Hikmet Dolu, \"Hastalıkla baş edebilmek için öncelikle ilaç tedavisi uygulanmaktadır. Bu tedaviye yanıt alınamaması veya tedaviye zaman içinde direnç gelişmesi halinde cerrahi tedavi tercih edilir\" dedi.",
+    "img": "https://gazetearenacom.teimg.com/gazetearena-com/uploads/2026/07/s-a-m-s-u-n1-1-510.jpg",
+    "kat": "Ekonomi"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUlhWX3A2QkxXUGUzQVduUjRMYU4tV2FkYUxHcTB2aXFJaWJMbFdaU3dqb1U4czRVSk5VR3BfbEs5TlJPckZfZ3dNQms2aW5pUVRFbzVDQi13UjlYTWx1NEZvMFJjX2F4TU5iYnNsNVRqdUlEMXI2UWVoUWxCTVdhdlhpeTNEOWRYSnJUbEdoa3ppRHJrVmc2TmwzLUl4MzRv0gGbAUFVX3lxTE5URUMyc2tDT2ViSWwyU3ZhMXUzdWw0VDBUa1J4SW1yUkxFWk53THptcGZXZUlFbWJLU1NDdi1NMl9rY2FwQ1g5em5lalBDSFlxYzFfUkVKVzRHVnBLcjM3UkV3MlU0NE9LbnZQTGpBNTQwYW9nUUFLMV9ucnY4bDFTaFJRN2ZOR0NtQ2JYY2JrRmdnQzVhS2xXQ3Nj?oc=5",
+    "t": "Samsun'da 3 kişinin yaralandığı bıçaklı kavgada 1 kişi adliyeye sevk edildi - Haberler",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUlhWX3A2QkxXUGUzQVduUjRMYU4tV2FkYUxHcTB2aXFJaWJMbFdaU3dqb1U4czRVSk5VR3BfbEs5TlJPckZfZ3dNQms2aW5pUVRFbzVDQi13UjlYTWx1NEZvMFJjX2F4TU5iYnNsNVRqdUlEMXI2UWVoUWxCTVdhdlhpeTNEOWRYSnJUbEdoa3ppRHJrVmc2TmwzLUl4MzRv0gGbAUFVX3lxTE5URUMyc2tDT2ViSWwyU3ZhMXUzdWw0VDBUa1J4SW1yUkxFWk53THptcGZXZUlFbWJLU1NDdi1NMl9rY2FwQ1g5em5lalBDSFlxYzFfUkVKVzRHVnBLcjM3UkV3MlU0NE9LbnZQTGpBNTQwYW9nUUFLMV9ucnY4bDFTaFJRN2ZOR0NtQ2JYY2JrRmdnQzVhS2xXQ3Nj?oc=5",
+    "src": "Haberler",
+    "d": "2026-07-16T11:15:02+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Trafik/Kaza"
+  },
+  {
+    "id": "https://www.samsungazetesi.com/samsun-seyyid-kutbiddin-mezarliginda-hummali-calisma",
+    "t": "Samsun Seyyid Kutbiddin Mezarlığı'nda hummalı çalışma",
+    "u": "https://www.samsungazetesi.com/samsun-seyyid-kutbiddin-mezarliginda-hummali-calisma",
+    "src": "Samsun Gazetesi",
+    "d": "2026-07-16T14:13:00+03:00",
+    "desc": "SAMSUN HABER... Samsun Büyükşehir Belediyesi, Seyyid Kutbiddin Mezarlığı'ndaki tarihi mezar taşlarını koruma altına alıyor. Temizlik, belgeleme ve numaralandırma işlemlerinin ardından taşlar, ziyaretçilerin görebileceği özel alanda sergilenecek.",
+    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/samsunda-tarihe-buyuk-dokunus-seyyid-kutbiddin-mezarliginda-hummali-calisma-55.jpg",
+    "kat": "Siyaset"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSmpXN1A3OWVjZ0JGN3ZqWkVjWkQ0a0Y4M3NHQ1czTmlwSE5MNm40M3c1TzJIRzJDLXB4d0tvdmM3ZUpSdXRlQjVtcDBpSzV2QTFPdll0eUQyeUtveWxWekdIY0pFTGt5MS1BNngyN3d6LTRQMjBmUVJqNndUcnRxZ2s1dk1XaThJek4tU1ZJNW9uNUZUYk9CREhTcnVEZzJrbmh3TnBfMDZPQlVDWml3VGdJZ3Z4dzJaWUUwaWxnN1LSAVdBVV95cUxPWGY0TnAyN09oMG13V1M4cTk0Snk1aW9iRmhqSlk3eTRobGN3ZmhNd1ZScmZMRGVWcEZGRWR2SExWTld5M0hwb05FMVZOcTdjMzVGeTZIMG8?oc=5",
+    "t": "Samsun Atakum'da Çıkan Bıçaklı Kavgada 3 Kişi Yaralandı, 1 Kişi Adliyeye Sevk Edildi. - Mersin Haber",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSmpXN1A3OWVjZ0JGN3ZqWkVjWkQ0a0Y4M3NHQ1czTmlwSE5MNm40M3c1TzJIRzJDLXB4d0tvdmM3ZUpSdXRlQjVtcDBpSzV2QTFPdll0eUQyeUtveWxWekdIY0pFTGt5MS1BNngyN3d6LTRQMjBmUVJqNndUcnRxZ2s1dk1XaThJek4tU1ZJNW9uNUZUYk9CREhTcnVEZzJrbmh3TnBfMDZPQlVDWml3VGdJZ3Z4dzJaWUUwaWxnN1LSAVdBVV95cUxPWGY0TnAyN09oMG13V1M4cTk0Snk1aW9iRmhqSlk3eTRobGN3ZmhNd1ZScmZMRGVWcEZGRWR2SExWTld5M0hwb05FMVZOcTdjMzVGeTZIMG8?oc=5",
+    "src": "Mersin Haber",
+    "d": "2026-07-16T11:11:00+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Trafik/Kaza"
+  },
+  {
+    "id": "https://www.samsuncanlihaber.com/samsunda-3-kisinin-yaralandigi-bicakli-kavgada-1-kisi-adliyeye-sevk-edildi",
+    "t": "Samsun'da 3 kişinin yaralandığı bıçaklı kavgada 1 kişi adliyeye sevk edildi",
+    "u": "https://www.samsuncanlihaber.com/samsunda-3-kisinin-yaralandigi-bicakli-kavgada-1-kisi-adliyeye-sevk-edildi",
+    "src": "Samsun Canlı Haber",
+    "d": "2026-07-16T14:11:00+03:00",
+    "desc": "Samsun'un Atakum ilçesinde bir kafede çıkan bıçaklı kavgada 3 kişi yaralanırken, gözaltına alınan 1 kişi adliyeye sevk edildi.",
+    "img": "https://samsuncanlihabercom.teimg.com/crop/1280x720/samsuncanlihaber-com/uploads/2026/07/samsunda-kafede-kufur-tartismasi-kanli-bitti-3-yarali-3.jpg",
+    "kat": "Trafik/Kaza"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWGNyRWFDWlBaWmY5MjFlY3BEWUFFYVZSQ2R2RWJLZ3JCcWpjV2ZoU2I2eGczQTAtcUhjVlVOeFVTSV9Tb2pKbXNKZS1pbmF1Rm9ma2NqdWM4SndfOFB1eEI2UHdXb2VWVjdTdHd3SVM1Z1g2RWhyNThUOUt4MUoza255TkZBaV9qU0o1eFNsM1R3aDhCcl9yU092RlBIa3lt?oc=5",
+    "t": "Samsun’da 1 milyonu aşkın kaçak makarona 2 gözaltı İhlas Haber Ajansı - İhlas Haber Ajansı",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWGNyRWFDWlBaWmY5MjFlY3BEWUFFYVZSQ2R2RWJLZ3JCcWpjV2ZoU2I2eGczQTAtcUhjVlVOeFVTSV9Tb2pKbXNKZS1pbmF1Rm9ma2NqdWM4SndfOFB1eEI2UHdXb2VWVjdTdHd3SVM1Z1g2RWhyNThUOUt4MUoza255TkZBaV9qU0o1eFNsM1R3aDhCcl9yU092RlBIa3lt?oc=5",
+    "src": "İhlas Haber Ajansı",
+    "d": "2026-07-16T11:08:40+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://www.samsungazetesi.com/vezirkoprude-yol-otopark-ve-ilaclama-cagrisi",
+    "t": "Vezirköprü'de yol, otopark ve ilaçlama çağrısı",
+    "u": "https://www.samsungazetesi.com/vezirkoprude-yol-otopark-ve-ilaclama-cagrisi",
+    "src": "Samsun Gazetesi",
+    "d": "2026-07-16T14:08:00+03:00",
+    "desc": "Samsun Canlı Haber'in çağrısına yanıt veren Vezirköprülüler, Başkan Murat Gül'ün hizmetlerini değerlendirdi. Yol, otopark ve ilaçlama en çok dile getirilen konular oldu.",
+    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/vezirkoprude-yol-otopark-ve-ilaclama-cagrisi.jpg",
+    "kat": "Siyaset"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOalE0MW1QNE1iS2R6QzV6Q3JwUFFnbDlCTlhlTGVLd1lIeDNLVUtqY3g1UktzZUtMcEdOSzRFQ2JFN0l4ZmlscE5oeFlZcVdyY3cxd0lWRGpIaG9TNFJ5TDJzZzVuRU1pM1JCa3VyY1FLUV8wdWxEV1dvNGNaeE5YYWszdXF3RlF1Nk83d1VwaGZNWnhILUZ4QUJ30gGqAUFVX3lxTFBGV1d6MWF5Y2gzZURGVWlqQklxQXNpWXNTQU5meDdMQW5pZ0NidkQyOVV3VjFqRlZDU2k2Ul84M3V6SUo1dlpBaHA4U3pyVVJsNDk0dXJINnFMYUw1TFkyWENQVk9YMzF5aXJ3RmRQN2RpdjlNQUFTdmdnczl4a3VHYTR5UDNmNVVYS0EzeUZHckcxWTdJWmtNUFAtNlRDYnV5UzNTZXlUZ1F3?oc=5",
+    "t": "Samsun’da 1 milyonu aşkın kaçak makarona 2 gözaltı - Kars Manşet",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOalE0MW1QNE1iS2R6QzV6Q3JwUFFnbDlCTlhlTGVLd1lIeDNLVUtqY3g1UktzZUtMcEdOSzRFQ2JFN0l4ZmlscE5oeFlZcVdyY3cxd0lWRGpIaG9TNFJ5TDJzZzVuRU1pM1JCa3VyY1FLUV8wdWxEV1dvNGNaeE5YYWszdXF3RlF1Nk83d1VwaGZNWnhILUZ4QUJ30gGqAUFVX3lxTFBGV1d6MWF5Y2gzZURGVWlqQklxQXNpWXNTQU5meDdMQW5pZ0NidkQyOVV3VjFqRlZDU2k2Ul84M3V6SUo1dlpBaHA4U3pyVVJsNDk0dXJINnFMYUw1TFkyWENQVk9YMzF5aXJ3RmRQN2RpdjlNQUFTdmdnczl4a3VHYTR5UDNmNVVYS0EzeUZHckcxWTdJWmtNUFAtNlRDYnV5UzNTZXlUZ1F3?oc=5",
+    "src": "Kars Manşet",
+    "d": "2026-07-16T11:08:00+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ21UZll5VlZJZVF3Zjc0THRJazlNUUVtckp1cXlIcWtjdkhXbDJaMTI2bHdYLUc0cS1LblY3dHlyeXlNNkFyS19WbC13YVN4UkRPWGd5bFhBQkFBeVBLVE5nVWMteHNKenVSclBoWG16SzFEdmFLbGxUY2JNTE9HaXMxRzNreW1nZ2ZERnM5b2g1TnZoMm85SjNOaXp5WUVpbko1dHNGd1ZmdjJ2UzN2dDNqSTlILWNuc09SWkVmVVNHSlhUTjNLU3JSNNIBV0FVX3lxTFBNT1Z1S0JCSTdDbWUzdWZNWHBleVlpSnp3eTJiaU43MW83RzN2bjR1U3RpT3VLTHd0Q1RlVnEydHFmNjQzcGFqM19jcDkwenlFUnE0ZzFVSQ?oc=5",
+    "t": "Samsun İlkadım'da Gerçekleştirilen Operasyonda 1 Milyon 350 Bin Kaçak Makaron Ele Geçirildi - Mersin Haber",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ21UZll5VlZJZVF3Zjc0THRJazlNUUVtckp1cXlIcWtjdkhXbDJaMTI2bHdYLUc0cS1LblY3dHlyeXlNNkFyS19WbC13YVN4UkRPWGd5bFhBQkFBeVBLVE5nVWMteHNKenVSclBoWG16SzFEdmFLbGxUY2JNTE9HaXMxRzNreW1nZ2ZERnM5b2g1TnZoMm85SjNOaXp5WUVpbko1dHNGd1ZmdjJ2UzN2dDNqSTlILWNuc09SWkVmVVNHSlhUTjNLU3JSNNIBV0FVX3lxTFBNT1Z1S0JCSTdDbWUzdWZNWHBleVlpSnp3eTJiaU43MW83RzN2bjR1U3RpT3VLTHd0Q1RlVnEydHFmNjQzcGFqM19jcDkwenlFUnE0ZzFVSQ?oc=5",
+    "src": "Mersin Haber",
+    "d": "2026-07-16T11:08:00+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://www.samsuncanlihaber.com/samsunda-1-milyonu-askin-kacak-makarona-2-gozalti",
+    "t": "Samsun'da 1 milyonu aşkın kaçak makarona 2 gözaltı",
+    "u": "https://www.samsuncanlihaber.com/samsunda-1-milyonu-askin-kacak-makarona-2-gozalti",
+    "src": "Samsun Canlı Haber",
+    "d": "2026-07-16T14:08:00+03:00",
+    "desc": "Samsun'un İlkadım ilçesinde polis ekiplerince düzenlenen operasyonda bir kamyonette ele geçen 1 milyon 350 bin adet kaçak makaron ile ilgili gözaltına alınan 2 kişi adliyeye sevk edildi.",
+    "img": "https://samsuncanlihabercom.teimg.com/crop/1280x720/samsuncanlihaber-com/uploads/2026/07/samsunda-kacak-sigaraya-gecit-yok-2-supheli-adliyede-3.jpg",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT1htSEhHcm1QQlFjM29oNFVCdk1zLWVWRjA2NHhVeVVSZVNqOTlCYThqM2E0Y0p4Wk1MOUVWb0lsSk9xSVpRdWpPNmIxWXhwZWpMbE54Qm5EYUZ6NmhBanJMTFFNbHpJanFnc1ZzZE1yLVF3OWVnRFBQbjdEbTMzLURaMWd6SjBwa3VRWHdjV3AwR3V2NFQwMWNBSU5rbjBXNE1GY0xzT1RyZ9IBV0FVX3lxTE9Vakg3MDJuNnhxZFFvM3JWYTJCeHpBb3huZmZibFdRd0FlM0llMXhSdU1Ca2dfQzZFV3puV0dNWVdtZzBUSXpEUFF6VDdpVUtobzhyVlpHWQ?oc=5",
+    "t": "Samsun Atakum'da Bir Kafede Çıkan Bıçaklı Kavgada 3 Kişi Yaralandı - Mersin Haber",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT1htSEhHcm1QQlFjM29oNFVCdk1zLWVWRjA2NHhVeVVSZVNqOTlCYThqM2E0Y0p4Wk1MOUVWb0lsSk9xSVpRdWpPNmIxWXhwZWpMbE54Qm5EYUZ6NmhBanJMTFFNbHpJanFnc1ZzZE1yLVF3OWVnRFBQbjdEbTMzLURaMWd6SjBwa3VRWHdjV3AwR3V2NFQwMWNBSU5rbjBXNE1GY0xzT1RyZ9IBV0FVX3lxTE9Vakg3MDJuNnhxZFFvM3JWYTJCeHpBb3huZmZibFdRd0FlM0llMXhSdU1Ca2dfQzZFV3puV0dNWVdtZzBUSXpEUFF6VDdpVUtobzhyVlpHWQ?oc=5",
+    "src": "Mersin Haber",
+    "d": "2026-07-16T11:07:00+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Trafik/Kaza"
+  },
+  {
     "id": "https://www.gazetearena.com/seyyid-kutbiddin-mezarligindaki-restore-calismalari-suruyor",
     "t": "Seyyid Kutbiddin Mezarlığı'ndaki restore çalışmaları sürüyor",
     "u": "https://www.gazetearena.com/seyyid-kutbiddin-mezarligindaki-restore-calismalari-suruyor",
@@ -8,6 +528,16 @@
     "desc": "Samsun Büyükşehir Belediyesi, Seyyit Kutbettin Mezarlığı’nda tarihi mezar taşlarının korunmasına yönelik çalışmalarını sürdürüyor.",
     "img": "https://gazetearenacom.teimg.com/gazetearena-com/uploads/2026/07/gazete-arena-recovered-22.jpg",
     "kat": "Siyaset"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNblpDLWpac1doY3N5VDBRLTBNSDFkNHZRczV1NFl5aDNKSkE0V3JBWHBrWTUxRTZfc2IwWFJwR0NUTF9XOVpTTTBrUHdidVM2d0ZtRG5BXzZabUxDSzFwOWdpbGtjYTViM0MyS2hQc2xBX21EYjREX0NpdXJvSFV2dnB3TVU4OVNMOFUzRk9qUmZjWjFWS0QxZ1BlNG96UHU3cmZNb2Vha25nOE5HLXpWSVA5VWtCSXdYQlJkYlpGcElYbkdG0gFXQVVfeXFMTy1mRTREMUZVQVNuc2QtSC1MNXl2Q3ZINWN3RkZmdDdhRVh5NnpwdEx4cEctMHVCemZoYUhBU25KSmR5RjNOZlVWRE4wN1ZjamRmMmVjb3Zz?oc=5",
+    "t": "Samsun İlkadım'da Gerçekleşen Operasyonda 1 Milyon 350 Bin Kaçak Makaron Ele Geçirildi - Mersin Haber",
+    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNblpDLWpac1doY3N5VDBRLTBNSDFkNHZRczV1NFl5aDNKSkE0V3JBWHBrWTUxRTZfc2IwWFJwR0NUTF9XOVpTTTBrUHdidVM2d0ZtRG5BXzZabUxDSzFwOWdpbGtjYTViM0MyS2hQc2xBX21EYjREX0NpdXJvSFV2dnB3TVU4OVNMOFUzRk9qUmZjWjFWS0QxZ1BlNG96UHU3cmZNb2Vha25nOE5HLXpWSVA5VWtCSXdYQlJkYlpGcElYbkdG0gFXQVVfeXFMTy1mRTREMUZVQVNuc2QtSC1MNXl2Q3ZINWN3RkZmdDdhRVh5NnpwdEx4cEctMHVCemZoYUhBU25KSmR5RjNOZlVWRE4wN1ZjamRmMmVjb3Zz?oc=5",
+    "src": "Mersin Haber",
+    "d": "2026-07-16T11:01:00+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Asayiş"
   },
   {
     "id": "https://www.dengegazetesi.com.tr/cocuk-ve-ergenlere-ozel-sigara-birakma-poliklinigi-206789h.htm",
@@ -28,6 +558,16 @@
     "desc": "SAMSUN HABER... Samsun'da uyuşturucu operasyonunda gözaltına alınan 2 şüpheli, 7 aylık bebekleriyle adliyeye sevk edildi. Operasyonda 1 kilo 210 gram sentetik uyuşturucu ele geçirilmişti.",
     "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/samsunda-operasyon-bebekleriyle-adliyeye-sevk-edildiler.jpg",
     "kat": "Asayiş"
+  },
+  {
+    "id": "https://www.samsungazetesi.com/dunyanin-en-guclu-ordulari-aciklandi-turkiyenin-siralamasi-sasirtti",
+    "t": "Dünyanın en güçlü orduları açıklandı! Türkiye'nin sıralaması şaşırttı",
+    "u": "https://www.samsungazetesi.com/dunyanin-en-guclu-ordulari-aciklandi-turkiyenin-siralamasi-sasirtti",
+    "src": "Samsun Gazetesi",
+    "d": "2026-07-16T13:59:00+03:00",
+    "desc": "Global Firepower 2026 raporu açıklandı. 145 ülkenin askeri gücü sıralandı. Türkiye ilk 10'daki yerini korurken, listedeki sıralaması dikkat çekti.",
+    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/dunyanin-en-guclu-ordulari-aciklandi-1.jpg",
+    "kat": "Sağlık"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONC1GdUJmWUdMUk40R3lyeUhLeWljVk04aUpUbVpNem81TmRXVVVvODc1M3ZqUUk1a0UwcVNGNUNTVFY3bi1WM1JfT0lhYVh6QkVYSDhjWmNxa010S3pNQTdYV3VmcHdxeFR0VTVrcXpWcTNKb1FNbEpYTHdNN2d6Tjc5TXhaVEx2eHJUX1ZmWmlRXzlZYmo1aw?oc=5",
@@ -140,6 +680,26 @@
     "kat": "Trafik/Kaza"
   },
   {
+    "id": "https://www.samsunhaber.com/bu-hangi-cetenin-otobusu-icinden-cikanlar-hayrete-dusurdu",
+    "t": "Bu hangi çetenin otobüsü! İçinden çıkanlar hayrete düşürdü",
+    "u": "https://www.samsunhaber.com/bu-hangi-cetenin-otobusu-icinden-cikanlar-hayrete-dusurdu",
+    "src": "Samsun Haber",
+    "d": "2026-07-16T13:48:00+03:00",
+    "desc": "Suç örgütlerine gönderileceği değerlendirilen ruhsatsız silahların taşındığı bir yolcu otobüsüne düzenlenen operasyonda, özel olarak hazırlanmış gizli bölmede 120 ruhsatsız tabanca ile 120 şarjör ele geçirildi. Olayla bağlantılı gözaltına alınan 4 şüpheli tutuklandı.",
+    "img": "https://samsunhabercom.teimg.com/crop/1280x720/samsunhaber-com/uploads/2026/07/silah-84.jpg",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://www.samsunhaber.com/video/bu-hangi-cetenin-otobusu-icinden-cikanlar-hayrete-dusurdu",
+    "t": "Bu hangi çetenin otobüsü! İçinden çıkanlar hayrete düşürdü",
+    "u": "https://www.samsunhaber.com/video/bu-hangi-cetenin-otobusu-icinden-cikanlar-hayrete-dusurdu",
+    "src": "Samsun Haber",
+    "d": "2026-07-16T13:48:00+03:00",
+    "desc": "Suç örgütlerine gönderileceği değerlendirilen ruhsatsız silahların taşındığı bir yolcu otobüsüne düzenlenen operasyonda, özel olarak hazırlanmış gizli bölmede 120 ruhsatsız tabanca ile 120 şarjör ele geçirildi. Olayla bağlantılı gözaltına alınan 4 şüpheli tutuklandı.",
+    "img": "https://samsunhabercom.teimg.com/crop/1280x720/samsunhaber-com/uploads/2026/07/silah-84.jpg",
+    "kat": "Asayiş"
+  },
+  {
     "id": "https://www.gazetearena.com/samsun-sahilinde-isgal-denetimi",
     "t": "Samsun sahilinde işgal denetimi!",
     "u": "https://www.gazetearena.com/samsun-sahilinde-isgal-denetimi",
@@ -217,6 +777,16 @@
     "d": "2026-07-16T10:44:00+00:00",
     "desc": "",
     "img": "",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://www.samsuncanlihaber.com/atakum-sahilinde-isgal-denetimi",
+    "t": "Atakum sahilinde işgal denetimi",
+    "u": "https://www.samsuncanlihaber.com/atakum-sahilinde-isgal-denetimi",
+    "src": "Samsun Canlı Haber",
+    "d": "2026-07-16T13:44:00+03:00",
+    "desc": "SAMSUN (İHA) - Samsun'un Atakum ve 19 Mayıs ilçe sahil bandını işgal eden masa, sandalye ve şezlonglar ekiplerce kaldırıldı.",
+    "img": "https://samsuncanlihabercom.teimg.com/crop/1280x720/samsuncanlihaber-com/uploads/2026/07/sure-verilmisti-samsun-buyuksehir-sahillerde-dugmeye-basti-2.jpg",
     "kat": "Gündem"
   },
   {
@@ -360,6 +930,16 @@
     "kat": "Gündem"
   },
   {
+    "id": "https://www.samsunhaber.com/bafrada-4uncu-kattan-dusen-genc-kadin-agir-yaralandi",
+    "t": "Bafra'da 4'üncü Kattan Düşen Genç Kadın Ağır Yaralandı",
+    "u": "https://www.samsunhaber.com/bafrada-4uncu-kattan-dusen-genc-kadin-agir-yaralandi",
+    "src": "Samsun Haber",
+    "d": "2026-07-16T13:19:00+03:00",
+    "desc": "Samsun'un Bafra ilçesinde gece saatlerinde meydana gelen olayda, 4'üncü kattaki bir dairenin penceresinden düşen 28 yaşındaki kadın ağır yaralandı. Hastaneye kaldırılan genç kadının hayati tehlikesinin bulunduğu öğrenildi.",
+    "img": "https://samsunhabercom.teimg.com/crop/1280x720/samsunhaber-com/uploads/2026/07/kadin-58.jpg",
+    "kat": "Trafik/Kaza"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZndkWUl2dG1xM3RyMjFBUG5qOHoxaGZNZmxOSFBWQWhMdUYtYmNDM0NQLWZ1VjNPd0FITUtDX0tYOWlhTm5GSVdWcVZVa2c0eWtRWHhnUXNWV0UxbG1HYUF0SFFqTXhJSmpwb3k4ZGp5Z05Yb0prMVFJVkVLT1RyVmllNUNOM3daSVE?oc=5",
     "t": "Samsun'da esnafın kedisine tekme atan şahıs yakalandı - Notbir",
     "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZndkWUl2dG1xM3RyMjFBUG5qOHoxaGZNZmxOSFBWQWhMdUYtYmNDM0NQLWZ1VjNPd0FITUtDX0tYOWlhTm5GSVdWcVZVa2c0eWtRWHhnUXNWV0UxbG1HYUF0SFFqTXhJSmpwb3k4ZGp5Z05Yb0prMVFJVkVLT1RyVmllNUNOM3daSVE?oc=5",
@@ -500,6 +1080,16 @@
     "kat": "Spor"
   },
   {
+    "id": "https://www.samsunhaber.com/samsunsporda-ilk-etap-yarin-bitiyor-sira-hollanda-kampinda",
+    "t": "Samsunspor'da ilk etap yarın bitiyor, SIRA HOLLANDA KAMPINDA",
+    "u": "https://www.samsunhaber.com/samsunsporda-ilk-etap-yarin-bitiyor-sira-hollanda-kampinda",
+    "src": "Samsun Haber",
+    "d": "2026-07-16T13:00:00+03:00",
+    "desc": "Yeni sezon hazırlık çalışmalarının Samsun etabını yarın tamamlayacak kırmızı beyazlılar, iki günlük aranın ardından 20 Temmuz'da Hollanda'da bir araya gelecek.",
+    "img": "https://samsunhabercom.teimg.com/crop/1280x720/samsunhaber-com/uploads/2026/07/kamp-15.jpg",
+    "kat": "Spor"
+  },
+  {
     "id": "https://www.gazetearena.com/video/samsunlu-cerrah-doganin-izini-suruyor",
     "t": "Samsunlu cerrah doğanın izini sürüyor",
     "u": "https://www.gazetearena.com/video/samsunlu-cerrah-doganin-izini-suruyor",
@@ -520,6 +1110,16 @@
     "kat": "Siyaset"
   },
   {
+    "id": "https://www.samsunhaber.com/litre-fiyati-75-liraya-cikiyor-motorin-ve-benzin-fiyatlari-cuma-gunu-artiyor",
+    "t": "Litre fiyatı 75 liraya çıkıyor! Motorin ve Benzin Fiyatları Cuma Günü Artıyor",
+    "u": "https://www.samsunhaber.com/litre-fiyati-75-liraya-cikiyor-motorin-ve-benzin-fiyatlari-cuma-gunu-artiyor",
+    "src": "Samsun Haber",
+    "d": "2026-07-16T12:56:00+03:00",
+    "desc": "Akaryakıt fiyatlarında yeni bir zam dalgası bekleniyor. Sektör kaynaklarından edinilen bilgilere göre, 17 Temmuz 2026 Cuma gününden itibaren motorin ve benzin fiyatlarına artış yansıtılacak. Beklenen zamla birlikte özellikle motorin fiyatlarının birçok ilde 75 TL seviyesine yaklaşacağı öngörülüyor.",
+    "img": "https://samsunhabercom.teimg.com/crop/1280x720/samsunhaber-com/uploads/2026/07/fiyat-6.jpg",
+    "kat": "Ekonomi"
+  },
+  {
     "id": "https://www.samsungazetesi.com/samsunda-moral-depoladilar-millilerden-kano-keyfi",
     "t": "Samsun'da moral depoladılar! Millilerden kano keyfi",
     "u": "https://www.samsungazetesi.com/samsunda-moral-depoladilar-millilerden-kano-keyfi",
@@ -528,6 +1128,26 @@
     "desc": "Dünya kupası hazırlıklarını sürdüren Türkiye A Milli Ampute Futbol Takımı, kamp programı kapsamında moral ve motivasyon etkinliği için Samsun'un Bafra ilçesindeki kano tesisinde kürek çekti.",
     "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/samsunda-moral-depoladilar-millilerden-kano-keyfi-55.jpg",
     "kat": "Spor"
+  },
+  {
+    "id": "https://www.samsunhaber.com/samsunda-tir-devrildi-surucu-yaralandi",
+    "t": "Samsun'da Tır Devrildi: Sürücü Yaralandı",
+    "u": "https://www.samsunhaber.com/samsunda-tir-devrildi-surucu-yaralandi",
+    "src": "Samsun Haber",
+    "d": "2026-07-16T12:48:00+03:00",
+    "desc": "Samsun'un Terme ilçesinde kontrolden çıkan tırın bariyerlere çarparak devrilmesi sonucu meydana gelen trafik kazasında sürücü yaralandı.",
+    "img": "https://samsunhabercom.teimg.com/crop/1280x720/samsunhaber-com/uploads/2026/07/kaza-299.jpg",
+    "kat": "Trafik/Kaza"
+  },
+  {
+    "id": "https://www.samsunhaber.com/video/samsunda-tir-devrildi-surucu-yaralandi",
+    "t": "Samsun'da Tır Devrildi: Sürücü Yaralandı",
+    "u": "https://www.samsunhaber.com/video/samsunda-tir-devrildi-surucu-yaralandi",
+    "src": "Samsun Haber",
+    "d": "2026-07-16T12:47:00+03:00",
+    "desc": "Samsun'un Terme ilçesinde kontrolden çıkan tırın bariyerlere çarparak devrilmesi sonucu meydana gelen trafik kazasında sürücü yaralandı.",
+    "img": "https://samsunhabercom.teimg.com/crop/1280x720/samsunhaber-com/uploads/2026/07/kaza-299.jpg",
+    "kat": "Trafik/Kaza"
   },
   {
     "id": "https://www.samsungazetesi.com/video/samsunda-zincirleme-tehlike-ucuz-atlatildi",
@@ -617,6 +1237,16 @@
     "d": "2026-07-16T12:24:20+03:00",
     "desc": "Samsun SİBER polisi 4 şehirde eş zamanlı gerçekleştirdiği operasyonda, işlem hacmi 87 milyon TL olan dolandırıcılık şebekesini çökertti. Samsun merkezli olarak Mersin, Adana, Kahramanmaraş ve Şanlıurfa'da sahte sitelerle dolandırıcılık yapan şebekeye Samsun İl Emniyet Müdürlüğü Siber Suçlarla Mücadele polisleri tarafından yapılan operasyonda 7 kişi yakalandı.",
     "img": "https://www.samsunkenthaber.com.tr/images/haberler/2026/07/samsun-siber-polisi-87-milyon-islem-hacimli-dolandiricilik-sebekesini-cokertti-7999.jpg",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUFwakh2R01JRFplWjNnRkZFSG5sbGpqQzM2UHlLZTJXMWFad1A1akJEYTN3Zm9Eb1ZRN1dTeHdZVlVjNmJNb2gwamM0OHVvWEh2RVU4UXVvdkV1ODJHbE5Ma0FGVjBGelpkYjRFRVd3RHl2cWJRcEpIbXVvQ3BXWDdhaG5fcmVFVWRXa0twRjBMYk1CaWUtS2E5WTV2T254Z1dxNWt3Y0ZqNEdkckw0azRCNVZmb203bm5FZw?oc=5",
+    "t": "Samsun SİBER polisi 87 milyon işlem hacimli dolandırıcılık şebekesini çökertti - Samsun Kent Haber",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUFwakh2R01JRFplWjNnRkZFSG5sbGpqQzM2UHlLZTJXMWFad1A1akJEYTN3Zm9Eb1ZRN1dTeHdZVlVjNmJNb2gwamM0OHVvWEh2RVU4UXVvdkV1ODJHbE5Ma0FGVjBGelpkYjRFRVd3RHl2cWJRcEpIbXVvQ3BXWDdhaG5fcmVFVWRXa0twRjBMYk1CaWUtS2E5WTV2T254Z1dxNWt3Y0ZqNEdkckw0azRCNVZmb203bm5FZw?oc=5",
+    "src": "Samsun Kent Haber",
+    "d": "2026-07-16T09:24:20+00:00",
+    "desc": "",
+    "img": "",
     "kat": "Asayiş"
   },
   {
@@ -758,6 +1388,16 @@
     "desc": "",
     "img": "",
     "kat": "Trafik/Kaza"
+  },
+  {
+    "id": "https://www.samsunhaber.com/samsunsporun-transfer-israri-yetmedi-carlos-turkiyeyi-reddetti",
+    "t": "Samsunspor'un transfer ısrarı yetmedi, CARLOS TÜRKİYE'Yİ REDDETTİ",
+    "u": "https://www.samsunhaber.com/samsunsporun-transfer-israri-yetmedi-carlos-turkiyeyi-reddetti",
+    "src": "Samsun Haber",
+    "d": "2026-07-16T12:05:00+03:00",
+    "desc": "Samsunspor, golcü transferinde büyük bir şokla karşı karşıya. Kırmızı-beyazlı yönetimin, OGC Nice forması giyen Kevin Carlos'u kadrosuna katmak için maaş teklifini ciddi oranda artırmasına rağmen oyuncudan olumsuz yanıt geldi.",
+    "img": "https://samsunhabercom.teimg.com/crop/1280x720/samsunhaber-com/uploads/2026/07/transfer-98.jpg",
+    "kat": "Spor"
   },
   {
     "id": "https://www.gazetearena.com/samsunspor-yeni-sezon-icin-guc-topluyor",
@@ -980,6 +1620,16 @@
     "kat": "Asayiş"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVHMxR1RsLTQtRzA3Z0pLUzZyZUJvYkdsdG9udmF0S2txVVk0ejBnLWFRZU0wa1hqMTAtSHpWREdHVE9TYUV0LUJuYmVrVVI2aDRtLS1fa3E4TnVkUnpKd0UtOVFWRTBsekVUVkkwLTBtWmZSQjBxQTJpRnY0Y05tZ0NhMS1NRk43OVdmX2F4bDN5eUNjX3U0ZE4wd3R6UWEyUHBmenIwU0M5T2xrQ0ZBVUhJSGF2Y1BrV2swQ1RLM1pfdw?oc=5",
+    "t": "Samsun merkezli 87 milyon TL'lik dolandırıcılık operasyonunda 6 kişi adliyeye sevk edildi - Ensonhaber",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVHMxR1RsLTQtRzA3Z0pLUzZyZUJvYkdsdG9udmF0S2txVVk0ejBnLWFRZU0wa1hqMTAtSHpWREdHVE9TYUV0LUJuYmVrVVI2aDRtLS1fa3E4TnVkUnpKd0UtOVFWRTBsekVUVkkwLTBtWmZSQjBxQTJpRnY0Y05tZ0NhMS1NRk43OVdmX2F4bDN5eUNjX3U0ZE4wd3R6UWEyUHBmenIwU0M5T2xrQ0ZBVUhJSGF2Y1BrV2swQ1RLM1pfdw?oc=5",
+    "src": "Ensonhaber",
+    "d": "2026-07-16T08:30:48+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Asayiş"
+  },
+  {
     "id": "https://www.samsunhaberajansi.com/haber-yeni-kalkanci-yolu-trafige-acildi-30286.html",
     "t": "Yeni Kalkancı yolu trafiğe açıldı",
     "u": "https://www.samsunhaberajansi.com/haber-yeni-kalkanci-yolu-trafige-acildi-30286.html",
@@ -1018,6 +1668,16 @@
     "desc": "1 Ağustos tarihleri arasında Hollanda'da gerçekleştireceğini duyurdu.",
     "img": "https://samsuncanlihabercom.teimg.com/crop/1280x720/samsuncanlihaber-com/uploads/2026/07/agency/iha/samsunspor-yeni-sezon-kampinin-ikinci-etabini-hollandada-yapacak.jpg",
     "kat": "Spor"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3l3WGlzckQybjVjWGw3YXJhdzZSangwcmZ6ZUpVLXVIVjZrY2g2QmVaOTdUU1l5X0xwU3hDMjJ6N3NLLUx3SG9TUWtZY1N3WHczTzJmMHBKeC05OENmUXdUa0VEUXFIV0R4cDBHYktoejgwa0M3NmgyRDZsQkpjcHAxQjVrbm9nNHVINUtIYjFmWVpZSnRvVU9ZVGpma1o5aXEwcEdHLWJPZ2J60gGqAUFVX3lxTE5XWXlQbnQ5cktHX0dlRWpiMThyanNsR29TaWN6ZTgtUnFBOHlVeXhyTURBN29vUUJac18zNWpadTQzaTJjaE5ia09mYW1JT3hvSkcyZm53czRhMU1qWEIzQkFGOVNMLWhKYXc5QWhxRkkzbGpIWmFSM3duc1hYMjRvdFlsMXRZMi1WQWJ5Z3ZCU05kdTM2d1IzV2JyV3BIa1Z0RTU0bThJeTBn?oc=5",
+    "t": "Kaçak makaron operasyonunda 1 milyon 350 bin adet ele geçirildi - Samsun Son Haber",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3l3WGlzckQybjVjWGw3YXJhdzZSangwcmZ6ZUpVLXVIVjZrY2g2QmVaOTdUU1l5X0xwU3hDMjJ6N3NLLUx3SG9TUWtZY1N3WHczTzJmMHBKeC05OENmUXdUa0VEUXFIV0R4cDBHYktoejgwa0M3NmgyRDZsQkpjcHAxQjVrbm9nNHVINUtIYjFmWVpZSnRvVU9ZVGpma1o5aXEwcEdHLWJPZ2J60gGqAUFVX3lxTE5XWXlQbnQ5cktHX0dlRWpiMThyanNsR29TaWN6ZTgtUnFBOHlVeXhyTURBN29vUUJac18zNWpadTQzaTJjaE5ia09mYW1JT3hvSkcyZm53czRhMU1qWEIzQkFGOVNMLWhKYXc5QWhxRkkzbGpIWmFSM3duc1hYMjRvdFlsMXRZMi1WQWJ5Z3ZCU05kdTM2d1IzV2JyV3BIa1Z0RTU0bThJeTBn?oc=5",
+    "src": "Samsun Son Haber",
+    "d": "2026-07-16T08:24:56+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Asayiş"
   },
   {
     "id": "https://www.samsuncanlihaber.com/kacak-makaron-operasyonunda-1-milyon-350-bin-adet-ele-gecirildi",
@@ -1260,10 +1920,30 @@
     "kat": "Asayiş"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU1lOV2pTUHhDbmRsN010azdhU2lQcXI0cEdTcWdaa2NHSlRicjRZSFFDNDh5bmRzcnRsb1JORVNHQlpSeWRvdjRsQ1BTemhnb2pIaXJJd3FOTjNaMm5MRWsxd3EwNWhrTWhpWVlPelpJQnV1TjVtR1RqQ3k2SFBOX1NUdmFkdlFZN25CZVNoT0FqaUVKWnJLVXlhTE8wRm16dVQzZUl2TDd3Vm52SjdWdG94cTZmMGpyX3c?oc=5",
+    "t": "Samsun merkezli dolandırıcılık operasyonunda 6 şüpheli yakalandı - CNN Türk",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU1lOV2pTUHhDbmRsN010azdhU2lQcXI0cEdTcWdaa2NHSlRicjRZSFFDNDh5bmRzcnRsb1JORVNHQlpSeWRvdjRsQ1BTemhnb2pIaXJJd3FOTjNaMm5MRWsxd3EwNWhrTWhpWVlPelpJQnV1TjVtR1RqQ3k2SFBOX1NUdmFkdlFZN25CZVNoT0FqaUVKWnJLVXlhTE8wRm16dVQzZUl2TDd3Vm52SjdWdG94cTZmMGpyX3c?oc=5",
+    "src": "CNN Türk",
+    "d": "2026-07-16T08:02:13+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Asayiş"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbmpoTmU0UHV5Z3RRdXVUYmYxcURLMk42TnFmUE10NlJydnZ6a001MVRMcGZWbFdDdVUtRHliRmhoYi1udzVNVmRQcjZ0V09lWElnS1l1d0lLejFhSFowOTVsTVpUNVJMM3JlemticnlpaEJmYXRiODVSb2h2czJXMFVJRWREOTlzZFVaX181ZWZPd2JndXY2eVhCTWZYNHlnMzB0OTN0SQ?oc=5",
     "t": "Samsun'da uyuşturucu operasyonunda gözaltına alınan 2 zanlı adliyede - Milliyet",
     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbmpoTmU0UHV5Z3RRdXVUYmYxcURLMk42TnFmUE10NlJydnZ6a001MVRMcGZWbFdDdVUtRHliRmhoYi1udzVNVmRQcjZ0V09lWElnS1l1d0lLejFhSFowOTVsTVpUNVJMM3JlemticnlpaEJmYXRiODVSb2h2czJXMFVJRWREOTlzZFVaX181ZWZPd2JndXY2eVhCTWZYNHlnMzB0OTN0SQ?oc=5",
     "src": "Milliyet",
+    "d": "2026-07-16T08:02:06+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Asayiş"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU1ZRSzUyUElUOXZ4Q25GRE1DZkc1eEQ3d0JxbTJDc2NYajRGWnF6UmZZUDE4cC1rRE1pNl9wZUxhcnVjRE5za2tCZHNKLVp6RDFkU2dFZWhnQkNXaG5hTkNDNXZtMjI5UG5nS2xRUERHQm1tZ2tjT2FFMlZJazZIZmRfRDJtdWZxOE0tWWhaR3l4cUhyWHVkdkNtaWowR2QxVnlkY2o0dXFYdWhvTWFkNVE5UjZCVW90cXBudnVR?oc=5",
+    "t": "Samsun'da uyuşturucu operasyonunda gözaltına alınan 2 zanlı adliyede - CNN Türk",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU1ZRSzUyUElUOXZ4Q25GRE1DZkc1eEQ3d0JxbTJDc2NYajRGWnF6UmZZUDE4cC1rRE1pNl9wZUxhcnVjRE5za2tCZHNKLVp6RDFkU2dFZWhnQkNXaG5hTkNDNXZtMjI5UG5nS2xRUERHQm1tZ2tjT2FFMlZJazZIZmRfRDJtdWZxOE0tWWhaR3l4cUhyWHVkdkNtaWowR2QxVnlkY2o0dXFYdWhvTWFkNVE5UjZCVW90cXBudnVR?oc=5",
+    "src": "CNN Türk",
     "d": "2026-07-16T08:02:06+00:00",
     "desc": "",
     "img": "",
@@ -1410,6 +2090,16 @@
     "kat": "Gündem"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVWhESGdhRC1Qa0hyWFRYbHkyTmlHVVc3VHNEb01sc1JKN0J6QlEwczNVS0dKdlV0QWR5ZlprWVp2aFB2dGlTT1ZWbWV2alBpQVZGcUtJRGRLOVZJWEI4R09WU0NqUnhvQmhwS1FJcnpOQ0lRRjZwOFlMQWJlbG1Td0JKVHBfM2NPSVpmbFVMMER4TUlnbmU3R2NzUG80QjQ?oc=5",
+    "t": "Samsun’da binlerce kişi 15 Temmuz Demokrasi ve Milli Birlik Günü’nde buluştu - Haber55",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVWhESGdhRC1Qa0hyWFRYbHkyTmlHVVc3VHNEb01sc1JKN0J6QlEwczNVS0dKdlV0QWR5ZlprWVp2aFB2dGlTT1ZWbWV2alBpQVZGcUtJRGRLOVZJWEI4R09WU0NqUnhvQmhwS1FJcnpOQ0lRRjZwOFlMQWJlbG1Td0JKVHBfM2NPSVpmbFVMMER4TUlnbmU3R2NzUG80QjQ?oc=5",
+    "src": "Haber55",
+    "d": "2026-07-16T07:55:10+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Gündem"
+  },
+  {
     "id": "https://www.gazetearena.com/bafrada-kapikaya-doga-sporlari-festivali-hazirliklari-suruyor",
     "t": "Bafra'da Kapıkaya Doğa Sporları Festivali hazırlıkları sürüyor",
     "u": "https://www.gazetearena.com/bafrada-kapikaya-doga-sporlari-festivali-hazirliklari-suruyor",
@@ -1490,6 +2180,16 @@
     "kat": "Asayiş"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kRV91anFFVWlvbnFrWmJQMldrM1Bza3lSVmRlQnBjZXpzS2RKTzZBV2tQRTdyLWJFU2RCbDdDRDJRdFBmcUsxSXRhamtOeDNySU04a1YtVld3VkdVNHIxQVJqTE5uY0lPaG5DU1lVWFVOZ3JyYWViQ3pUWXY3MjQ?oc=5",
+    "t": "Samsun'da 87 milyon TL’lik dev vurgun! - Gazete Gerçek",
+    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kRV91anFFVWlvbnFrWmJQMldrM1Bza3lSVmRlQnBjZXpzS2RKTzZBV2tQRTdyLWJFU2RCbDdDRDJRdFBmcUsxSXRhamtOeDNySU04a1YtVld3VkdVNHIxQVJqTE5uY0lPaG5DU1lVWFVOZ3JyYWViQ3pUWXY3MjQ?oc=5",
+    "src": "Gazete Gerçek",
+    "d": "2026-07-16T07:47:08+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Gündem"
+  },
+  {
     "id": "https://www.samsunhaberajansi.com/haber-bafrada-15-temmuz-ruhu-yeniden-yasatildi-30282.html",
     "t": "Bafra'da 15 Temmuz Ruhu Yeniden Yaşatıldı",
     "u": "https://www.samsunhaberajansi.com/haber-bafrada-15-temmuz-ruhu-yeniden-yasatildi-30282.html",
@@ -1518,6 +2218,26 @@
     "desc": "İlyas Yalçıntaş neden gözaltına alındı, tutuklandı mı? Bakırköy Cumhuriyet Başsavcılığı’nın yürüttüğü yasaklı madde soruşturmasında son durum ve resmi açıklamalar.",
     "img": "https://gazetearenacom.teimg.com/gazetearena-com/uploads/2026/07/ilyas-yalcintas-gozalti-2.jpeg",
     "kat": "Asayiş"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQkZ0aFNaN294OFRGNmtralhsbEhyM2ltdDdqZmN6OHNmRzlOMUhZV0NjcnBILWFOWTNXV08zUnk5MjVPbDdOTjdIVFNnVDU5QlB4bWV2Z2lES3NCSWNBTjk4cUJrcWF0TVlSZEJpbzJWM1phNHJwT1ZaQWxidG1nLWw1YVBCVU1yRlh4NVhWRQ?oc=5",
+    "t": "Samsun'da 1 kilo 210 gram metamfetamin ele geçirildi - kizilirmakgazetesi.com",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQkZ0aFNaN294OFRGNmtralhsbEhyM2ltdDdqZmN6OHNmRzlOMUhZV0NjcnBILWFOWTNXV08zUnk5MjVPbDdOTjdIVFNnVDU5QlB4bWV2Z2lES3NCSWNBTjk4cUJrcWF0TVlSZEJpbzJWM1phNHJwT1ZaQWxidG1nLWw1YVBCVU1yRlh4NVhWRQ?oc=5",
+    "src": "kizilirmakgazetesi.com",
+    "d": "2026-07-16T07:41:51+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWIwN0lTSjJkUWZmaHh3UnlORWQ3Uzk1U3RtTkh1c2lvSElBSGZGSjlyYlgxRFNZQUZDRjVReU9BRWxiU0JxS19Gd0NjTlZjMHBvX0NTa01XOG9VcmszbWFOcU9iNDBhOERBdGY2X1VTQVNfcFhPazh0SGZ1SWhGandMVDhWb05VZVRlOWZhUmdoNGR0V3dMZw?oc=5",
+    "t": "15 Temmuz şehitleri Samsun, Ordu ve Sinop'ta dualarla anıldı - kizilirmakgazetesi.com",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWIwN0lTSjJkUWZmaHh3UnlORWQ3Uzk1U3RtTkh1c2lvSElBSGZGSjlyYlgxRFNZQUZDRjVReU9BRWxiU0JxS19Gd0NjTlZjMHBvX0NTa01XOG9VcmszbWFOcU9iNDBhOERBdGY2X1VTQVNfcFhPazh0SGZ1SWhGandMVDhWb05VZVRlOWZhUmdoNGR0V3dMZw?oc=5",
+    "src": "kizilirmakgazetesi.com",
+    "d": "2026-07-16T07:41:28+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Gündem"
   },
   {
     "id": "https://www.gazetearena.com/foto-galeri/sila-neden-gozaltina-alindi-tutuklandi-mi",
@@ -14278,725 +14998,5 @@
     "desc": "Samsun'da narkotik ekiplerinin İlkadım, Atakum ve Bafra ilçelerinde düzenlediği operasyonlarda binlerce sentetik ecza hap ile çeşitli uyuşturucu maddeler ve ruhsatsız silah ele geçirildi.",
     "img": "",
     "kat": "Asayiş"
-  },
-  {
-    "id": "https://www.gazetegercek.com.tr/samsunda-4-ilcede-uyusturucu-baskinlari-7-gozalti/230744",
-    "t": "Samsun'da 4 ilçede uyuşturucu baskınları: 7 gözaltı!",
-    "u": "https://www.gazetegercek.com.tr/samsunda-4-ilcede-uyusturucu-baskinlari-7-gozalti/230744",
-    "src": "Gazete Gerçek",
-    "d": "2026-07-13T14:14:37+03:00",
-    "desc": "Samsun Emniyet Müdürlüğü ekiplerinin İlkadım, Canik, Çarşamba ve Bafra ilçelerinde gerçekleştirdiği eş zamanlı operasyonlarda çok sayıda uyuşturucu madde ile ruhsatsız silah ele geçirildi. Operasyonlarda 7 şüpheli yakalandı.",
-    "img": "",
-    "kat": "Asayiş"
-  },
-  {
-    "id": "https://www.samsungazetesi.com/samsunspor-ile-fc-feronikeli-arasinda-is-birligi-adimi",
-    "t": "Samsunspor ile FC Feronikeli arasında iş birliği adımı",
-    "u": "https://www.samsungazetesi.com/samsunspor-ile-fc-feronikeli-arasinda-is-birligi-adimi",
-    "src": "Samsun Gazetesi",
-    "d": "2026-07-13T14:13:00+03:00",
-    "desc": "SAMSUNSPOR HABER... Kosova ekibi FC Feronikeli 74'ün yöneticileri, Samsunspor Başkanı Yüksel Yıldırım'ın davetiyle Samsun'da bir dizi temas gerçekleştirdi. Beş gün süren ziyarette iki kulüp arasında altyapı, oyuncu gelişimi ve kiralık transferleri kapsayan uzun vadeli iş birliği görüşmeleri yapıldı.",
-    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/samsunspor-ile-f-c-feronikeli-arasinda-is-birligi-adimi-666.jpg",
-    "kat": "Spor"
-  },
-  {
-    "id": "https://www.samsungazetesi.com/video/samsunda-findik-icin-kritik-surec-basladi",
-    "t": "Samsun'da fındık için kritik süreç başladı!",
-    "u": "https://www.samsungazetesi.com/video/samsunda-findik-icin-kritik-surec-basladi",
-    "src": "Samsun Gazetesi",
-    "d": "2026-07-13T14:10:00+03:00",
-    "desc": "Türkiye'nin en önemli fındık üretim merkezlerinden Samsun'da 2026 yılı rekolte tespit çalışmaları başladı. İl genelinde belirlenen 86 bahçede yürütülen sayımlarla, hasat öncesi gerçeğe en yakın rekoltenin belirlenmesi hedefleniyor.",
-    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/samsunda-findik-icin-kritik-surec-basladi-7.jpg",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://www.gazetegercek.com.tr/atakumda-9-yil-hapis-cezasi-bulunan-hukumlu-yakalandi/230741",
-    "t": "Atakum'da 9 yıl hapis cezası bulunan hükümlü yakalandı",
-    "u": "https://www.gazetegercek.com.tr/atakumda-9-yil-hapis-cezasi-bulunan-hukumlu-yakalandi/230741",
-    "src": "Gazete Gerçek",
-    "d": "2026-07-13T14:09:43+03:00",
-    "desc": "Samsun'da polis ekiplerinin aranan şahıslara yönelik yürüttüğü çalışmalar kapsamında, hakkında çeşitli suçlardan 9 yıl 1 ay 23 gün kesinleşmiş hapis cezası bulunan hükümlü Atakum ilçesinde yakalandı.",
-    "img": "",
-    "kat": "Asayiş"
-  },
-  {
-    "id": "https://www.samsunhaber.com/sinan-engin-kendini-yuksel-yildirimin-yerine-koydu-o-kadar-servetim-olsa",
-    "t": "Sinan Engin kendini Yüksel Yıldırım'ın yerine koydu, O KADAR SERVETİM OLSA",
-    "u": "https://www.samsunhaber.com/sinan-engin-kendini-yuksel-yildirimin-yerine-koydu-o-kadar-servetim-olsa",
-    "src": "Samsun Haber",
-    "d": "2026-07-13T14:08:00+03:00",
-    "desc": "Beşiktaşlı eski futbolcu ve ünlü spor yorumcusu Sinan Engin, Samsunspor Başkanı Yüksel Yıldırım hakkında çok konuşulacak açıklamalara imza attı. Feyyaz Uçar'ın YouTube programında konuşan Engin, hem övgüler yağdırdı hem de esprili bir dille başkana meydan okudu!",
-    "img": "https://samsunhabercom.teimg.com/crop/1280x720/samsunhaber-com/uploads/2026/07/servet-3.jpg",
-    "kat": "Spor"
-  },
-  {
-    "id": "https://www.dengegazetesi.com.tr/turnuvada-samsunspor-ruzgari-esti-206724h.htm",
-    "t": "Turnuvada Samsunspor rüzgarı esti",
-    "u": "https://www.dengegazetesi.com.tr/turnuvada-samsunspor-ruzgari-esti-206724h.htm",
-    "src": "Denge Gazetesi",
-    "d": "2026-07-13T14:04:00+03:00",
-    "desc": "İstanbul Youth Open 2026 Badminton Turnuvası'na iki sporcuyla katılan Samsunspor, iki şampiyonluk ve iki üçüncülük elde ederek organizasyona damga vurdu.",
-    "img": "https://d.dengegazetesi.com.tr/news/250992.jpg",
-    "kat": "Spor"
-  },
-  {
-    "id": "https://www.samsungazetesi.com/araci-olmayana-belediye-yetisiyor-tekkekoyde-ornek-uygulama",
-    "t": "Aracı olmayana belediye yetişiyor! Tekkeköy'de örnek uygulama",
-    "u": "https://www.samsungazetesi.com/araci-olmayana-belediye-yetisiyor-tekkekoyde-ornek-uygulama",
-    "src": "Samsun Gazetesi",
-    "d": "2026-07-13T14:03:00+03:00",
-    "desc": "Samsun Haber...Tekkeköy Belediyesi, hastaneye ulaşmakta güçlük çeken yaşlı ve ihtiyaç sahibi vatandaşları evlerinden alıp tedavilerinin ardından yeniden evlerine ulaştırıyor.",
-    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/araci-olmayana-belediye-yetisiyor.jpg",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://www.dengegazetesi.com.tr/masaktan-fetonun-para-trafigine-siki-takip-206713h.htm",
-    "t": "MASAK'tan FETÖ'nün para trafiğine sıkı takip",
-    "u": "https://www.dengegazetesi.com.tr/masaktan-fetonun-para-trafigine-siki-takip-206713h.htm",
-    "src": "Denge Gazetesi",
-    "d": "2026-07-13T14:00:00+03:00",
-    "desc": "MASAK Başkanlığı, FETÖ/PDY'nin finansman kaynaklarının kesilmesi çalışmaları kapsamında, 2025 yılı sonuna kadar 84 bin 724 analiz dosyası tamamlayarak, 329 bin 504 gerçek ve tüzel kişi hakkında düzenlenen analiz raporlarını, adli makamlara sundu.",
-    "img": "https://d.dengegazetesi.com.tr/news/250981.jpg",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://www.samsungazetesi.com/samsunlu-atletlerden-turkiye-sampiyonasinda-buyuk-basari",
-    "t": "Samsunlu atletlerden Türkiye Şampiyonası'nda büyük başarı",
-    "u": "https://www.samsungazetesi.com/samsunlu-atletlerden-turkiye-sampiyonasinda-buyuk-basari",
-    "src": "Samsun Gazetesi",
-    "d": "2026-07-13T13:45:00+03:00",
-    "desc": "Samsun Kuzeyin Yıldızları Spor Kulübü, U16 Kulüpler Türkiye Atletizm Şampiyonası'nda 19 takım arasında Türkiye dördüncüsü olurken, cirit atmada mücadele eden Eymen Burhan Yılmaz ise Türkiye şampiyonu olarak Samsun'a çifte gurur yaşattı.",
-    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/samsunlu-atletlerden-turkiye-sampiyonasinda-buyuk-basari-1.jpg",
-    "kat": "Spor"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRlVIZ3ZGdzBDbGl4QjVrUGVGYUY5M0U0OVBVYlVZYl95U3BYQXlhSUp5NFltQkxCSzdUdURQTDFSdmRXMV9VaEVOdVFJSGxKU2tQcEJzX1k4Rms3enFfUWgtOXI1UmsyVEhqX2hTaHNIVFZpSnI1THhxN2Q0dlZIejB6OTNrdHlMX0VrXzVWNkQ0eHhjblFSY2l4c0J1S2Fr?oc=5",
-    "t": "Samsunspor'un eski hocası Thomas Reis'in yeni takımı açıklandı - Yeni Şafak",
-    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRlVIZ3ZGdzBDbGl4QjVrUGVGYUY5M0U0OVBVYlVZYl95U3BYQXlhSUp5NFltQkxCSzdUdURQTDFSdmRXMV9VaEVOdVFJSGxKU2tQcEJzX1k4Rms3enFfUWgtOXI1UmsyVEhqX2hTaHNIVFZpSnI1THhxN2Q0dlZIejB6OTNrdHlMX0VrXzVWNkQ0eHhjblFSY2l4c0J1S2Fr?oc=5",
-    "src": "Yeni Şafak",
-    "d": "2026-07-13T10:40:16+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Spor"
-  },
-  {
-    "id": "https://www.samsunhaber.com/hazirliklar-bir-gunluk-aradan-sonra-yeniden-start-aldi-samsunsporda-tempo-yuksek",
-    "t": "Hazırlıklar bir günlük aradan sonra yeniden start aldı, Samsunspor'da TEMPO YÜKSEK",
-    "u": "https://www.samsunhaber.com/hazirliklar-bir-gunluk-aradan-sonra-yeniden-start-aldi-samsunsporda-tempo-yuksek",
-    "src": "Samsun Haber",
-    "d": "2026-07-13T13:38:00+03:00",
-    "desc": "Samsunspor, bir günlük iznin ardından çalışmalarına hız kesmeden yeniden başladı. Nuri Asan Tesisleri’nde gerçekleştirilen sabah antrenmanıyla birlikte, yeni sezon hazırlıklarının Samsun etabı tüm hızıyla sürüyor.",
-    "img": "https://samsunhabercom.teimg.com/crop/1280x720/samsunhaber-com/uploads/2026/07/tempo-8.jpg",
-    "kat": "Spor"
-  },
-  {
-    "id": "https://www.samsungazetesi.com/muhsin-yazicioglu-dosyasi-raftan-indi-tasarlayarak-oldurmekten-gozaltindalar",
-    "t": "Muhsin Yazıcıoğlu dosyası raftan indi! Tasarlayarak öldürmekten gözaltındalar",
-    "u": "https://www.samsungazetesi.com/muhsin-yazicioglu-dosyasi-raftan-indi-tasarlayarak-oldurmekten-gozaltindalar",
-    "src": "Samsun Gazetesi",
-    "d": "2026-07-13T13:35:00+03:00",
-    "desc": "Muhsin Yazıcıoğlu'nun ölümüne ilişkin yeniden açılan soruşturmada, 10 ilde düzenlenen eş zamanlı operasyonlarda 25 şüpheli gözaltına alındı.",
-    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/muhsin-yazicioglu-dosyasi-raftan-indi-tasarlayarak-oldurmekten-gozaltindalar.jpg",
-    "kat": "Asayiş"
-  },
-  {
-    "id": "https://acikgazete.com/turkiye/10-soruda-haluk-levent-ve-ahbap-dosyasi-iddialar-neler/",
-    "t": "10 soruda Haluk Levent ve Ahbap dosyası: İddialar neler?",
-    "u": "https://acikgazete.com/turkiye/10-soruda-haluk-levent-ve-ahbap-dosyasi-iddialar-neler/",
-    "src": "Açık Gazete",
-    "d": "2026-07-13T10:28:46+00:00",
-    "desc": "Alican Uludağ / DW &#8211; 6 Şubat depremleri sırasında öne çıkan Ahbap Derneği ve kurucusu Haluk Levent&#8217;e yönelik kapsamlı bir soruşturma başlatıldı. Soruşturma nasıl başladı, dosyadaki iddialar neler? 6 Şubat depremlerinin ardından yürüttüğü yardım faaliyetleri ve topladığı bağışlarla kamuoyunun gündemine gelen Ahbap Derneği ve Haluk Levent, şimdi kapsamlı bir soruşturmanın odağında. İstan",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOenZ6aEk2ZlowaENjTEJoeHlnRDg0dEJRTUh1YUc2TXg4WldaUHRZR1l1TXUydzhkT1h6SlJ6WnN6VnZDUUVxME13OVBpcHBvSWZjUENGVmV5UDNoS3JJZFp6UzN2cjl2OGV4SExNX2hzSDRHM0NYM3pmTFJvV0J3UVpTakVwbUVvSkZHa3JRekFiS0RqT0VKM29MQQ?oc=5",
-    "t": "Samsun Çarşamba Havalimanı altı ayda 788 bin yolcu ağırladı - Haber Aero",
-    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOenZ6aEk2ZlowaENjTEJoeHlnRDg0dEJRTUh1YUc2TXg4WldaUHRZR1l1TXUydzhkT1h6SlJ6WnN6VnZDUUVxME13OVBpcHBvSWZjUENGVmV5UDNoS3JJZFp6UzN2cjl2OGV4SExNX2hzSDRHM0NYM3pmTFJvV0J3UVpTakVwbUVvSkZHa3JRekFiS0RqT0VKM29MQQ?oc=5",
-    "src": "Haber Aero",
-    "d": "2026-07-13T10:28:25+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://www.samsunhaber.com/samsunsporda-carlos-soku",
-    "t": "Samsunspor'da CARLOS ŞOKU",
-    "u": "https://www.samsunhaber.com/samsunsporda-carlos-soku",
-    "src": "Samsun Haber",
-    "d": "2026-07-13T13:27:00+03:00",
-    "desc": "Kırmızı beyazlı ekibin yıllık 1.5 milyon Euro garanti ücretle el sıkıştığı dünyaca ünlü golcü, son dakikada attığı imza aşamasından geri adım atarak yönetimi adeta şoke etti. İşte kırmızı beyazlı camiada deprem etkisi yaratan transfer krizinin perde arkası...",
-    "img": "https://samsunhabercom.teimg.com/crop/1280x720/samsunhaber-com/uploads/2026/07/carlos.jpg",
-    "kat": "Spor"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAybEtrVlAxS0VWemhMZGNmZTV5S2FTektieThGOTVkdzFnb2pTRDdvbXdBUDBwVDhxTkJDb1o0UmtCUlRDd1d0eW9lU1hDQ3ZSdUlfVm91NV9sTnBKVjFicmZn0gFnQVVfeXFMTng1R0dLNzZFZkhpcWxBakZUbUFpb0NMT2JRaldPTVZodG9fc0VfUDkzZFlOT1MtRjQybERHcjJpRmhHUE5mOS1BUFZOaVU2NWdaa0RySlAzLTY5R0tyMGlSZG9MT19uWQ?oc=5",
-    "t": "Samsunspor'da CARLOS ŞOKU - Samsun Haber",
-    "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAybEtrVlAxS0VWemhMZGNmZTV5S2FTektieThGOTVkdzFnb2pTRDdvbXdBUDBwVDhxTkJDb1o0UmtCUlRDd1d0eW9lU1hDQ3ZSdUlfVm91NV9sTnBKVjFicmZn0gFnQVVfeXFMTng1R0dLNzZFZkhpcWxBakZUbUFpb0NMT2JRaldPTVZodG9fc0VfUDkzZFlOT1MtRjQybERHcjJpRmhHUE5mOS1BUFZOaVU2NWdaa0RySlAzLTY5R0tyMGlSZG9MT19uWQ?oc=5",
-    "src": "Samsun Haber",
-    "d": "2026-07-13T10:27:00+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Spor"
-  },
-  {
-    "id": "https://acikgazete.com/dunya/infantino-fifa-dunya-kupasini-64-takima-cikarmayi-gorusecek/",
-    "t": "Infantino: FIFA Dünya Kupası’nı 48’den 64 takıma çıkarmayı görüşecek",
-    "u": "https://acikgazete.com/dunya/infantino-fifa-dunya-kupasini-64-takima-cikarmayi-gorusecek/",
-    "src": "Açık Gazete",
-    "d": "2026-07-13T10:22:44+00:00",
-    "desc": "BBC Türkçe &#8211; FIFA Başkanı Gianni Infantino, organizasyonun &#8220;tüm dünya için&#8221; olması gerektiğini söyleyerek, bu yılki turnuvanın ardından erkekler Dünya Kupası&#8217;nın 64 takıma çıkarılması planlarının değerlendirileceğini açıkladı. Genişletilmiş bir turnuva önerisi geçen yıl gündeme gelmişti. Infantino, 48 takımlı genişletilmiş turnuvanın başarısının, FIFA&#8217;nın 64 takımlı b",
-    "img": "",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORHNVcTFKdHFOVXNFQzJaTk1od2FjT0FoMUNGMVI1OHZCaUNsTnRrVTZjQ1R4bzRrTDk2V19aMkpKcWlvc1poaVdmUWpBYVlXZmVtYVlnVUllbmVMZk95Rk0zSXpHY0dnbG1ZQVo5b09lZFVLVkI5TTNaOF9vUFZYOFdJR2UxVXJqb2JtUDNKd1pWbDlTLVE?oc=5",
-    "t": "Samsun Çarşamba Havalimanı altı ayda 788 bin yolcu ağırladı - Haber Aero",
-    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORHNVcTFKdHFOVXNFQzJaTk1od2FjT0FoMUNGMVI1OHZCaUNsTnRrVTZjQ1R4bzRrTDk2V19aMkpKcWlvc1poaVdmUWpBYVlXZmVtYVlnVUllbmVMZk95Rk0zSXpHY0dnbG1ZQVo5b09lZFVLVkI5TTNaOF9vUFZYOFdJR2UxVXJqb2JtUDNKd1pWbDlTLVE?oc=5",
-    "src": "Haber Aero",
-    "d": "2026-07-13T10:19:33+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://www.samsungazetesi.com/canikte-cocuklari-camiye-kosturan-proje",
-    "t": "Canik'te çocukları camiye koşturan proje",
-    "u": "https://www.samsungazetesi.com/canikte-cocuklari-camiye-kosturan-proje",
-    "src": "Samsun Gazetesi",
-    "d": "2026-07-13T13:12:00+03:00",
-    "desc": "Samsun Haber...Canik Belediyesi'nin \"Haydi Güle Oynaya Camiye Gel\" projesiyle çocuklar ve gençler camilerde buluşuyor, yaz Kur'an kursları ve sosyal etkinliklere katılıyor.",
-    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/canikte-cocuklari-camiye-kosturan-proje.jpg",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://www.gazetegercek.com.tr/bahcesehir-kolejinin-turkiye-sampiyonu-31-ogrencisinden-3u-samsun-kampuslerinden-lgsde-samsunun-gururu/230719",
-    "t": "Bahçeşehir Koleji’nin Türkiye şampiyonu 31 öğrencisinden 3’ü Samsun kampüslerinden! LGS’de Samsun’un gururu",
-    "u": "https://www.gazetegercek.com.tr/bahcesehir-kolejinin-turkiye-sampiyonu-31-ogrencisinden-3u-samsun-kampuslerinden-lgsde-samsunun-gururu/230719",
-    "src": "Gazete Gerçek",
-    "d": "2026-07-13T13:11:58+03:00",
-    "desc": "LGS sonuçları, Bahçeşehir Koleji’nin eğitimdeki başarısını bir kez daha gözler önüne serdi. Türkiye genelindeki kampüslerinden 31 öğrenci 500 tam puan alarak Türkiye birincisi olurken, bu büyük başarının 3’ü Bahçeşehir Koleji Samsun Kampüslerinden geldi.",
-    "img": "",
-    "kat": "Eğitim"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQUhYMzFNWXhKcnNJSHppeU44VzhiUG5YN29zY05ZTHl3eUNBRlNiTm9qeFRRSjFQcEN5ZjA0aVhTdElvQ2lzemxzRHJFemVzVmpmUVhNY21WOUZtOTI3SGRPTC1NNFplQjVXV0hpd0ZUclZ0TWgxbFpXQnoxOEwyRmlCdG5DVVlPMnNKd2V4YnZSa2tFemc?oc=5",
-    "t": "ADP Samsun Atakum Municipal Mayor Candidates | Local Elections 2024 - Yeni Safak English",
-    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQUhYMzFNWXhKcnNJSHppeU44VzhiUG5YN29zY05ZTHl3eUNBRlNiTm9qeFRRSjFQcEN5ZjA0aVhTdElvQ2lzemxzRHJFemVzVmpmUVhNY21WOUZtOTI3SGRPTC1NNFplQjVXV0hpd0ZUclZ0TWgxbFpXQnoxOEwyRmlCdG5DVVlPMnNKd2V4YnZSa2tFemc?oc=5",
-    "src": "Yeni Safak English",
-    "d": "2026-07-13T10:07:24+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT0NWZEczRUVMM3E0Q2dWR3lWYTkxYjliUDdWR2hSWm9BZVh0cDFJbjB0QlVFSW40MFhHM29XbXJLczdER2RhTjI2Qy1aWUZCNFVCZVhLWFNBaTVGSGtCUVNpMVRLMlBRTTVmWTlPX1ltRGpfY2ZMeWpGNVBsVlVsRWl5dkF4cVliaGVqdGRVa1pIdw?oc=5",
-    "t": "Samsun'da fındıkta rekolte mesaisi - Karadeniz Gazetesi",
-    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT0NWZEczRUVMM3E0Q2dWR3lWYTkxYjliUDdWR2hSWm9BZVh0cDFJbjB0QlVFSW40MFhHM29XbXJLczdER2RhTjI2Qy1aWUZCNFVCZVhLWFNBaTVGSGtCUVNpMVRLMlBRTTVmWTlPX1ltRGpfY2ZMeWpGNVBsVlVsRWl5dkF4cVliaGVqdGRVa1pIdw?oc=5",
-    "src": "Karadeniz Gazetesi",
-    "d": "2026-07-13T10:05:00+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRVJMVGUydk0xTmhGMXlSb3ZPRUJyaElEVGdqczFkLUJ4SlpFRXE1RG1XWDlENHhyaUt0SFphMk8xLW1EUGlQY0JjeWdLX0dLdzJSaklCMnJxRlVVbExpTUJZNzdTUXBKTF95Z01KTGtvai1GdERLNm5ZNElRaHBoeE5YaHUybzFsXzdGalZtNVYtV2xEdWctNWZ3aklxd3E3OUhHd0had9IBowFBVV95cUxPaFQ2amo3cE1OdXZqRFRvdTJ1UFpaWGpXelJzeXhpOVJFYlFrVTF5MEVDTHVBcXlwc21vMFFWMVBhZ2VqZU5DT1ZxSHFnRUlnZU9CYl9RamZHZjg5VlYySlJsYlJSY0ZTQUJuSHc5OTJXYVBMeG5ESG1QZXhfaTNXbzJIQ05pc2dKRVlwY3VtVWh3UHNma1BpWnFtSmlGN1pBQlU4?oc=5",
-    "t": "Samsun'da görme engelliler ve aileleri Kızılırmak Deltası Kuş Cenneti'ni gezdi - Haberler",
-    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRVJMVGUydk0xTmhGMXlSb3ZPRUJyaElEVGdqczFkLUJ4SlpFRXE1RG1XWDlENHhyaUt0SFphMk8xLW1EUGlQY0JjeWdLX0dLdzJSaklCMnJxRlVVbExpTUJZNzdTUXBKTF95Z01KTGtvai1GdERLNm5ZNElRaHBoeE5YaHUybzFsXzdGalZtNVYtV2xEdWctNWZ3aklxd3E3OUhHd0had9IBowFBVV95cUxPaFQ2amo3cE1OdXZqRFRvdTJ1UFpaWGpXelJzeXhpOVJFYlFrVTF5MEVDTHVBcXlwc21vMFFWMVBhZ2VqZU5DT1ZxSHFnRUlnZU9CYl9RamZHZjg5VlYySlJsYlJSY0ZTQUJuSHc5OTJXYVBMeG5ESG1QZXhfaTNXbzJIQ05pc2dKRVlwY3VtVWh3UHNma1BpWnFtSmlGN1pBQlU4?oc=5",
-    "src": "Haberler",
-    "d": "2026-07-13T10:03:46+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://www.samsungazetesi.com/samsunlu-ikiz-masa-teniscilerinden-avrupada-madalya-yagmuru",
-    "t": "Samsunlu ikiz masa tenisçilerinden Avrupa’da madalya yağmuru",
-    "u": "https://www.samsungazetesi.com/samsunlu-ikiz-masa-teniscilerinden-avrupada-madalya-yagmuru",
-    "src": "Samsun Gazetesi",
-    "d": "2026-07-13T13:01:00+03:00",
-    "desc": "SAMSUN HABER... Samsunlu ikiz kardeşler Burak Burç ve Enes Burç Masa Tenisi Virtus Avrupa Şampiyonası’nda farklı kategorilerde elde ettikleri derecelerle Avrupa’ya damga vurdu.",
-    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/samsunlu-ikiz-masa-teniscilerinden-avrupada-madalya-yagmuru-2.jpg",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWRvOXg5dlIzVGFteHRmSTd2X1RlNlRSY3FELVVuLTB1UGVvSGdLX2R3bXNTSG1HQjRwb1BIaG5vbGZzREliV2V0QmMtMGN0Z2RYeHBySm5LWk9vcjhLTEpkU2V2bmtNekl6Tmt1T3Y3TEJRaVlhbGhjQk5SSU5RaV9HRndhcXRoelpSVUxxVnVfZ1lGYldNSVp2aljSAaIBQVVfeXFMTnhrbW1JZGlqektwVVRLcHN6ekFsN0JOdmZ5U2hzZnNDY3BqWWNFdWV6S3FIZmxhdklLam8xWjljU0JJNkpqWnFYMnVjZmNkUXliS0h6UlhqNGQ2cjc2MWxzVDN3VHZiT19oVlEwRWIyd1hNM2NuRG0ybmJrS0NjVWpFWnBhdXlOY19lcUtCT0VRSk9yWFE4ZGxwOWZtd0ZkZXRB?oc=5",
-    "t": "Samsun'da Fındıkta Rekolte Mesaisi Başladı: 86 Bahçede Sayım Yapılıyor - Samsun Haber",
-    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWRvOXg5dlIzVGFteHRmSTd2X1RlNlRSY3FELVVuLTB1UGVvSGdLX2R3bXNTSG1HQjRwb1BIaG5vbGZzREliV2V0QmMtMGN0Z2RYeHBySm5LWk9vcjhLTEpkU2V2bmtNekl6Tmt1T3Y3TEJRaVlhbGhjQk5SSU5RaV9HRndhcXRoelpSVUxxVnVfZ1lGYldNSVp2aljSAaIBQVVfeXFMTnhrbW1JZGlqektwVVRLcHN6ekFsN0JOdmZ5U2hzZnNDY3BqWWNFdWV6S3FIZmxhdklLam8xWjljU0JJNkpqWnFYMnVjZmNkUXliS0h6UlhqNGQ2cjc2MWxzVDN3VHZiT19oVlEwRWIyd1hNM2NuRG0ybmJrS0NjVWpFWnBhdXlOY19lcUtCT0VRSk9yWFE4ZGxwOWZtd0ZkZXRB?oc=5",
-    "src": "Samsun Haber",
-    "d": "2026-07-13T10:00:00+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://www.samsunhaber.com/samsunda-findikta-rekolte-mesaisi-basladi-86-bahcede-sayim-yapiliyor",
-    "t": "Samsun'da Fındıkta Rekolte Mesaisi Başladı: 86 Bahçede Sayım Yapılıyor",
-    "u": "https://www.samsunhaber.com/samsunda-findikta-rekolte-mesaisi-basladi-86-bahcede-sayim-yapiliyor",
-    "src": "Samsun Haber",
-    "d": "2026-07-13T13:00:00+03:00",
-    "desc": "Türkiye'nin önemli fındık üretim merkezlerinden Samsun'da, 2026 yılı fındık rekoltesinin belirlenmesine yönelik saha çalışmaları başladı. İl genelinde seçilen 86 örnek bahçede gerçekleştirilen incelemelerle hasat öncesi üretim miktarının gerçeğe en yakın şekilde tespit edilmesi amaçlanıyor.",
-    "img": "https://samsunhabercom.teimg.com/crop/1280x720/samsunhaber-com/uploads/2026/07/rekolte-1.jpg",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVnkyUEpYaWtxQkxVT1ExUjJQOEFLa3gyTFFWaXRqdnlYZ01wMFF0SllTaWxDSWZuT0RfT21BVVg3MHFmcHRzRkIxTWgzeEl5ZTVTNjdiLVI4THNhLVZQSWg3OGRLc1RpQ3pGSXJQcjFaM3RzcVZIbHNqRTBzaUpHM0lLeEtuUG9hU1BwTlpWSWJzVFFFMktoa0N6SlZPTmlGLWhwTTBsa1RYT0lHTTlr0gGqAUFVX3lxTE1hOE5ON0hMQUhSYTFCd3pmQ3Z4cjZpV1BnaE03Rnp4eEdSWXBaN3dNRmJtWUNoNzdVTGZCVEMyblc2czlET2RvSG5EM05MRm9CRDVvTThUTUNHNlpjMnByTkoybWhCQUxOY1RtbW45LURHZFlVd2tnZWItN0NzemxLNG5lTkY1anVJQTVrQjNYbjdmTFFONFZOUE9ibkluZENvcE9yQldaY3Bn?oc=5",
-    "t": "Samsun'da 2026 yılı fındık rekolte tahmin çalışması yapılıyor - Haberler",
-    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVnkyUEpYaWtxQkxVT1ExUjJQOEFLa3gyTFFWaXRqdnlYZ01wMFF0SllTaWxDSWZuT0RfT21BVVg3MHFmcHRzRkIxTWgzeEl5ZTVTNjdiLVI4THNhLVZQSWg3OGRLc1RpQ3pGSXJQcjFaM3RzcVZIbHNqRTBzaUpHM0lLeEtuUG9hU1BwTlpWSWJzVFFFMktoa0N6SlZPTmlGLWhwTTBsa1RYT0lHTTlr0gGqAUFVX3lxTE1hOE5ON0hMQUhSYTFCd3pmQ3Z4cjZpV1BnaE03Rnp4eEdSWXBaN3dNRmJtWUNoNzdVTGZCVEMyblc2czlET2RvSG5EM05MRm9CRDVvTThUTUNHNlpjMnByTkoybWhCQUxOY1RtbW45LURHZFlVd2tnZWItN0NzemxLNG5lTkY1anVJQTVrQjNYbjdmTFFONFZOUE9ibkluZENvcE9yQldaY3Bn?oc=5",
-    "src": "Haberler",
-    "d": "2026-07-13T09:58:35+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://acikgazete.com/turkiye/ibb-davasinda-reddihakim-talebi-savunma-hakki-kisitlaniyor/",
-    "t": "İBB davasında reddihakim talebi: ‘Savunma hakkı kısıtlanıyor’",
-    "u": "https://acikgazete.com/turkiye/ibb-davasinda-reddihakim-talebi-savunma-hakki-kisitlaniyor/",
-    "src": "Açık Gazete",
-    "d": "2026-07-13T09:56:10+00:00",
-    "desc": "Ekrem İmamoğlu&#8217;na savunma yaptırılmayan, avukatlara süre kısıtlaması getirilen İBB davasında Aykut Erdoğdu ve Ramazan Gülten&#8217;in avukatları mahkeme heyetinin reddini talep etti. Cumhurbaşkanı adayı ve İstanbul Büyükşehir Belediye (İBB) Başkanı Ekrem İmamoğlu dahil 53&#8217;ü tutuklu 414 kişinin yargılandığı İBB davasında savunma kısıtlaması nedeniyle reddihakim talebinde bulunuldu. Dava",
-    "img": "",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeThSOU1lSWI1OFE3Zm04LXI2cHlKVmdRekVOeHBYWGxfcTJtbXo4UW9PbmQ3OU1TMUxVejlRcjVscEpYZUVvWTQ0WjRLWHN1Z1FkWjVrZUM4OGgzR0lER01ZY3N3RmFJelI4UElxVXNoRjJNaGFiWGFGN0Fucy1ET0xZX2Njbk9JQlFnMmplN1A2bG1NVG91UzZRTU1QU05CcDFjWUIxa9IBpAFBVV95cUxNX3Zlc0NZTG9FbVI4SHZocXRjck5wNDZiS0RqLUxxMmd2OEpXU1FBQkFfQl8zZl9fYi00SW5kbmlPRWRxVlFjX0d6aUdVYVd6Z202VDJwSUlDeEk4SHVvcWlSSFFDckNadkNXZ0FFNVdfM0d4UHk0dG1RWUUyWHA2UVpaMXozcXJTUGpVWXBXYm45eFB6VFA5bC1HOG1MVFpUUUVDbg?oc=5",
-    "t": "Başpehlivan Erkan Taş'a memleketi Sinop'ta görkemli karşılama - Samsun Son Haber",
-    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeThSOU1lSWI1OFE3Zm04LXI2cHlKVmdRekVOeHBYWGxfcTJtbXo4UW9PbmQ3OU1TMUxVejlRcjVscEpYZUVvWTQ0WjRLWHN1Z1FkWjVrZUM4OGgzR0lER01ZY3N3RmFJelI4UElxVXNoRjJNaGFiWGFGN0Fucy1ET0xZX2Njbk9JQlFnMmplN1A2bG1NVG91UzZRTU1QU05CcDFjWUIxa9IBpAFBVV95cUxNX3Zlc0NZTG9FbVI4SHZocXRjck5wNDZiS0RqLUxxMmd2OEpXU1FBQkFfQl8zZl9fYi00SW5kbmlPRWRxVlFjX0d6aUdVYVd6Z202VDJwSUlDeEk4SHVvcWlSSFFDckNadkNXZ0FFNVdfM0d4UHk0dG1RWUUyWHA2UVpaMXozcXJTUGpVWXBXYm45eFB6VFA5bC1HOG1MVFpUUUVDbg?oc=5",
-    "src": "Samsun Son Haber",
-    "d": "2026-07-13T09:56:01+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMlUyNUNySE9XT2FfRUF5VEtrbFZpMF9QSEtmUWZsUHVrdnh2S282NTR6X2ZKaEt6SG0yelVEaHVIRmJ1blRsSU5ZWkNUTjBQUzNwLUtGRjZYOXg4bHc5STlRNTRTMkp4T3BuR28wSE9HRHRXOENkOWNYYzVOZ3dfc3I3aG4zS1BUd1Zzd29idGpZZHB3bVVKM0psZ3RWbk0?oc=5",
-    "t": "Samsun'da fındık rekoltesi için sayım çalışmaları başladı - Saray Medya",
-    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMlUyNUNySE9XT2FfRUF5VEtrbFZpMF9QSEtmUWZsUHVrdnh2S282NTR6X2ZKaEt6SG0yelVEaHVIRmJ1blRsSU5ZWkNUTjBQUzNwLUtGRjZYOXg4bHc5STlRNTRTMkp4T3BuR28wSE9HRHRXOENkOWNYYzVOZ3dfc3I3aG4zS1BUd1Zzd29idGpZZHB3bVVKM0psZ3RWbk0?oc=5",
-    "src": "Saray Medya",
-    "d": "2026-07-13T09:54:10+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://www.gazetearena.com/samsunda-sucla-mucadele-ve-guvenlik-tedbirleri-gorusuldu",
-    "t": "Samsun’da suçla mücadele ve güvenlik tedbirleri görüşüldü",
-    "u": "https://www.gazetearena.com/samsunda-sucla-mucadele-ve-guvenlik-tedbirleri-gorusuldu",
-    "src": "Gazete Arena",
-    "d": "2026-07-13T12:51:00+03:00",
-    "desc": "Samsun İl Güvenlik ve Asayiş Koordinasyon Toplantısı, Vali Orhan Tavlı başkanlığında gerçekleştirildi. Toplantıda asayişten narkotikle mücadeleye, siber suçlardan trafik tedbirlerine kadar birçok başlık değerlendirildi.",
-    "img": "https://gazetearenacom.teimg.com/gazetearena-com/uploads/2026/07/gazete-arena-314.jpg",
-    "kat": "Trafik/Kaza"
-  },
-  {
-    "id": "https://www.samsunhaberajansi.com/haber-bafrada-uc-hilalin-sancagi-kemal-sahine-emanet-edildi-30261.html",
-    "t": "Bafra'da Üç Hilalin Sancağı Kemal Şahin'e Emanet Edildi",
-    "u": "https://www.samsunhaberajansi.com/haber-bafrada-uc-hilalin-sancagi-kemal-sahine-emanet-edildi-30261.html",
-    "src": "Samsun Haber Ajansı",
-    "d": "2026-07-13T09:49:28+00:00",
-    "desc": "Milliyetçi Hareket Partisi (MHP) Bafra İlçe Başkanlığı'nın 15. Olağan Kongresi yoğun katılımla gerçekleştirildi. Tek adayla gidilen kongrede Kemal Şahin, delegelerin oylarıyla MHP Bafra İlçe Başkanı seçildi.",
-    "img": "https://www.samsunhaberajansi.com/images/haber/bafrada-uc-hilalin-sancagi-kemal-sahine-emanet-edildi-125613-20260713.webp",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://www.samsungazetesi.com/samsunda-guvenlik-zirvesi-kritik-basliklar-masaya-yatirildi",
-    "t": "Samsun'da güvenlik zirvesi! Kritik başlıklar masaya yatırıldı",
-    "u": "https://www.samsungazetesi.com/samsunda-guvenlik-zirvesi-kritik-basliklar-masaya-yatirildi",
-    "src": "Samsun Gazetesi",
-    "d": "2026-07-13T12:48:00+03:00",
-    "desc": "SAMSUN HABER... Samsun'da İl Güvenlik ve Asayiş Koordinasyon Toplantısı, Vali Orhan Tavlı başkanlığında yapıldı. Toplantıda suçla mücadele çalışmaları değerlendirildi.",
-    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/samsunda-guvenlik-zirvesi-kritik-basliklar-masaya-yatirildi.jpg",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://acikgazete.com/dunya/sanatorun-beklenmedik-olumu-uzerine-aciklama/",
-    "t": "Sanatörün beklenmedik ölümü üzerine açıklama",
-    "u": "https://acikgazete.com/dunya/sanatorun-beklenmedik-olumu-uzerine-aciklama/",
-    "src": "Açık Gazete",
-    "d": "2026-07-13T09:47:09+00:00",
-    "desc": "İran Savaşı&#8216;nın organizatörlerinden, İsrail destekçisi tutumuyla bilinen ve ABD Başkanı Donald Trump&#8217;ın en büyük destekçilerinden Cumhuriyetçi senatör Lindsey Graham dün ani bir şekilde 71 yaşında hayatını kaybetmişti. Graham&#8217;ın aort yırtılması nedeniyle yaşamını yitirdiği açıklandı. OTOPSİ ÖLÜMÜNÜ AYDINLATTI Önceki gün &#8220;ani bir şekilde&#8221; öldüğü açıklanan 71 yaşındaki ",
-    "img": "",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://www.gazetegercek.com.tr/samsunda-guvenlik-ve-asayis-masaya-yatirildi/230716",
-    "t": "Samsun’da güvenlik ve asayiş masaya yatırıldı",
-    "u": "https://www.gazetegercek.com.tr/samsunda-guvenlik-ve-asayis-masaya-yatirildi/230716",
-    "src": "Gazete Gerçek",
-    "d": "2026-07-13T12:46:31+03:00",
-    "desc": "Samsun’da Vali Orhan Tavlı başkanlığında düzenlenen toplantıda şehrin güvenlik ve asayiş oranları masaya yatırıldı",
-    "img": "",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMGRwdTlubkdtb1c2UU8xeTY2TE53VzVvZGxvWkU4QkZ6NVo3a2lUT2owSzFIRVJmQmxJa3RZV1htdTJQVVU1VEZOODZEcEtPQmFUUXJwc1M4c2NuYXM5VlhIUFVSZnpUb0cxbF9KSDNSc05FQ0lTY2tuUjFtcy00d3VQaW1Ub3YwNDBMTXZkNURRVWfSAZABQVVfeXFMTjlaTzBhZ0VBbnZzZDFhX0JWX1RZbWFsaURiWmpSWGZ5MnVNRXpub05FMjZqQmQ1VHdUOEl0bFUtbDczRXpzN1hUbzdUQzlSMnV2RzdJYnFOUGdNX2liUW8zczFtVWJDUXBSQ0tiODRja3pNZ2lOSnJyRDJFdktBbHNQNUVjODhYanhNbzAtX3l0?oc=5",
-    "t": "Denizli Büyükşehir ile yaz dolu dolu geçiyor - Samsun Son Haber",
-    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMGRwdTlubkdtb1c2UU8xeTY2TE53VzVvZGxvWkU4QkZ6NVo3a2lUT2owSzFIRVJmQmxJa3RZV1htdTJQVVU1VEZOODZEcEtPQmFUUXJwc1M4c2NuYXM5VlhIUFVSZnpUb0cxbF9KSDNSc05FQ0lTY2tuUjFtcy00d3VQaW1Ub3YwNDBMTXZkNURRVWfSAZABQVVfeXFMTjlaTzBhZ0VBbnZzZDFhX0JWX1RZbWFsaURiWmpSWGZ5MnVNRXpub05FMjZqQmQ1VHdUOEl0bFUtbDczRXpzN1hUbzdUQzlSMnV2RzdJYnFOUGdNX2liUW8zczFtVWJDUXBSQ0tiODRja3pNZ2lOSnJyRDJFdktBbHNQNUVjODhYanhNbzAtX3l0?oc=5",
-    "src": "Samsun Son Haber",
-    "d": "2026-07-13T09:45:35+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://www.gazetearena.com/video/samsunsporun-yeni-transferleri-hakkinda-ne-dusunuyorsunuz",
-    "t": "Samsunspor'un yeni transferleri hakkında ne düşünüyorsunuz?",
-    "u": "https://www.gazetearena.com/video/samsunsporun-yeni-transferleri-hakkinda-ne-dusunuyorsunuz",
-    "src": "Gazete Arena",
-    "d": "2026-07-13T12:45:00+03:00",
-    "desc": "Gazetearena.com ekibi olarak Samsun sokaklarında mikrofonumuzu vatandaşlara uzattık. Yeni sezon öncesi transfer çalışmalarını sürdüren Samsunspor'un kadrosuna kattığı isimleri değerlendiren taraftarlar, beklentilerini ve görüşlerini paylaştı.",
-    "img": "https://img.youtube.com/vi/xoJMh8ffkdE/maxresdefault.jpg",
-    "kat": "Spor"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcURSTGItZHd6Wm90VG5nVmhZaG1ldHk4RU1BY1pJQzEtRnFubm9WdkhhTU1zS1JlRllwQWt4YkYxNUx2Z2RSc1JVWGpxMGJtSkc0c3NrVGVJZjJWZXQtMHN4aE0tbDhuSzlJZ3pQcGszTlh4TlVHNllSZ3RabmNFa21oN3R3RVU1eGE1czhfMDZvcW80RWhDMGU5ZUlOT0w5UUs4VHJWM2J1UzhJcHRadzZtdUZNUU9wcEl3?oc=5",
-    "t": "Samsun'un 13 ilçesinde sayım başladı: 50 bin çiftçi çalıştı, rekolte hesaplandı - Gazete Vatan",
-    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcURSTGItZHd6Wm90VG5nVmhZaG1ldHk4RU1BY1pJQzEtRnFubm9WdkhhTU1zS1JlRllwQWt4YkYxNUx2Z2RSc1JVWGpxMGJtSkc0c3NrVGVJZjJWZXQtMHN4aE0tbDhuSzlJZ3pQcGszTlh4TlVHNllSZ3RabmNFa21oN3R3RVU1eGE1czhfMDZvcW80RWhDMGU5ZUlOT0w5UUs4VHJWM2J1UzhJcHRadzZtdUZNUU9wcEl3?oc=5",
-    "src": "Gazete Vatan",
-    "d": "2026-07-13T09:38:28+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://www.gazetegercek.com.tr/gorme-engelliler-kizilirmak-deltasinda-dogayla-bulustu/230714",
-    "t": "Görme engelliler Kızılırmak Deltası'nda doğayla buluştu",
-    "u": "https://www.gazetegercek.com.tr/gorme-engelliler-kizilirmak-deltasinda-dogayla-bulustu/230714",
-    "src": "Gazete Gerçek",
-    "d": "2026-07-13T12:38:18+03:00",
-    "desc": "Samsun'da Bafra Görme Engelliler Derneği tarafından, UNESCO Dünya Mirası Geçici Listesi'nde yer alan Kızılırmak Deltası Kuş Cenneti'ne görme engelli bireyler ve ailelerinin katılımıyla gezi düzenlendi.",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQkNNTldHQmxkc2JMd2habzBJQmc5Wks0d0R6TXJRUTZ1eVJPUmNuSVQwQk1OdUxFUEZ0VjhDNVlqLXlfRE9UTGkxajg2TGsyTmVHMGFtdlZva242QTZvcTZ3eHBuSWdhYUdLZURROFdDWEVFRFVjVE9HM09udkZXX1RwRnRuSjRaaDlzc0d5Y0g?oc=5",
-    "t": "Şanlıurfa’da görev yapmıştı: Başsavcı Çakmak Samsun’da göreve başladı - Gazete İpekyol",
-    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQkNNTldHQmxkc2JMd2habzBJQmc5Wks0d0R6TXJRUTZ1eVJPUmNuSVQwQk1OdUxFUEZ0VjhDNVlqLXlfRE9UTGkxajg2TGsyTmVHMGFtdlZva242QTZvcTZ3eHBuSWdhYUdLZURROFdDWEVFRFVjVE9HM09udkZXX1RwRnRuSjRaaDlzc0d5Y0g?oc=5",
-    "src": "Gazete İpekyol",
-    "d": "2026-07-13T09:36:35+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://www.gazetearena.com/ilkadimda-parklar-yenileniyor",
-    "t": "İlkadım'da parklar yenileniyor",
-    "u": "https://www.gazetearena.com/ilkadimda-parklar-yenileniyor",
-    "src": "Gazete Arena",
-    "d": "2026-07-13T12:36:00+03:00",
-    "desc": "İlkadım Belediyesi, ilçe genelindeki park ve yeşil alanlarda bakım, onarım ve yenileme çalışmalarını sürdürüyor. Kökçüoğlu, Selahiye ve Kavacık mahallelerindeki parklar, vatandaşların daha güvenli ve konforlu kullanımı için yenileniyor.",
-    "img": "https://gazetearenacom.teimg.com/gazetearena-com/uploads/2026/07/gazete-arena-313.jpg",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://www.dengegazetesi.com.tr/gorme-engelliler-ve-aileleri-kus-cennetini-gezdi-206715h.htm",
-    "t": "Görme engelliler ve aileleri Kuş Cenneti'ni gezdi",
-    "u": "https://www.dengegazetesi.com.tr/gorme-engelliler-ve-aileleri-kus-cennetini-gezdi-206715h.htm",
-    "src": "Denge Gazetesi",
-    "d": "2026-07-13T12:35:36+03:00",
-    "desc": "Samsun'da Bafra Görme Engelliler Derneği tarafından UNESCO Dünya Mirası Geçici Listesi'nde yer alan Kızılırmak Deltası Kuş Cenneti'ne gezi düzenlendi.",
-    "img": "https://d.dengegazetesi.com.tr/news/250983.jpg",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLXJzMmhRZEF5Q2NnTUE0ZFV6YU01clVudTFCNmNreWtfaFdRQWFZOFFnZGlRSkxxMEhYYnRDczN2c1hhdlpWZklGWS1kanJ5WlRwM2lrd1prRmc2UnB6VE1xNFFWUEZ0elE4eUp1R0VlRjNFUl9Cb2VUR0tqenV2ZWZSV0tPczhqN3hkN19R0gGLAUFVX3lxTFBubmp1c1J5WjA5dGppaWVseHhndExESkVOTWloaDRPeUxzbkJHNjZBbFBKNzcxSVRaVEFFaXNCU2lCNGUtV2RTS3dzMVlSUm9JSmJsVEFnRTJDMXhHTGhGMUszMWh0V0oyMmRaS2ZEU29TWFFSWHJMNzc5TXB6eTQ1QWdUa2M5V084QXM?oc=5",
-    "t": "YAZICIOĞLU SORUŞTURMASINDA DEV OPERASYON - Samsun Son Haber",
-    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLXJzMmhRZEF5Q2NnTUE0ZFV6YU01clVudTFCNmNreWtfaFdRQWFZOFFnZGlRSkxxMEhYYnRDczN2c1hhdlpWZklGWS1kanJ5WlRwM2lrd1prRmc2UnB6VE1xNFFWUEZ0elE4eUp1R0VlRjNFUl9Cb2VUR0tqenV2ZWZSV0tPczhqN3hkN19R0gGLAUFVX3lxTFBubmp1c1J5WjA5dGppaWVseHhndExESkVOTWloaDRPeUxzbkJHNjZBbFBKNzcxSVRaVEFFaXNCU2lCNGUtV2RTS3dzMVlSUm9JSmJsVEFnRTJDMXhHTGhGMUszMWh0V0oyMmRaS2ZEU29TWFFSWHJMNzc5TXB6eTQ1QWdUa2M5V084QXM?oc=5",
-    "src": "Samsun Son Haber",
-    "d": "2026-07-13T09:32:00+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Asayiş"
-  },
-  {
-    "id": "https://www.samsungazetesi.com/samsunsporda-yenileme-antrenmani-hazirliklar-hiz-kesmiyor",
-    "t": "Samsunspor'da yenileme antrenmanı! Hazırlıklar hız kesmiyor",
-    "u": "https://www.samsungazetesi.com/samsunsporda-yenileme-antrenmani-hazirliklar-hiz-kesmiyor",
-    "src": "Samsun Gazetesi",
-    "d": "2026-07-13T12:29:00+03:00",
-    "desc": "SAMSUNSPOR HABER... Samsunspor yeni sezon hazırlıklarına büyük bir titizlikle Samsun'da devam ediyor. Takım bir günlük iznin ardından bugün yeniden Nuri Asan Tesisleri'nde çalışmalara başladı.",
-    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/samsunsporda-yenileme-antrenmani-hazirliklar-hiz-kesmiyor-6.jpg",
-    "kat": "Spor"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNakVYNHlDVHI1VUNLX0tVV1d5ZjEzVzhmMlQ2NXU4YkNuRzd5TjRFUTFsMzVFRDZBWGhOa2tySE9DdTFGcUk0c2hGRXFBMi1VSXJVbzk0V2t5eHVtc2prNWRvbWtDc1Z2MUFGWVRZd2t3QzVxdzVyc09FQWNGYlI1S2FhR1lHTFJiR2t6LTNCQzJ4LTQ3aU9lOGFqOHBqNVU2RFUxbVNhcks?oc=5",
-    "t": "Samsun'da görme engelliler ve aileleri Kızılırmak Deltası Kuş Cenneti'ni gezdi - Hürriyet",
-    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNakVYNHlDVHI1VUNLX0tVV1d5ZjEzVzhmMlQ2NXU4YkNuRzd5TjRFUTFsMzVFRDZBWGhOa2tySE9DdTFGcUk0c2hGRXFBMi1VSXJVbzk0V2t5eHVtc2prNWRvbWtDc1Z2MUFGWVRZd2t3QzVxdzVyc09FQWNGYlI1S2FhR1lHTFJiR2t6LTNCQzJ4LTQ3aU9lOGFqOHBqNVU2RFUxbVNhcks?oc=5",
-    "src": "Hürriyet",
-    "d": "2026-07-13T09:27:08+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYnRhUGxyTHY2OHlqWjctVTgwamlKU1BSWmFfWHpLN3dPTFpvVFdfWF9EUnFEMUd6MjR0QXRIejJ0ZjhWaF9Jc2h3OFJ6OExqc3FUMFdJTC0wN0NXb1V4SGVTWmlvd3JWN2VCSGo2cnZBZVhVWHg3MVJzZndvY3FzSWc2a3picHlaV1NvMzRBazhvZDQ1YzZ4eU9FR3VHR0dqVWxKZHpZM2Q?oc=5",
-    "t": "Samsun Haberleri - Samsun'da 2026 yılı fındık rekolte tahmin çalışması yapılıyor - Yerel Haberler - Hürriyet",
-    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYnRhUGxyTHY2OHlqWjctVTgwamlKU1BSWmFfWHpLN3dPTFpvVFdfWF9EUnFEMUd6MjR0QXRIejJ0ZjhWaF9Jc2h3OFJ6OExqc3FUMFdJTC0wN0NXb1V4SGVTWmlvd3JWN2VCSGo2cnZBZVhVWHg3MVJzZndvY3FzSWc2a3picHlaV1NvMzRBazhvZDQ1YzZ4eU9FR3VHR0dqVWxKZHpZM2Q?oc=5",
-    "src": "Hürriyet",
-    "d": "2026-07-13T09:27:06+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://www.gazetearena.com/samsunsporda-rakamlar-beklentinin-altinda",
-    "t": "Samsunspor'da rakamlar beklentinin altında!",
-    "u": "https://www.gazetearena.com/samsunsporda-rakamlar-beklentinin-altinda",
-    "src": "Gazete Arena",
-    "d": "2026-07-13T12:24:00+03:00",
-    "desc": "Samsunspor yeni sezon öncesinde gerçekleştirdiği kombine bilet satışlarında toplam 2.755 rakamına ulaşarak beklentilerin altında bir grafik sergiledi.",
-    "img": "https://gazetearenacom.teimg.com/gazetearena-com/uploads/2026/07/gazete-arena-samsun-haber-3829.jpg",
-    "kat": "Spor"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUV8wU2hiSE5UNUpZUXhuZmNHY2hHY1prOHFUT0JpUUxvdDhWRzBGenVIRWVZWkxoUWxJb1c3cHhlclctR0Y5ay1KV0YzelVSNWgydndkU1JtWDVlLS13cS1EdmFENHhKT0gzUmJQbjRPOEpOdndsU1d2c0xDR0V1OWxLeU1vV09HRVl0S1pPRzdfTFN6QkoySXEyMNIBlgFBVV95cUxPdFVhNnZtSEVUMHpfUm1HeGw0UkdrNGVFVnRVYzFvMzR4STFaMUk0cFRCRTlscDl5Z3FSMTdPSTRabDFIRjZMYk16OGpZU3VkSUQwNzcxcFJsWWZNa2E5cUtZM0xiZmpyckFQM09UQ3hoUTJzZzN4UzdnNUI5RmlLSk52OVdMc3paT01vZnJ0WW80dGkyUXc?oc=5",
-    "t": "Samsun'da 2026 Fındık Rekolte Tespiti Başladı - SonDakika",
-    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUV8wU2hiSE5UNUpZUXhuZmNHY2hHY1prOHFUT0JpUUxvdDhWRzBGenVIRWVZWkxoUWxJb1c3cHhlclctR0Y5ay1KV0YzelVSNWgydndkU1JtWDVlLS13cS1EdmFENHhKT0gzUmJQbjRPOEpOdndsU1d2c0xDR0V1OWxLeU1vV09HRVl0S1pPRzdfTFN6QkoySXEyMNIBlgFBVV95cUxPdFVhNnZtSEVUMHpfUm1HeGw0UkdrNGVFVnRVYzFvMzR4STFaMUk0cFRCRTlscDl5Z3FSMTdPSTRabDFIRjZMYk16OGpZU3VkSUQwNzcxcFJsWWZNa2E5cUtZM0xiZmpyckFQM09UQ3hoUTJzZzN4UzdnNUI5RmlLSk52OVdMc3paT01vZnJ0WW80dGkyUXc?oc=5",
-    "src": "SonDakika",
-    "d": "2026-07-13T09:23:02+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://acikgazete.com/turkiye/muhsin-yazicioglu-davasinda-29-gozalti/",
-    "t": "Muhsin Yazıcıoğlu davasında 29 gözaltı",
-    "u": "https://acikgazete.com/turkiye/muhsin-yazicioglu-davasinda-29-gozalti/",
-    "src": "Açık Gazete",
-    "d": "2026-07-13T09:20:59+00:00",
-    "desc": "Seçim çalışmaları kapsamında kiralanan helikopterin Kahramanmaraş&#8217;ın Göksun ilçesinde 25 Mart 2009&#8217;da düşmesi sonucu beraberindeki 5 kişiyle hayatını kaybeden Muhsin Yazıcıoğlu&#8216;nun vefatının üzerinden 17 yıl geçti. Büyük Birlik Partisi Kurucu Genel Başkanı Muhsin Yazıcıoğlu&#8217;nun ölümüne ilişkin soruşturmada 29 kişi hakkında gözaltı kararı verildi. Adalet Bakanı Akın Gürlek 2",
-    "img": "",
-    "kat": "Asayiş"
-  },
-  {
-    "id": "https://www.dengegazetesi.com.tr/ticaret-satis-hacmi-yillik-bazda-azaldi-1-206708h.htm",
-    "t": "Ticaret satış hacmi yıllık bazda azaldı",
-    "u": "https://www.dengegazetesi.com.tr/ticaret-satis-hacmi-yillik-bazda-azaldi-1-206708h.htm",
-    "src": "Denge Gazetesi",
-    "d": "2026-07-13T12:20:00+03:00",
-    "desc": "Ticaret satış hacmi, mayısta yıllık bazda yüzde 1,4 azalırken perakende satış hacmi ise yüzde 13,7 artış gösterdi.",
-    "img": "https://d.dengegazetesi.com.tr/news/250976.jpg",
-    "kat": "Ekonomi"
-  },
-  {
-    "id": "https://www.gazetegercek.com.tr/samsunda-findikta-rekolte-tespit-calismalari-basladi/230710",
-    "t": "Samsun'da fındıkta rekolte tespit çalışmaları başladı",
-    "u": "https://www.gazetegercek.com.tr/samsunda-findikta-rekolte-tespit-calismalari-basladi/230710",
-    "src": "Gazete Gerçek",
-    "d": "2026-07-13T12:17:47+03:00",
-    "desc": "Türkiye'nin en önemli fındık üretim merkezlerinden Samsun'da 2026 yılı rekolte tespit çalışmaları başladı. İl genelinde belirlenen 86 bahçede yürütülen sayımlarla, hasat öncesi gerçeğe en yakın rekoltenin belirlenmesi hedefleniyor.",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGYwcDdkNXA4UmdnM3VBT2NYZTZuTElGQk1oOFFYZDFDNUhsd0JTZExHeTNXMWw2dks2a2xXMVlSWFo1VkpHX1pLWmlGWlZsc1hPQ3RoWFdWbmVIMWpMc25kMzFyS0ppYVpjQnZsZklUQ1RUdFktckp4X3A1R2NmMlFLalNYTFkxR252Qk9fMDZTakcxZGRGbzhSN0VoczBEaE9IUUpudw?oc=5",
-    "t": "Samsun'da 2026 yılı fındık rekolte tahmin çalışması yapılıyor - Milliyet",
-    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGYwcDdkNXA4UmdnM3VBT2NYZTZuTElGQk1oOFFYZDFDNUhsd0JTZExHeTNXMWw2dks2a2xXMVlSWFo1VkpHX1pLWmlGWlZsc1hPQ3RoWFdWbmVIMWpMc25kMzFyS0ppYVpjQnZsZklUQ1RUdFktckp4X3A1R2NmMlFLalNYTFkxR252Qk9fMDZTakcxZGRGbzhSN0VoczBEaE9IUUpudw?oc=5",
-    "src": "Milliyet",
-    "d": "2026-07-13T09:16:03+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0U1M1hOajQ5WVlfVVZ2b0pTVXZGb0hoU3M0T1ItU2wta2EyZ05hc3prQWlQTkhwc2xyWTFKeFA4NXI3ZjA2S0F1b0lfSldveXlCTW9qa1lWSDZXRjVZbWE0QUUwanV4Vl9ZNzBnWFJNcm9uc0JEOTA3aEtWRkx5cTM2Z0k2WVlHTUdLSy1KOGRqalVMY0k5aEZHd3ZRY2ZFQk1RMWFjNA?oc=5",
-    "t": "Samsun'da görme engelliler ve aileleri Kızılırmak Deltası Kuş Cenneti'ni gezdi - Milliyet",
-    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0U1M1hOajQ5WVlfVVZ2b0pTVXZGb0hoU3M0T1ItU2wta2EyZ05hc3prQWlQTkhwc2xyWTFKeFA4NXI3ZjA2S0F1b0lfSldveXlCTW9qa1lWSDZXRjVZbWE0QUUwanV4Vl9ZNzBnWFJNcm9uc0JEOTA3aEtWRkx5cTM2Z0k2WVlHTUdLSy1KOGRqalVMY0k5aEZHd3ZRY2ZFQk1RMWFjNA?oc=5",
-    "src": "Milliyet",
-    "d": "2026-07-13T09:14:28+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYm9qNll1SmJBMTR6Z1BhYkY2dVZkUnE3cVZXeE5fa3lZLUQwLWhsNWRyRU1ET1NtbUEwNDJHSEd0d3liVEhYU2JLb05mSy1VNEdKbFcxWUpZbGZfRm5aRVhuNjZWUzQtLVJJanAzVDUyTXpPQjJqQUZpckN6Qmhpd3EtdjdTcDV4amxYU1VJQnVCQmQ2OTZNNVctVE1mc21hNmdXNU4wOA?oc=5",
-    "t": "Samsun'da görme engelliler ve aileleri Kızılırmak Deltası Kuş Cenneti'ni gezdi - Gazete Vatan",
-    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYm9qNll1SmJBMTR6Z1BhYkY2dVZkUnE3cVZXeE5fa3lZLUQwLWhsNWRyRU1ET1NtbUEwNDJHSEd0d3liVEhYU2JLb05mSy1VNEdKbFcxWUpZbGZfRm5aRVhuNjZWUzQtLVJJanAzVDUyTXpPQjJqQUZpckN6Qmhpd3EtdjdTcDV4amxYU1VJQnVCQmQ2OTZNNVctVE1mc21hNmdXNU4wOA?oc=5",
-    "src": "Gazete Vatan",
-    "d": "2026-07-13T09:14:28+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHp5Und2QW05bC1FeWNqeDR6Nm5PMjVDWnVSSUxRZ1ZjclpOWnBRZEwyQlZmSUd6UUNNWDBPdHh1OTZmb2V5NVNmTkxVVGdfcmVhNGZIemRxOXcwbEk5NHpTMTVGLTQtTDZmRmhJYS1MWHJIbm5QYmlsb3RtQVJuVlNjWUJXVGRMclB4ZFU3eU9ubkZPWEQ4UlB4cjhiU0JmU2U0S1dka29OXzU1b3pKWk5TWWdEUkVRRTVvMjNZV3Nwa2tPaXdMWk53?oc=5",
-    "t": "Samsun'da görme engelliler ve aileleri Kızılırmak Deltası Kuş Cenneti'ni gezdi - CNN Türk",
-    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHp5Und2QW05bC1FeWNqeDR6Nm5PMjVDWnVSSUxRZ1ZjclpOWnBRZEwyQlZmSUd6UUNNWDBPdHh1OTZmb2V5NVNmTkxVVGdfcmVhNGZIemRxOXcwbEk5NHpTMTVGLTQtTDZmRmhJYS1MWHJIbm5QYmlsb3RtQVJuVlNjWUJXVGRMclB4ZFU3eU9ubkZPWEQ4UlB4cjhiU0JmU2U0S1dka29OXzU1b3pKWk5TWWdEUkVRRTVvMjNZV3Nwa2tPaXdMWk53?oc=5",
-    "src": "CNN Türk",
-    "d": "2026-07-13T09:14:28+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3bXAzWTdxcnF2Z3l6VzZnUHNDWXF3R0NYLS1NNmhwQUUwR01aSFRRc1hQLWpvQWFZODczQ2FtcGl5MS1oWElteUVVN3FYT0xXQmgzeG85cjFnYTd0eXE0Q0JwMF8yeHY3SlFqZV9ZdElaZUw5R0hV0gF8QVVfeXFMTnZoaTJTRm8zbFgwMVRONFJZbEZHTHluM1lfWkJtcnV5U0p3cWNFcTNUc3R3Y1VJUWdaTFRtbDBhc2IwMHhWWUZVejBSVlh6T3g2UGJQWVYwS09KWHhOQlNrbzFUWm84bnZ4R0NIcUU4QU44MDd6RkVqSl9WUQ?oc=5",
-    "t": "Canik'te camiler çocuklarla dolup taşıyor - Samsun Haber",
-    "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3bXAzWTdxcnF2Z3l6VzZnUHNDWXF3R0NYLS1NNmhwQUUwR01aSFRRc1hQLWpvQWFZODczQ2FtcGl5MS1oWElteUVVN3FYT0xXQmgzeG85cjFnYTd0eXE0Q0JwMF8yeHY3SlFqZV9ZdElaZUw5R0hV0gF8QVVfeXFMTnZoaTJTRm8zbFgwMVRONFJZbEZHTHluM1lfWkJtcnV5U0p3cWNFcTNUc3R3Y1VJUWdaTFRtbDBhc2IwMHhWWUZVejBSVlh6T3g2UGJQWVYwS09KWHhOQlNrbzFUWm84bnZ4R0NIcUU4QU44MDd6RkVqSl9WUQ?oc=5",
-    "src": "Samsun Haber",
-    "d": "2026-07-13T09:14:00+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Sağlık"
-  },
-  {
-    "id": "https://www.gazetearena.com/samsunda-gozler-findikta-86-bahcede-rekolte-calismasi",
-    "t": "Samsun'da gözler fındıkta: 86 bahçede rekolte çalışması",
-    "u": "https://www.gazetearena.com/samsunda-gozler-findikta-86-bahcede-rekolte-calismasi",
-    "src": "Gazete Arena",
-    "d": "2026-07-13T12:14:00+03:00",
-    "desc": "Türkiye'nin önemli fındık üretim merkezlerinden Samsun'da 2026 yılı rekolte tespit çalışmaları başladı. İl genelindeki 86 bahçede yürütülen sayımlarla hasat öncesi gerçeğe en yakın üretim miktarının belirlenmesi hedefleniyor.",
-    "img": "https://gazetearenacom.teimg.com/gazetearena-com/uploads/2026/07/gazete-arena-312.jpg",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://www.samsunhaber.com/canikte-camiler-cocuklarla-dolup-tasiyor",
-    "t": "Canik'te camiler çocuklarla dolup taşıyor",
-    "u": "https://www.samsunhaber.com/canikte-camiler-cocuklarla-dolup-tasiyor",
-    "src": "Samsun Haber",
-    "d": "2026-07-13T12:14:00+03:00",
-    "desc": "Samsun'da, Canik Belediyesi'nin \"Haydi Güle Oynaya Camiye Gel\" projesiyle çocuklar ve gençler camilere akın ediyor.",
-    "img": "https://samsunhabercom.teimg.com/crop/1280x720/samsunhaber-com/uploads/2026/07/cami-23.jpg",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://www.samsungazetesi.com/samsunda-findik-icin-kritik-surec-basladi",
-    "t": "Samsun'da fındık için kritik süreç başladı!",
-    "u": "https://www.samsungazetesi.com/samsunda-findik-icin-kritik-surec-basladi",
-    "src": "Samsun Gazetesi",
-    "d": "2026-07-13T12:12:00+03:00",
-    "desc": "SAMSUN HABER... Samsun'da 2026 yılı fındık rekolte tespit çalışmaları başladı. İl genelindeki 86 bahçede yapılacak sayımlarla hasat öncesi rekolte belirlenecek.",
-    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/samsunda-findik-icin-kritik-surec-basladi-1.jpg",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LZXhlTUFyTENYU2FpdXI3VjlPUFlyM01jeE44NC1GTnVaZERYcWJWamtfbHFJXzY1VjdBMFB2MnkzbmVESlFhdngtWTJCVG8yMTI4eW5LT05KTzI3N2xNY1pXdC00RVVWVnNSeC1UNUhwWkp2Z1EzX2RfVGrSAYIBQVVfeXFMTjYxVHRtUUFMaW5jdnZsb0cwRV9CMWtCNjlvdjhodVp4SkRpMzROSzJhV0I4aDFMYXpuVmlXTDNqYTRMb2FkM281bXQ5YlhTbjFiSzFxLU93UW4teU00dUpHR1lGWHhGcUhYTzlxYVNITzJ5TjVaelJHUkxHRnlxR2Fwdw?oc=5",
-    "t": "Samsun'da fındık için kritik süreç başladı! - Samsun Gazetesi",
-    "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LZXhlTUFyTENYU2FpdXI3VjlPUFlyM01jeE44NC1GTnVaZERYcWJWamtfbHFJXzY1VjdBMFB2MnkzbmVESlFhdngtWTJCVG8yMTI4eW5LT05KTzI3N2xNY1pXdC00RVVWVnNSeC1UNUhwWkp2Z1EzX2RfVGrSAYIBQVVfeXFMTjYxVHRtUUFMaW5jdnZsb0cwRV9CMWtCNjlvdjhodVp4SkRpMzROSzJhV0I4aDFMYXpuVmlXTDNqYTRMb2FkM281bXQ5YlhTbjFiSzFxLU93UW4teU00dUpHR1lGWHhGcUhYTzlxYVNITzJ5TjVaelJHUkxHRnlxR2Fwdw?oc=5",
-    "src": "Samsun Gazetesi",
-    "d": "2026-07-13T09:12:00+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORzM0ekZWV3hvMGFPMTJFWVBqOEUzNVpKcFhTb01sYmFYTWV0X3hpZWJRVUNpbkFTWW1DSWhQaFZUVWM5WjZpSm5od3hWckNsY3AzbGhnTnR0ODU0cTFhOWd3ODUxRzluMXMxWEpLbVZ6X2hMbDlVRUVZU3ZRQVl1TVoxbjJJOURQNkVFRU95TzRjUnhnR0VIcmZiU2laM1VlcDN4N1JhSdIBogFBVV95cUxPdF9MQXBZRWM2VmdHVFpfUFZFQnBsVy1mVTlwaHIxUHRaZHhveEVnOU5UOHFWVUowOFc0ZWFkTHBXYTZRMDVzejhteWZ2VElleThOeDVIQ0I1cGdMR0lqWERPa3hNOTJ0b0lhU281TGhLVU9fVGNYYW4zYks3X0VnUzh4RXZMaGxtX1RvdHlGbld3b2syMi1YX3A0YWNLOTNiWnc?oc=5",
-    "t": "Samsun'da fındıkta rekolte mesaisi: Bahçelerde sayım başladı - Haberler",
-    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORzM0ekZWV3hvMGFPMTJFWVBqOEUzNVpKcFhTb01sYmFYTWV0X3hpZWJRVUNpbkFTWW1DSWhQaFZUVWM5WjZpSm5od3hWckNsY3AzbGhnTnR0ODU0cTFhOWd3ODUxRzluMXMxWEpLbVZ6X2hMbDlVRUVZU3ZRQVl1TVoxbjJJOURQNkVFRU95TzRjUnhnR0VIcmZiU2laM1VlcDN4N1JhSdIBogFBVV95cUxPdF9MQXBZRWM2VmdHVFpfUFZFQnBsVy1mVTlwaHIxUHRaZHhveEVnOU5UOHFWVUowOFc0ZWFkTHBXYTZRMDVzejhteWZ2VElleThOeDVIQ0I1cGdMR0lqWERPa3hNOTJ0b0lhU281TGhLVU9fVGNYYW4zYks3X0VnUzh4RXZMaGxtX1RvdHlGbld3b2syMi1YX3A0YWNLOTNiWnc?oc=5",
-    "src": "Haberler",
-    "d": "2026-07-13T09:11:55+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOVdWVlRHZXgtTzkwZzlnQm1YaEsyUnlMTVc2REZQbURTTFhrUGdoaFpwcWotOWJhMjJiZk1HcTY2T2hhY19LUkF2a1U0MjdtUzk4Rl94eW5TMDBsLUtqYk41NHlfQjh2azgxbGVtczFDRm5hX2lVeWVTSnZ1Vmw1aURKOXBnNEgtN2JBQ21DbU9IWVgzT0UwbFVyeFdubzFLSjQxRjBlUXFJejRH?oc=5",
-    "t": "Samsun’da fındıkta rekolte mesaisi: Bahçelerde sayım başladı İhlas Haber Ajansı - İhlas Haber Ajansı",
-    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOVdWVlRHZXgtTzkwZzlnQm1YaEsyUnlMTVc2REZQbURTTFhrUGdoaFpwcWotOWJhMjJiZk1HcTY2T2hhY19LUkF2a1U0MjdtUzk4Rl94eW5TMDBsLUtqYk41NHlfQjh2azgxbGVtczFDRm5hX2lVeWVTSnZ1Vmw1aURKOXBnNEgtN2JBQ21DbU9IWVgzT0UwbFVyeFdubzFLSjQxRjBlUXFJejRH?oc=5",
-    "src": "İhlas Haber Ajansı",
-    "d": "2026-07-13T09:10:14+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://www.samsuncanlihaber.com/samsunda-findikta-rekolte-mesaisi-bahcelerde-sayim-basladi",
-    "t": "Samsun'da fındıkta rekolte mesaisi: Bahçelerde sayım başladı",
-    "u": "https://www.samsuncanlihaber.com/samsunda-findikta-rekolte-mesaisi-bahcelerde-sayim-basladi",
-    "src": "Samsun Canlı Haber",
-    "d": "2026-07-13T12:10:00+03:00",
-    "desc": "Türkiye'nin en önemli fındık üretim merkezlerinden Samsun'da 2026 yılı rekolte tespit çalışmaları başladı. İl genelinde belirlenen 86 bahçede yürütülen sayımlarla, hasat öncesi gerçeğe en yakın rekoltenin belirlenmesi hedefleniyor.",
-    "img": "https://samsuncanlihabercom.teimg.com/crop/1280x720/samsuncanlihaber-com/uploads/2026/07/samsunda-findik-icin-kritik-surec-basladi.jpg",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTFQyZWlybXlaZnlvVlN2MFE5ZjA3UXFsN2dyWGNGbXhycHVfZFIwM0xzZXhVaTk4UUZzMHFUOUlzeUpFQkRnSkhiMXh4YUxFT1hsUHdybV9EcHJ1cGRnbUFSQU9OeTh6b2MxWkFlNXlEeEY4amFHaXhWeTVJZHYzRWo2emR5V0lnTExPZEJjYmNXZFQ5WFJCdWhaZXREMlZ3?oc=5",
-    "t": "Samsun’da fındıkta rekolte mesaisi: Bahçelerde sayım başladı - Mersin Haber",
-    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTFQyZWlybXlaZnlvVlN2MFE5ZjA3UXFsN2dyWGNGbXhycHVfZFIwM0xzZXhVaTk4UUZzMHFUOUlzeUpFQkRnSkhiMXh4YUxFT1hsUHdybV9EcHJ1cGRnbUFSQU9OeTh6b2MxWkFlNXlEeEY4amFHaXhWeTVJZHYzRWo2emR5V0lnTExPZEJjYmNXZFQ5WFJCdWhaZXREMlZ3?oc=5",
-    "src": "Mersin Haber",
-    "d": "2026-07-13T09:10:00+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://www.samsunhaberajansi.com/haber-allahlik-hudaverdiler-30260.html",
-    "t": "ALLAHLIK HÜDAVERDİLER!",
-    "u": "https://www.samsunhaberajansi.com/haber-allahlik-hudaverdiler-30260.html",
-    "src": "Samsun Haber Ajansı",
-    "d": "2026-07-13T09:07:50+00:00",
-    "desc": "Bir ilçenin kaderini değiştirecek fırsatlar her zaman kapıyı çalmaz...",
-    "img": "https://www.samsunhaberajansi.com/images/haber/allahlik-hudaverdiler-123712-20260713.webp",
-    "kat": "Ekonomi"
-  },
-  {
-    "id": "https://www.samsungazetesi.com/samsunlu-judoculardan-avrupada-cifte-gurur",
-    "t": "Samsunlu judoculardan Avrupa'da çifte gurur",
-    "u": "https://www.samsungazetesi.com/samsunlu-judoculardan-avrupada-cifte-gurur",
-    "src": "Samsun Gazetesi",
-    "d": "2026-07-13T12:06:00+03:00",
-    "desc": "Samsun Haber... Samsunlu judocular, Yıldızlar Avrupa Judo Kupası’nda bir şampiyonluk, 1 üçüncülük elde ederek, büyük bir gurur yaşattılar.",
-    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/samsunlu-judoculardan-avrupada-cifte-gurur-1.jpg",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSWpFV3BqeV9KVGtNcVBXQVROWDZBNnpxRGZTVno2ZzMzUkVQR3lyYkY2eHhFVXNFUjlCSURRbHNoRy1vNXVTalQwSXpUdjZVTWgza1pSc2poQkxVUnZoS2l1N3JsT1JfRWJIa21mRGp1Zl9yN0RJWnhyRHdjMjV2aDJGbkVyRktTZXNteFZTMmRSb2VkQzdDTmRRUHRtOW1NNTNWZVlJR2NDX0cxOGphY1BSNWlrWUk?oc=5",
-    "t": "Samsun Çarşamba Havalimanı'nda ilk 6 aylık rakamlar belli oldu - AirportHaber",
-    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSWpFV3BqeV9KVGtNcVBXQVROWDZBNnpxRGZTVno2ZzMzUkVQR3lyYkY2eHhFVXNFUjlCSURRbHNoRy1vNXVTalQwSXpUdjZVTWgza1pSc2poQkxVUnZoS2l1N3JsT1JfRWJIa21mRGp1Zl9yN0RJWnhyRHdjMjV2aDJGbkVyRktTZXNteFZTMmRSb2VkQzdDTmRRUHRtOW1NNTNWZVlJR2NDX0cxOGphY1BSNWlrWUk?oc=5",
-    "src": "AirportHaber",
-    "d": "2026-07-13T09:05:31+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://www.dengegazetesi.com.tr/avukata-izinsiz-sms-atan-sirkete-ceza-verildi-206712h.htm",
-    "t": "Avukata izinsiz SMS atan şirkete ceza verildi",
-    "u": "https://www.dengegazetesi.com.tr/avukata-izinsiz-sms-atan-sirkete-ceza-verildi-206712h.htm",
-    "src": "Denge Gazetesi",
-    "d": "2026-07-13T12:03:37+03:00",
-    "desc": "Kayseri'de avukat Ahmet Şahin'in, kendisine \"izinsiz SMS\" attığı gerekçesiyle şikayet ettiği tasarruf finansman şirketi, Kişisel Verileri Koruma Kurumunca (KVKK) 1 milyon lira idari para cezasına çarptırıldı.",
-    "img": "https://d.dengegazetesi.com.tr/news/250980.jpg",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://www.dengegazetesi.com.tr/lgs-tercih-sureci-basladi-2-206704h.htm",
-    "t": "LGS tercih süreci başladı",
-    "u": "https://www.dengegazetesi.com.tr/lgs-tercih-sureci-basladi-2-206704h.htm",
-    "src": "Denge Gazetesi",
-    "d": "2026-07-13T12:00:00+03:00",
-    "desc": "Milli Eğitim Bakanlığınca (MEB) Liselere Geçiş Sistemi (LGS) tercihleri, bugünden itibaren 27 Temmuz'a kadar alınacak.",
-    "img": "https://d.dengegazetesi.com.tr/news/250972.jpg",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://www.gazetearena.com/tekkekoyde-pazarlara-siki-zabita-denetimi",
-    "t": "Tekkeköy’de pazarlara sıkı zabıta denetimi",
-    "u": "https://www.gazetearena.com/tekkekoyde-pazarlara-siki-zabita-denetimi",
-    "src": "Gazete Arena",
-    "d": "2026-07-13T11:57:00+03:00",
-    "desc": "Tekkeköy Belediyesi Zabıta Müdürlüğü ekipleri, ilçe genelindeki semt pazarlarında hijyen, fiyat etiketi ve pazar düzenine yönelik denetimlerini sürdürüyor.",
-    "img": "https://gazetearenacom.teimg.com/gazetearena-com/uploads/2026/07/gazete-arena-311.jpg",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://www.samsungazetesi.com/tekkekoyde-pazar-yerlerinde-siki-denetim",
-    "t": "Tekkeköy'de pazar yerlerinde sıkı denetim",
-    "u": "https://www.samsungazetesi.com/tekkekoyde-pazar-yerlerinde-siki-denetim",
-    "src": "Samsun Gazetesi",
-    "d": "2026-07-13T11:56:00+03:00",
-    "desc": "SAMSUN HABER... Tekkeköy Belediye Başkanı Mustafa Candal, ilçelerde kurulan pazar yerlerinde hijyen kontrolü yapıldığını açıkladı.",
-    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/07/tekkekoyde-pazar-yerlerinde-siki-denetim-1-5.jpg",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZkZrV2E3MU5jY2t3Y0tTZWNhLTlMdnJxRldaMVN6czY3RGk2aXVqNXJyNnZBNU5yeXFzR1oxZmNrMEg2alAxWl9yRU5mUWpqUllLZG5ieE5ZUkNQbFdLNk5JU2YtV2RyTnozRkl3czk4bHV3T2ludktDakdHV3JlX2dOUUY1MXE0VGM2QzBZSFc0U1FhRWRFdXI0RGFRVzNuamtWN3YzbFotaVNfM0E4U0VWaERtT0FZSnZraTZXQTNONUZPZUVwdVNibXQ?oc=5",
-    "t": "Atakum sahilinde araç yolu ısrarı neden sürüyor? Mahkeme olmaz dedi! - Samsun Kent Haber",
-    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZkZrV2E3MU5jY2t3Y0tTZWNhLTlMdnJxRldaMVN6czY3RGk2aXVqNXJyNnZBNU5yeXFzR1oxZmNrMEg2alAxWl9yRU5mUWpqUllLZG5ieE5ZUkNQbFdLNk5JU2YtV2RyTnozRkl3czk4bHV3T2ludktDakdHV3JlX2dOUUY1MXE0VGM2QzBZSFc0U1FhRWRFdXI0RGFRVzNuamtWN3YzbFotaVNfM0E4U0VWaERtT0FZSnZraTZXQTNONUZPZUVwdVNibXQ?oc=5",
-    "src": "Samsun Kent Haber",
-    "d": "2026-07-13T08:51:34+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
   }
 ]
