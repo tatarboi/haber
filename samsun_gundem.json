@@ -2260,6 +2260,16 @@
     "kat": "Sağlık"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ReFctS2tTb2I2QkZ2b2JSY2xvZ0R0MGM2MnFnUDNFTWVYQXNzMUo2dXJDLVU2MmwwNXZKTDhSLXduejJUcGxZTXhET0FNaHJTUzRVS1FoTGJKTnNibmZrcGVNT3lINHhWTUl2Z3R0N3dTeFlQ0gF6QVVfeXFMUGpBYzlXeXpneVJNT3MySGpESGJPTHpTdEhLcF9OejlmZWVJOTd2OE1KdXhDd3dNeUZnR09pOVpxUFFuaHVMaS1OejJWMXpzQlROaEVyejFPanFoSFFUVnpZQjB5OE1yakNVQ2wzaFRnVVpRX0lweFE1Nnc?oc=5",
+    "t": "Samsun'da kaç araç var? TÜİK açıkladı - Samsun Gazetesi",
+    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ReFctS2tTb2I2QkZ2b2JSY2xvZ0R0MGM2MnFnUDNFTWVYQXNzMUo2dXJDLVU2MmwwNXZKTDhSLXduejJUcGxZTXhET0FNaHJTUzRVS1FoTGJKTnNibmZrcGVNT3lINHhWTUl2Z3R0N3dTeFlQ0gF6QVVfeXFMUGpBYzlXeXpneVJNT3MySGpESGJPTHpTdEhLcF9OejlmZWVJOTd2OE1KdXhDd3dNeUZnR09pOVpxUFFuaHVMaS1OejJWMXpzQlROaEVyejFPanFoSFFUVnpZQjB5OE1yakNVQ2wzaFRnVVpRX0lweFE1Nnc?oc=5",
+    "src": "Samsun Gazetesi",
+    "d": "2026-07-18T07:30:00+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Gündem"
+  },
+  {
     "id": "https://www.samsuncanlihaber.com/karadenizde-rip-akintisi-uyarisi-hayatin-kiyisindan-uzaklasmayin",
     "t": "Karadeniz'de rip akıntısı uyarısı: 'Hayatın kıyısından uzaklaşmayın'",
     "u": "https://www.samsuncanlihaber.com/karadenizde-rip-akintisi-uyarisi-hayatin-kiyisindan-uzaklasmayin",
@@ -2907,6 +2917,16 @@
     "d": "2026-07-18T09:30:00+03:00",
     "desc": "",
     "img": "https://d.dengegazetesi.com.tr/author/213_b.jpg",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wUS12ZkI0b2RlM0xkcjRhc2dRaWxVdTVJWnFHQkstY0wtYTdxVFJFM1RGSkRhZWp2Q3oycDlzTm5VelZhYW9IT0lkUzdjSWh2QUZXY3p1NjcyQ3picGF4QlZyY2JYMUsybW44STdzWUpFZ2dXY3ZB0gF8QVVfeXFMTkVEZVZxWFdobzM0bUJ1U3M4TVVzbmhSTk0tWlZXMlJpalZQb2trZzFVM2RwWkhoV0ZTeXptYmhwVFF3aVJKYU4tRUlJOGpoMEh4U2ZObHFHUjE0N0lSbV9ZQ0pia0lNNUViNXltc0xoZHJyOGVHSHYxYi1YYg?oc=5",
+    "t": "Samsun'da konut satışları yüzde 10,9 arttı - Samsun Haber",
+    "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wUS12ZkI0b2RlM0xkcjRhc2dRaWxVdTVJWnFHQkstY0wtYTdxVFJFM1RGSkRhZWp2Q3oycDlzTm5VelZhYW9IT0lkUzdjSWh2QUZXY3p1NjcyQ3picGF4QlZyY2JYMUsybW44STdzWUpFZ2dXY3ZB0gF8QVVfeXFMTkVEZVZxWFdobzM0bUJ1U3M4TVVzbmhSTk0tWlZXMlJpalZQb2trZzFVM2RwWkhoV0ZTeXptYmhwVFF3aVJKYU4tRUlJOGpoMEh4U2ZObHFHUjE0N0lSbV9ZQ0pia0lNNUViNXltc0xoZHJyOGVHSHYxYi1YYg?oc=5",
+    "src": "Samsun Haber",
+    "d": "2026-07-18T06:30:00+00:00",
+    "desc": "",
+    "img": "",
     "kat": "Gündem"
   },
   {
@@ -14978,25 +14998,5 @@
     "desc": "",
     "img": "",
     "kat": "Asayiş"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWE9KYmtsRXRFcktyN3NkRkpSeE8tcUtvVlJrWGxobEQ3VkFVRWdHU2p3cGRrbWdIVjl6amhPbHluZDZ3cUZ3YTdDVDZfUFdMUHVzYUF6NnduUXI1cDhkTU9WOXFUd2dOQkNBS2owMjdONVZEdXVIcjNudmtjRHB1M0paRUVSNG1pRHJTajFTRXh0Q0lrS3g40gGSAUFVX3lxTE8wbS1GRVB4Y2hldzRlMmZPVXNnMW9Ud1hTR0hwMlVlUEdYcWdWc183d3ByX2RCenMzQksxUUk2VFZHYjN5T0F5UFZ6MXp4b0l5NzJacFEwdjJ5SHZucjA3cjd3LVk0bHdNS01iRl8ySGRLdVp3M3IxT0ZIWDFVTVRqSU0zX3BwQjJ6SnU2c1o0WkJn?oc=5",
-    "t": "Samsun'da Uyuşturucu Hükümlüleri Yakalandı - Son Dakika",
-    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWE9KYmtsRXRFcktyN3NkRkpSeE8tcUtvVlJrWGxobEQ3VkFVRWdHU2p3cGRrbWdIVjl6amhPbHluZDZ3cUZ3YTdDVDZfUFdMUHVzYUF6NnduUXI1cDhkTU9WOXFUd2dOQkNBS2owMjdONVZEdXVIcjNudmtjRHB1M0paRUVSNG1pRHJTajFTRXh0Q0lrS3g40gGSAUFVX3lxTE8wbS1GRVB4Y2hldzRlMmZPVXNnMW9Ud1hTR0hwMlVlUEdYcWdWc183d3ByX2RCenMzQksxUUk2VFZHYjN5T0F5UFZ6MXp4b0l5NzJacFEwdjJ5SHZucjA3cjd3LVk0bHdNS01iRl8ySGRLdVp3M3IxT0ZIWDFVTVRqSU0zX3BwQjJ6SnU2c1o0WkJn?oc=5",
-    "src": "Son Dakika",
-    "d": "2026-07-15T14:50:02+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Asayiş"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUHBpVG14a21GNExuaUFBS01EX1A4M2hmdmU1aXA0dUJkQWxocEpaR2s0RzRYV0Z5VVcwbHJBLVFEN3BZTTNGTmEwY1YzTWhjWFlWeE05c2FwbUFGeGRoM0VPLXBNS3d4UklIN19ORlZ0cnRMWlE5bDhyZ2ZOV19aSkR4UU1kdTRsMXRnaEJRTjFpdGZFcU9rUk5HeTlRMDgxd0VF?oc=5",
-    "t": "Samsun’da 1 kilo 210 gram metamfetamin ele geçirildi - Bursa Hakimiyet",
-    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUHBpVG14a21GNExuaUFBS01EX1A4M2hmdmU1aXA0dUJkQWxocEpaR2s0RzRYV0Z5VVcwbHJBLVFEN3BZTTNGTmEwY1YzTWhjWFlWeE05c2FwbUFGeGRoM0VPLXBNS3d4UklIN19ORlZ0cnRMWlE5bDhyZ2ZOV19aSkR4UU1kdTRsMXRnaEJRTjFpdGZFcU9rUk5HeTlRMDgxd0VF?oc=5",
-    "src": "Bursa Hakimiyet",
-    "d": "2026-07-15T14:47:44+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
   }
 ]
