@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://www.gazetearena.com/cevre-guvenlik-sistemi-yapilmasi",
+    "t": "Çevre Güvenlik Sistemi Yapılması",
+    "u": "https://www.gazetearena.com/cevre-guvenlik-sistemi-yapilmasi",
+    "src": "Gazete Arena",
+    "d": "2026-08-11T00:00:00+03:00",
+    "desc": "",
+    "img": "https://gazetearenacom.teimg.com/crop/1280x720/gazetearena-com/uploads/2026/08/1-317.jpg",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://www.gazetearena.com/okul-yaptirilacak",
+    "t": "Okul Yaptırılacak",
+    "u": "https://www.gazetearena.com/okul-yaptirilacak",
+    "src": "Gazete Arena",
+    "d": "2026-08-11T00:00:00+03:00",
+    "desc": "",
+    "img": "https://gazetearenacom.teimg.com/crop/1280x720/gazetearena-com/uploads/2026/08/gazete-arena-samsun-haber-4300.jpg",
+    "kat": "Eğitim"
+  },
+  {
+    "id": "https://www.samsungazetesi.com/gunes-tutulmasi-ne-zaman-turkiyeden-izlenecek-mi",
+    "t": "Güneş tutulması ne zaman? Türkiye’den izlenecek mi?",
+    "u": "https://www.samsungazetesi.com/gunes-tutulmasi-ne-zaman-turkiyeden-izlenecek-mi",
+    "src": "Samsun Gazetesi",
+    "d": "2026-08-10T23:55:00+03:00",
+    "desc": "Tam Güneş tutulması 12 Ağustos Çarşamba günü saat 20.47’de gerçekleşecek. Yaklaşık 2 dakika 18 saniye sürecek tutulma bazı ülkelerden izlenebilecek.",
+    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/08/gunes-tutulmasi-ne-zaman-saat-kacta.png",
+    "kat": "Ekonomi"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQnhIa2JZTTUtN2ZmNXJsUlB2eUVwUFFWWVJmVVQtOWxOYU13bDlDaTJmY3BOWXVLWnB4ME4tWXZlNmwxSTcxUGd1VFVSc0c5S2JDX1NwQzRvNk1oR2lRelhVa1YzakFWdUtveS1famFGanVMNlFENFdGUmZ0OGxKTVlyWlNZWDg?oc=5",
+    "t": "Samsun'da 7 ayda 957 bin yolcuya hizmet - Saray Medya",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQnhIa2JZTTUtN2ZmNXJsUlB2eUVwUFFWWVJmVVQtOWxOYU13bDlDaTJmY3BOWXVLWnB4ME4tWXZlNmwxSTcxUGd1VFVSc0c5S2JDX1NwQzRvNk1oR2lRelhVa1YzakFWdUtveS1famFGanVMNlFENFdGUmZ0OGxKTVlyWlNZWDg?oc=5",
+    "src": "Saray Medya",
+    "d": "2026-08-10T20:38:00+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Gündem"
+  },
+  {
     "id": "https://www.samsungazetesi.com/deniz-seki-kimdir-deniz-seki-evinde-kaza-gecirdi",
     "t": "Deniz Seki kimdir? Deniz Seki evinde kaza geçirdi",
     "u": "https://www.samsungazetesi.com/deniz-seki-kimdir-deniz-seki-evinde-kaza-gecirdi",
@@ -60,6 +100,16 @@
     "kat": "Gündem"
   },
   {
+    "id": "https://www.gazetearena.com/hastaneye-kaldirilan-deniz-sekinin-saglik-durumu-belli-oldu",
+    "t": "Hastaneye kaldırılan Deniz Seki'nin sağlık durumu belli oldu",
+    "u": "https://www.gazetearena.com/hastaneye-kaldirilan-deniz-sekinin-saglik-durumu-belli-oldu",
+    "src": "Gazete Arena",
+    "d": "2026-08-10T22:55:00+03:00",
+    "desc": "İstanbul'daki evinde düşen ünlü şarkıcı Deniz Seki hastaneye kaldırıldı. aldırıldığı hastanede ameliyata alındı.",
+    "img": "https://www.gazetearena.com/vendor/te/assets/images/placeholder.png",
+    "kat": "Sağlık"
+  },
+  {
     "id": "https://www.gazetearena.com/foto-galeri/deniz-seki-evinde-kaza-gecirdi-iste-son-durumu",
     "t": "Deniz Seki evinde kaza geçirdi! İşte son durumu",
     "u": "https://www.gazetearena.com/foto-galeri/deniz-seki-evinde-kaza-gecirdi-iste-son-durumu",
@@ -68,6 +118,16 @@
     "desc": "Deniz Seki evinde ayağının kayması sonucu düşerek hastaneye kaldırıldı. Ameliyat edilen ünlü şarkıcının sağlık durumuyla ilgili açıklama geldi.",
     "img": "https://gazetearenacom.teimg.com/crop/1280x720/gazetearena-com/uploads/2026/08/deniz-seki-5.jpeg",
     "kat": "Trafik/Kaza"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN25tSHZhLXZ2Z3VjWFN4MWRMVkJhR1JQTWF5QkJ1S29WbW1Mc1RMbmE0S3dYNXFHTTZDQ29CZVktaFE0ajloX3BXb3lfNTlMbURBT0tYT1RYNFk5d2F5UzcybVlRbVIyOXhhMGYwUm5CM0dnYmQtUEI3LWJ6ZjU3eXJ5cDI4OEQ4bVAtXzZWRjdRaldNakNlS1E2X2h1dV9mZndr?oc=5",
+    "t": "Samsun İçin Sağanak Yağış Uyarısı! 11 Ağustos Samsun Hava Durumu - Gazeteniz Olsun",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN25tSHZhLXZ2Z3VjWFN4MWRMVkJhR1JQTWF5QkJ1S29WbW1Mc1RMbmE0S3dYNXFHTTZDQ29CZVktaFE0ajloX3BXb3lfNTlMbURBT0tYT1RYNFk5d2F5UzcybVlRbVIyOXhhMGYwUm5CM0dnYmQtUEI3LWJ6ZjU3eXJ5cDI4OEQ4bVAtXzZWRjdRaldNakNlS1E2X2h1dV9mZndr?oc=5",
+    "src": "Gazeteniz Olsun",
+    "d": "2026-08-10T19:50:33+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Gündem"
   },
   {
     "id": "https://www.samsungazetesi.com/cerceve-yasa-mecliste-kabul-edildi-mi",
@@ -100,11 +160,31 @@
     "kat": "Gündem"
   },
   {
+    "id": "https://www.samsunkenthaber.com.tr/samsun-milletvekillerinin-cerceve-yasaya-ne-oy-verdikleri-belli-oldu/21928/",
+    "t": "Samsun milletvekillerinin Çerçeve Yasaya ne oy verdikleri belli oldu",
+    "u": "https://www.samsunkenthaber.com.tr/samsun-milletvekillerinin-cerceve-yasaya-ne-oy-verdikleri-belli-oldu/21928/",
+    "src": "Samsun Kent Haber",
+    "d": "2026-08-10T22:43:31+03:00",
+    "desc": "Samsun milletvekillerinin TBMM Genel Kurulunda görüşülen Çerçeve Yasaya ne oy verdikleri belli oldu. Samsun Milletvekilleri, TBMM'de Çerçeve Yasaya evet mi, hayır mı oyu verdi. İşte Samsun milletvekillerinin oy tercihleri.",
+    "img": "https://www.samsunkenthaber.com.tr/images/haberler/2026/08/samsun-milletvekillerinin-cerceve-yasaya-ne-oy-verdikleri-belli-oldu-5097.jpg",
+    "kat": "Gündem"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV1FqU0EtdlpBXzlMeFFBbWV5d3JBdU9MQTNVWFRNNVVpNkRZeUx2TXNYVHFhYmtENEZtSjRMVEgxVTBUaTh6eHFJTG45QkZYalRTYnVRelNuWk1YSDRUNTNyM2FIQ19aUG95RVgxRE83Mnp3T2tzaHQyU2s0VGNHdXk2ck9rWjhCakw0RUsyQXFHRGpVWFNpU0JlVUZQVExGYXhMN2lBdmxJcXhqcS1yMtIBtAFBVV95cUxPaVZfN2ZzOXpPTVlfWVVMakdOb2Myei1Jb1h5bmZJbFdoMVliV21fU2ppTmIycER3Z2NlV1h0X3AyNEJBakhCYWhzcGxmVGc4QXJ0ZzBDeWhSMXdaeFR4bmhHdFl5QzBkWTc3T0NZdkJFWjFmTDd5UFFEa3RkeFB0bWE0Yll1YTJzRVZNWjZRLWFuS2dIa01GMHhuaFVBUXhvNE5pNEtaTkdRaG1DZkxKcHNMS3M?oc=5",
     "t": "Deniz Kürek Endurance ve Beach Sprint Türkiye Şampiyonası Samsun’da başlıyor - DHA | Demirören Haber Ajansı",
     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV1FqU0EtdlpBXzlMeFFBbWV5d3JBdU9MQTNVWFRNNVVpNkRZeUx2TXNYVHFhYmtENEZtSjRMVEgxVTBUaTh6eHFJTG45QkZYalRTYnVRelNuWk1YSDRUNTNyM2FIQ19aUG95RVgxRE83Mnp3T2tzaHQyU2s0VGNHdXk2ck9rWjhCakw0RUsyQXFHRGpVWFNpU0JlVUZQVExGYXhMN2lBdmxJcXhqcS1yMtIBtAFBVV95cUxPaVZfN2ZzOXpPTVlfWVVMakdOb2Myei1Jb1h5bmZJbFdoMVliV21fU2ppTmIycER3Z2NlV1h0X3AyNEJBakhCYWhzcGxmVGc4QXJ0ZzBDeWhSMXdaeFR4bmhHdFl5QzBkWTc3T0NZdkJFWjFmTDd5UFFEa3RkeFB0bWE0Yll1YTJzRVZNWjZRLWFuS2dIa01GMHhuaFVBUXhvNE5pNEtaTkdRaG1DZkxKcHNMS3M?oc=5",
     "src": "DHA | Demirören Haber Ajansı",
     "d": "2026-08-10T19:35:17+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQmxGTDh6bXZEU1NQclEzM0lUTWJhMDZJakNCXzR4WG1ScmdwcGJqR19CSVF5VUZuU2dPbjVXaXBvbGJGajdmbDlJS29yVDVvMEZPZnV3M3A5ZHFqZkNrUHFfTXdtOUpiUEFfbk5fMV9IZjVacGNOeVoyR0dUU2pvU1ZLT2ZaTTJYM0JMY3JkcGxtYkVPazVNLUFIcHVmekgzSVHSAaYBQVVfeXFMUE9RZWc1RHozcFB1Z0p0dnVBdTNzZllaOEhMamsxbWV0RGthYjJWOHdfcDhJZmdzZGl2d2s3WTB6YWVYbDBvZDVPSUphMGV5YkpFX1ZvYkRscDQ5b0RGNk5nSTJJZTRtOE5WTHRDNmpsM2dNMXd6ekc5QWRUbmhaSGdGV1JSMVpfTnk4WHgxWlFzOUc4bzBTSExSblhhdVNmT0JOSmIyUQ?oc=5",
+    "t": "Deniz Kürek Endurance ve Beach Sprint Türkiye Şampiyonası Samsun’da başlıyor - DHA | Demirören Haber Ajansı",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQmxGTDh6bXZEU1NQclEzM0lUTWJhMDZJakNCXzR4WG1ScmdwcGJqR19CSVF5VUZuU2dPbjVXaXBvbGJGajdmbDlJS29yVDVvMEZPZnV3M3A5ZHFqZkNrUHFfTXdtOUpiUEFfbk5fMV9IZjVacGNOeVoyR0dUU2pvU1ZLT2ZaTTJYM0JMY3JkcGxtYkVPazVNLUFIcHVmekgzSVHSAaYBQVVfeXFMUE9RZWc1RHozcFB1Z0p0dnVBdTNzZllaOEhMamsxbWV0RGthYjJWOHdfcDhJZmdzZGl2d2s3WTB6YWVYbDBvZDVPSUphMGV5YkpFX1ZvYkRscDQ5b0RGNk5nSTJJZTRtOE5WTHRDNmpsM2dNMXd6ekc5QWRUbmhaSGdGV1JSMVpfTnk4WHgxWlFzOUc4bzBTSExSblhhdVNmT0JOSmIyUQ?oc=5",
+    "src": "DHA | Demirören Haber Ajansı",
+    "d": "2026-08-10T19:30:59+00:00",
     "desc": "",
     "img": "",
     "kat": "Gündem"
@@ -175,6 +255,16 @@
     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUW43R1ZhMTJmbW1mMXJtdVRaU2pHMDFzbTExMmZsX0hOdUdMRlF4X3Y0QTZoREM3Wk1tR1BYMjA4eVhLSmdvNWZZbHZJdlR1Z2hKUzBxRUNRd3lWUUFwaUxDTWhic0ZHekwtMUVzUjkzblNZT2tpSW5DdU54TTRYcGpLWkhZR2tJSWFCeHFfTGpzTmtEWGJKX0p4azQwQUNueUV0YVo0aU9rbWJmaVpyaEJZWkQ?oc=5",
     "src": "Habertürk",
     "d": "2026-08-10T18:49:02+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcTFSZ0NtS2FvdnU4R2lXMXZGQ2Nka3AxbW1XS3pXVEp2SXVjRE4yMFdyX3RhQzdKYi1xNDV2NHdTUm8taHNnQjVXS2RtY2tlWVl1TjNDa0x4cUlxcTMzNUQ0Tm0wX3paMHpockVBNDRWX2dxZ2V2dVU1R0hadjMwT1RjcWlPQmkyNjA5OUZR?oc=5",
+    "t": "Samsun'un doğusuna 'sarı kodlu' yağış uyarısı - Dünya Gazetesi",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcTFSZ0NtS2FvdnU4R2lXMXZGQ2Nka3AxbW1XS3pXVEp2SXVjRE4yMFdyX3RhQzdKYi1xNDV2NHdTUm8taHNnQjVXS2RtY2tlWVl1TjNDa0x4cUlxcTMzNUQ0Tm0wX3paMHpockVBNDRWX2dxZ2V2dVU1R0hadjMwT1RjcWlPQmkyNjA5OUZR?oc=5",
+    "src": "Dünya Gazetesi",
+    "d": "2026-08-10T18:46:00+00:00",
     "desc": "",
     "img": "",
     "kat": "Gündem"
@@ -430,6 +520,16 @@
     "kat": "Spor"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdkNkdjdyQWJwUjVPREk3cFFIWVdOYUdxcTBadHNnNzFxSDY4YU15RHRfaU8za2U4STZ4Qk5wc01TWXZLUncwaHdvak55bHhrTldIZmRnZjh2QkVxbmZRNTVidDA4U3pwUVJDVDlrTndOQ1ZyaFRyRVRpdlpIMm9vOG9sVFJQemhBYm9Qd2xOeEZFcWhVUUFDdWJsdUdSQUQyN0JoblZtQTBYbHF4RVJfd3VMQlFzUjBfOEFqR2hjQnpGaHJYNGRra1RzMXY?oc=5",
+    "t": "Samsun'un doğusu ile Ordu çevreleri için gök gürültülü sağanak uyarısı - Habertürk",
+    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdkNkdjdyQWJwUjVPREk3cFFIWVdOYUdxcTBadHNnNzFxSDY4YU15RHRfaU8za2U4STZ4Qk5wc01TWXZLUncwaHdvak55bHhrTldIZmRnZjh2QkVxbmZRNTVidDA4U3pwUVJDVDlrTndOQ1ZyaFRyRVRpdlpIMm9vOG9sVFJQemhBYm9Qd2xOeEZFcWhVUUFDdWJsdUdSQUQyN0JoblZtQTBYbHF4RVJfd3VMQlFzUjBfOEFqR2hjQnpGaHJYNGRra1RzMXY?oc=5",
+    "src": "Habertürk",
+    "d": "2026-08-10T17:21:53+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Gündem"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOXdaZW9yNFczb055Z0JuN1JyNS0zbHJ1TWticWtrOGdsemtyV2wydnl4cERWZHhMWmtsZmlZdEE0RnNzZjlmUjhTdzJuTlBJT1VtT2N1LTdXd0VfdEZGZzRlR2tUQzdBSWxucG5INHRmOHVOTXpqcm1SMmo4V2l3RGh6ZjRsT3V0eTZhdTExTmk5dnVfb0RNV9IBlAFBVV95cUxQeTctMW5NMHpxZlcybS1ndHB1V3FjTUhpY19Oei1QbXZrTFBjVmtUVkhhclVFY09hX1NYcGMtU000ZUd0ektRUElqLWVrZ0lRLXZtT196UV9lMlRieDdMdHg0OU1JZnZkeTUxaGJMTDE2VlJJbUpQdjRpRE1jRWZBQV95bW1TZV9pd2IwM3R2OWJtR2Vp?oc=5",
     "t": "Samsun'un doğusu ile Ordu çevreleri için gök gürültülü sağanak uyarısı - Haberler",
     "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOXdaZW9yNFczb055Z0JuN1JyNS0zbHJ1TWticWtrOGdsemtyV2wydnl4cERWZHhMWmtsZmlZdEE0RnNzZjlmUjhTdzJuTlBJT1VtT2N1LTdXd0VfdEZGZzRlR2tUQzdBSWxucG5INHRmOHVOTXpqcm1SMmo4V2l3RGh6ZjRsT3V0eTZhdTExTmk5dnVfb0RNV9IBlAFBVV95cUxQeTctMW5NMHpxZlcybS1ndHB1V3FjTUhpY19Oei1QbXZrTFBjVmtUVkhhclVFY09hX1NYcGMtU000ZUd0ektRUElqLWVrZ0lRLXZtT196UV9lMlRieDdMdHg0OU1JZnZkeTUxaGJMTDE2VlJJbUpQdjRpRE1jRWZBQV95bW1TZV9pd2IwM3R2OWJtR2Vp?oc=5",
@@ -567,6 +667,16 @@
     "d": "2026-08-10T19:18:00+03:00",
     "desc": "SAMSUN HABER... DSİ Samsun 180 işçi alımı için başvurular başladı. Engelli ve eski hükümlü/TMY kontenjanlarındaki kadrolar için başvuru şartları, kadro dağılımı ve kura tarihi belli oldu.",
     "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/08/dsi-samsunda-isci-alimi-basvurulari-basladi-1.png",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeE55UHdrYWx0ckNCR0ZaRkhJWFlTdUtfYWVFQ3AtUnVrUU14bjZLU3VwU283VXR3UDJXTUNEU196cVd2dUFiSElhZll0dVFhVm1KcFBiREwxTWZIMTI0enBGeWhrQ2kxQ1lkNzAwXzMxc2JKRTBFd1ZqTnNPdEdBb25XdC1PTnJfdkZZT3VJalpzeUp0OWU0ZVdpUzhsNE03?oc=5",
+    "t": "Samsun'da Tarihe Işık Tutan Katliam: 1918 Bafra Balık Gölleri Dramı! - Samsun İlk Haber",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeE55UHdrYWx0ckNCR0ZaRkhJWFlTdUtfYWVFQ3AtUnVrUU14bjZLU3VwU283VXR3UDJXTUNEU196cVd2dUFiSElhZll0dVFhVm1KcFBiREwxTWZIMTI0enBGeWhrQ2kxQ1lkNzAwXzMxc2JKRTBFd1ZqTnNPdEdBb25XdC1PTnJfdkZZT3VJalpzeUp0OWU0ZVdpUzhsNE03?oc=5",
+    "src": "Samsun İlk Haber",
+    "d": "2026-08-10T16:14:42+00:00",
+    "desc": "",
+    "img": "",
     "kat": "Gündem"
   },
   {
@@ -1278,6 +1388,16 @@
     "desc": "",
     "img": "",
     "kat": "Siyaset"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGtUa2hsZ1BIcGRsSW11YnVxTGx0ajEzUEhESC14RVlLdno0YzRtcHlqeEFiRkRvMm9kVFJMeEpvQnJjLV96M2ZuRkt1ZXhDbl9PWHpUb1luZWZyOUR6bmxURi1Namp5SE85RVlLamhmR2JDdjEwMGZMUk91TUFaeDBseHhTa1lEZkF0QWNDMXVHbjVkcmZWeG81T0Jzd9IBmAFBVV95cUxPRlhEc0RjS1lWUUx0QTN5UFFrbVVsQ3BnaWhjMFUwWFJaU3J0c2N1VnJVek1ZTFFpd21Dak1fRnNHOFl2SHlqNUdPWm5YQy11aWk4eWFyVkVjOGdNRlMtdXJOOElTX2F5WGljN05qeUhNTEhOQS03RFJxVHhESDIwQUtCUWNJYWNPOWR0V3JJWFBHV1VxM0RDcQ?oc=5",
+    "t": "Samsun'da Toplu Taşıma ve Servis Ücretlerine Zam Teklifi - Son Dakika",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGtUa2hsZ1BIcGRsSW11YnVxTGx0ajEzUEhESC14RVlLdno0YzRtcHlqeEFiRkRvMm9kVFJMeEpvQnJjLV96M2ZuRkt1ZXhDbl9PWHpUb1luZWZyOUR6bmxURi1Namp5SE85RVlLamhmR2JDdjEwMGZMUk91TUFaeDBseHhTa1lEZkF0QWNDMXVHbjVkcmZWeG81T0Jzd9IBmAFBVV95cUxPRlhEc0RjS1lWUUx0QTN5UFFrbVVsQ3BnaWhjMFUwWFJaU3J0c2N1VnJVek1ZTFFpd21Dak1fRnNHOFl2SHlqNUdPWm5YQy11aWk4eWFyVkVjOGdNRlMtdXJOOElTX2F5WGljN05qeUhNTEhOQS03RFJxVHhESDIwQUtCUWNJYWNPOWR0V3JJWFBHV1VxM0RDcQ?oc=5",
+    "src": "Son Dakika",
+    "d": "2026-08-10T14:04:00+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Ekonomi"
   },
   {
     "id": "https://www.dengegazetesi.com.tr/bafra-ovasinda-kavun-hasadi-suruyor-207379h.htm",
@@ -14878,125 +14998,5 @@
     "desc": "Samsun’un 19 Mayıs ilçesinde düzenlenen NebiyanFest'te  7 yaşındaki çocuk ATV gösterisiyle damga vurdu.",
     "img": "",
     "kat": "Sağlık"
-  },
-  {
-    "id": "https://www.samsunhaber.com/samsun-vezirkoprude-20-kunduz-yagli-guresleri-festivali-kortej-yuruyusuyle-basladi",
-    "t": "Samsun Vezirköprü'de 20. Kunduz Yağlı Güreşleri Festivali kortej yürüyüşüyle başladı",
-    "u": "https://www.samsunhaber.com/samsun-vezirkoprude-20-kunduz-yagli-guresleri-festivali-kortej-yuruyusuyle-basladi",
-    "src": "Samsun Haber",
-    "d": "2026-08-07T19:58:00+03:00",
-    "desc": "Samsun'un Vezirköprü ilçesinde geleneksel hale gelen ve bu yıl 20'ncisi düzenlenen Kunduz Yağlı Güreşleri Festivali, ilçe merkezinde gerçekleştirilen görkemli kortej yürüyüşüyle başladı.",
-    "img": "https://samsunhabercom.teimg.com/crop/1280x720/samsunhaber-com/uploads/2026/08/basliksiz-1-221.png",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://www.samsungazetesi.com/ayvacikta-hapan-grup-yolu-4-gun-kapali-olacak",
-    "t": "Ayvacık’ta Hapan Grup Yolu 4 gün kapalı olacak!",
-    "u": "https://www.samsungazetesi.com/ayvacikta-hapan-grup-yolu-4-gun-kapali-olacak",
-    "src": "Samsun Gazetesi",
-    "d": "2026-08-07T19:55:00+03:00",
-    "desc": "SAMSUN HABER – Samsun'un Ayvacık ilçesinde Hapan Grup Yolu'nda yapılacak beton yol çalışmaları nedeniyle İndere ile Ardıçguz mahalleleri arasındaki güzergâh, 8-11 Ağustos tarihleri arasında araç trafiğine kapatılacak.",
-    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/08/ayvacikta-hapan-grup-yolu-4-gun-kapali-olacak-1.png",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://www.samsunhaber.com/samsunda-iki-kadin-arasindaki-bicakli-kavga-18-yasindaki-genc-kadinin-akcigeri-sondu-1-tutuklama",
-    "t": "Samsun'da iki kadın arasındaki bıçaklı kavga: 18 yaşındaki genç kadının akciğeri söndü, 1 tutuklama",
-    "u": "https://www.samsunhaber.com/samsunda-iki-kadin-arasindaki-bicakli-kavga-18-yasindaki-genc-kadinin-akcigeri-sondu-1-tutuklama",
-    "src": "Samsun Haber",
-    "d": "2026-08-07T19:51:00+03:00",
-    "desc": "Samsun’un Atakum ilçesinde iki kadın arkadaş arasında çıkan tartışmanın bıçaklı kavgaya dönüşmesi sonucu bıçaklanan 18 yaşındaki kadının akciğeri söndü. Olayla ilgili gözaltına alınan kadın, çıkarıldığı mahkemece tutuklandı.",
-    "img": "https://samsunhabercom.teimg.com/crop/1280x720/samsunhaber-com/uploads/2026/08/basliksiz-1-220.png",
-    "kat": "Asayiş"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFJtU3l2M3MtLVdGNThiUkVKWDE5dXdyQnBIYkcyd2pWWThNdnFmNDg0czg4akpGTnd1MjRTbDYydHdRXzlpV0I1VGNVcjhjbHF6bTdJdHZHdnlrTWZWbDJ1VU9QUmc1MkJCUE5YRHRlYURqZXZ3LWNnRFhHWkhJTVBwSWxBbFdXRWNJeWxPZ204MDBFTGpSN2JvemM3djd3bnhDSEl6QkpQY0Q5dERScWVoMmkxbVNUUjNoSm9ZMHBVUdIBxwFBVV95cUxQU2tfZXU3UWZMSTdTR05nT1p4dWYyME1GNHhkMy0tekFuaGdVYXRzVVp4Q2syVmNUcF95M2h1VFJOVWdMZDVRMkFaX0ZjT1I3MDFPcGIxYlczdDcxZTZLZGZaWnJzdEdBelRzR3ZEandUeGtqdHBPa0dhdk9iQW5wd1UtYnVPTVZqRFBzQWF5R0I0b3IyUXNxcFdiSm1LTGk4dmFBRGtaV1VjRDhIbmx0OWd2YW02WjViVjFfN0ZRdDVjVEFTVmRr?oc=5",
-    "t": "Samsun'da iki kadın arasındaki bıçaklı kavga: 18 yaşındaki genç kadının akciğeri söndü, 1 tutuklama - Son Dakika Samsun Haberleri",
-    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFJtU3l2M3MtLVdGNThiUkVKWDE5dXdyQnBIYkcyd2pWWThNdnFmNDg0czg4akpGTnd1MjRTbDYydHdRXzlpV0I1VGNVcjhjbHF6bTdJdHZHdnlrTWZWbDJ1VU9QUmc1MkJCUE5YRHRlYURqZXZ3LWNnRFhHWkhJTVBwSWxBbFdXRWNJeWxPZ204MDBFTGpSN2JvemM3djd3bnhDSEl6QkpQY0Q5dERScWVoMmkxbVNUUjNoSm9ZMHBVUdIBxwFBVV95cUxQU2tfZXU3UWZMSTdTR05nT1p4dWYyME1GNHhkMy0tekFuaGdVYXRzVVp4Q2syVmNUcF95M2h1VFJOVWdMZDVRMkFaX0ZjT1I3MDFPcGIxYlczdDcxZTZLZGZaWnJzdEdBelRzR3ZEandUeGtqdHBPa0dhdk9iQW5wd1UtYnVPTVZqRFBzQWF5R0I0b3IyUXNxcFdiSm1LTGk4dmFBRGtaV1VjRDhIbmx0OWd2YW02WjViVjFfN0ZRdDVjVEFTVmRr?oc=5",
-    "src": "Son Dakika Samsun Haberleri",
-    "d": "2026-08-07T16:51:00+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Sağlık"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSGZKQkhOSU9lU1VZZVF1ZmZfNnhnNWZNU3ZSWmhHY0V5dEtlaEg3djk3QlM4V3I5LXZmS0VjQkZhTFktbTR2RWNqeXlhdGpuWnRXbWFwTFFoVEV6SGJnczUzQUdENGdLR1lzNDVZTXphdExYdmNzVXBpeUJiVHUtSk9hNm90SkxoNVlYcDBhWkkwdVVLdUtrd2huWUdCUkVTM2xQWllUZUttZWp0aXBfdlFZNFc1RFo0ZDRmQ3lQT0pmU25kNWhr?oc=5",
-    "t": "20. Kunduz Yağlı Güreşleri Vezirköprü'de kortej yürüyüşüyle başladı - Habertürk",
-    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSGZKQkhOSU9lU1VZZVF1ZmZfNnhnNWZNU3ZSWmhHY0V5dEtlaEg3djk3QlM4V3I5LXZmS0VjQkZhTFktbTR2RWNqeXlhdGpuWnRXbWFwTFFoVEV6SGJnczUzQUdENGdLR1lzNDVZTXphdExYdmNzVXBpeUJiVHUtSk9hNm90SkxoNVlYcDBhWkkwdVVLdUtrd2huWUdCUkVTM2xQWllUZUttZWp0aXBfdlFZNFc1RFo0ZDRmQ3lQT0pmU25kNWhr?oc=5",
-    "src": "Habertürk",
-    "d": "2026-08-07T16:47:18+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://www.gazetearena.com/buyukbas-hayvanlar-artik-dijital-olarak-takip-edilebilecek",
-    "t": "Büyükbaş hayvanlar artık dijital olarak takip edilebilecek",
-    "u": "https://www.gazetearena.com/buyukbas-hayvanlar-artik-dijital-olarak-takip-edilebilecek",
-    "src": "Gazete Arena",
-    "d": "2026-08-07T19:47:00+03:00",
-    "desc": "Savunma Sanayii Başkanlığı ve Tarım ve Orman Bakanlığı iş birliğiyle geliştirilen GEKİS ile büyükbaş hayvanlar doğumdan kesime kadar dijital ortamda takip edilecek.",
-    "img": "https://gazetearenacom.teimg.com/crop/1280x720/gazetearena-com/uploads/2026/08/buyukbas-hayvanlar-artik-dijital-olarak-takip-edilebilecek-2-1.png",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://www.samsungazetesi.com/karasamsunspordan-tffye-vize-ve-filiz-lisans-ucreti-tepkisi",
-    "t": "Karasamsunspor’dan TFF’ye vize ve filiz lisans ücreti tepkisi",
-    "u": "https://www.samsungazetesi.com/karasamsunspordan-tffye-vize-ve-filiz-lisans-ucreti-tepkisi",
-    "src": "Samsun Gazetesi",
-    "d": "2026-08-07T19:45:00+03:00",
-    "desc": "Karasamsunspor Kulübü, Türkiye Futbol Federasyonu’nun amatör vize ve filiz lisans ücretlerini 150 TL’den 500 TL’ye yükseltmesine tepki gösterdi.",
-    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/08/karasamsunspordan-tffye-vize-ve-filiz-lisans-ucreti-tepkisi-1.png",
-    "kat": "Spor"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNUd6NjFuZ2ExOHVXNUxxRW1LVzQ1b2xTZlgxN3ZzWkExT25nX21NV0dWTVNiakZmUVRsMUp4YkVEUjZNbEhHVU1VRzFpUEpGNGVIMm9iQmRtY3dXQTdDaTVLaUNFUFcwVHFIR2NITldQUW9HNzdKakQwbTZPR3RRS3dmWmRWU2ZrTS1nZXVpcHFEOWFjNmJwMTM0dUJuZGd1VnBaWEJ1TdIBqwFBVV95cUxQQ01wZURrT0tIa0MxQXlGLXJEblZaZm1HOXY4aHN1a005aXJjS2wxYTFrSXhHRTlUMkJXckppcFktSkp5RzRuVC1yZFNkLTQxOVJIQ0IzNEZNS2lHbEdSTVQ5ajV1OVBNVUhLSzJFZWZLUFhWTm9BUVBhaWxyaVRBdW1yUG1QaFVPN05SNmlPbU5Rb0Rqa0Qzd0NqQUh1R0V0bGdpN3gyR0lzdUE?oc=5",
-    "t": "Samsun’da 5’inci Nebiyan Doğa ve Gençlik Festivali başladı - DHA | Demirören Haber Ajansı",
-    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNUd6NjFuZ2ExOHVXNUxxRW1LVzQ1b2xTZlgxN3ZzWkExT25nX21NV0dWTVNiakZmUVRsMUp4YkVEUjZNbEhHVU1VRzFpUEpGNGVIMm9iQmRtY3dXQTdDaTVLaUNFUFcwVHFIR2NITldQUW9HNzdKakQwbTZPR3RRS3dmWmRWU2ZrTS1nZXVpcHFEOWFjNmJwMTM0dUJuZGd1VnBaWEJ1TdIBqwFBVV95cUxQQ01wZURrT0tIa0MxQXlGLXJEblZaZm1HOXY4aHN1a005aXJjS2wxYTFrSXhHRTlUMkJXckppcFktSkp5RzRuVC1yZFNkLTQxOVJIQ0IzNEZNS2lHbEdSTVQ5ajV1OVBNVUhLSzJFZWZLUFhWTm9BUVBhaWxyaVRBdW1yUG1QaFVPN05SNmlPbU5Rb0Rqa0Qzd0NqQUh1R0V0bGdpN3gyR0lzdUE?oc=5",
-    "src": "DHA | Demirören Haber Ajansı",
-    "d": "2026-08-07T16:33:45+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZVk1THlvZVllT0lDemdjSFRrUXZFVkNqcjFzRzlpcDNCbF9oRjVRYlQ1cTlRVE85U0xNR01Ga0hUVjlkSExWdjlRZGQ1a2k3eUgwSjZZZzdfVUttbHZFVDREUy1GSkFCQ0hWTGEyWHVNUHhKVmhCX29yUGJmZkJ0bnktcU9rbHZZZVFBaWNXTEllQ3RuQ09kbWUtVFJ4ZExwS0JYQVBn0gGrAUFVX3lxTFBDTXBlRGtPS0hrQzFBeUYtckRuVlpmbUc5djhoc3VrTTlpcmNLbDFhMWtJeEdFOVQyQldySmlwWS1KSnlHNG5ULXJkU2QtNDE5UkhDQjM0Rk1LaUdsR1JNVDlqNXU5UE1VSEtLMkVlZktQWFZOb0FRUGFpbHJpVEF1bXJQbVBoVU83TlI2aU9tTlFvRGprRDN3Q2pBSHVHRXRsZ2k3eDJHSXN1QQ?oc=5",
-    "t": "Samsun’da 5’inci Nebiyan Doğa ve Gençlik Festivali başladı - DHA | Demirören Haber Ajansı",
-    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZVk1THlvZVllT0lDemdjSFRrUXZFVkNqcjFzRzlpcDNCbF9oRjVRYlQ1cTlRVE85U0xNR01Ga0hUVjlkSExWdjlRZGQ1a2k3eUgwSjZZZzdfVUttbHZFVDREUy1GSkFCQ0hWTGEyWHVNUHhKVmhCX29yUGJmZkJ0bnktcU9rbHZZZVFBaWNXTEllQ3RuQ09kbWUtVFJ4ZExwS0JYQVBn0gGrAUFVX3lxTFBDTXBlRGtPS0hrQzFBeUYtckRuVlpmbUc5djhoc3VrTTlpcmNLbDFhMWtJeEdFOVQyQldySmlwWS1KSnlHNG5ULXJkU2QtNDE5UkhDQjM0Rk1LaUdsR1JNVDlqNXU5UE1VSEtLMkVlZktQWFZOb0FRUGFpbHJpVEF1bXJQbVBoVU83TlI2aU9tTlFvRGprRDN3Q2pBSHVHRXRsZ2k3eDJHSXN1QQ?oc=5",
-    "src": "DHA | Demirören Haber Ajansı",
-    "d": "2026-08-07T16:33:45+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://www.samsungazetesi.com/karadeniz-derbisi-ne-zaman-rizespor-samsunspor-maci-saat-kacta",
-    "t": "Karadeniz derbisi ne zaman? Rizespor-Samsunspor maçı saat kaçta?",
-    "u": "https://www.samsungazetesi.com/karadeniz-derbisi-ne-zaman-rizespor-samsunspor-maci-saat-kacta",
-    "src": "Samsun Gazetesi",
-    "d": "2026-08-07T19:28:00+03:00",
-    "desc": "SAMSUNSPOR HABER–  TFF, Trendyol Süper Lig 2. hafta programını açıkladı. Samsunspor, Karadeniz derbisinde Çaykur Rizespor deplasmanına çıkacak. Deplasman tarihi netleşti.",
-    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/08/karadeniz-derbisi-ne-zaman-rizespor-samsunspor-maci-saat-kacta-1.png",
-    "kat": "Spor"
-  },
-  {
-    "id": "https://www.samsungazetesi.com/tbmmde-komisyon-toplantisi-oncesi-izdiham-yasandi",
-    "t": "TBMM’de komisyon toplantısı öncesi izdiham yaşandı!",
-    "u": "https://www.samsungazetesi.com/tbmmde-komisyon-toplantisi-oncesi-izdiham-yasandi",
-    "src": "Samsun Gazetesi",
-    "d": "2026-08-07T19:16:00+03:00",
-    "desc": "TBMM Adalet Komisyonu’nda kanun teklifi görüşmeleri öncesinde salon kapılarının geç açılması izdihama neden oldu.",
-    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/08/tbmm-adalet-komisyonunda-toplanti-oncesi-izdiham.png",
-    "kat": "Gündem"
-  },
-  {
-    "id": "https://www.samsunhaberajansi.com/haber-ciftcilere-688-milyon-lira-tarimsal-destek-30505.html",
-    "t": "Çiftçilere 688 milyon lira tarımsal destek",
-    "u": "https://www.samsunhaberajansi.com/haber-ciftcilere-688-milyon-lira-tarimsal-destek-30505.html",
-    "src": "Samsun Haber Ajansı",
-    "d": "2026-08-07T16:11:01+00:00",
-    "desc": "TARIM ve Orman Bakanı İbrahim Yumaklı, çiftçilerin hesaplarına 688 milyon TL tarımsal destek ödemesi aktardıklarını duyurdu.",
-    "img": "https://www.samsunhaberajansi.com/images/haber/ciftcilere-688-milyon-lira-tarimsal-destek-191810-20260807.webp",
-    "kat": "Siyaset"
   }
 ]
