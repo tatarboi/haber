@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMGZNcTBXSERoMm0xRUxaeWoycVQ5ckp6VEtsRU1JdURmaTNOT2JzbkV1UlNaY1ZOM0VYZUdzN3dLQVBBTllCM25yLTdLanFKNzFnTkJKeTBEaXNqMG5vN3dwaUktMEdPM256MWZSSHpwUDVpWXZsNklhaXNsT1NpcmJKYjJ2cFFuS1o1LUItbngwMVnSAZgBQVVfeXFMUFZtdGxwLV9tXzNkNnU0T0JMUnhyY1Q3RzB3NVA0Y1JBUmVoakpSSm9nR1V2SDhxRVlGemlWUWx2TzFQVjhNaE9DYTNZdXgtWDVWTzVQeXJnN1N1MDlWMm1vSTZkVWhKdWlkWW8yT2d0NVZSTkc1cVV0eFpyQUZteUplX2JCY3pXTlFFa2dOTGNndmMtd3pyakU?oc=5",
+    "t": "Samsun'da seyir halindeki otomobil alevlere teslim oldu - Aksiyon.com.TR",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMGZNcTBXSERoMm0xRUxaeWoycVQ5ckp6VEtsRU1JdURmaTNOT2JzbkV1UlNaY1ZOM0VYZUdzN3dLQVBBTllCM25yLTdLanFKNzFnTkJKeTBEaXNqMG5vN3dwaUktMEdPM256MWZSSHpwUDVpWXZsNklhaXNsT1NpcmJKYjJ2cFFuS1o1LUItbngwMVnSAZgBQVVfeXFMUFZtdGxwLV9tXzNkNnU0T0JMUnhyY1Q3RzB3NVA0Y1JBUmVoakpSSm9nR1V2SDhxRVlGemlWUWx2TzFQVjhNaE9DYTNZdXgtWDVWTzVQeXJnN1N1MDlWMm1vSTZkVWhKdWlkWW8yT2d0NVZSTkc1cVV0eFpyQUZteUplX2JCY3pXTlFFa2dOTGNndmMtd3pyakU?oc=5",
+    "src": "Aksiyon.com.TR",
+    "d": "2026-08-23T19:51:57+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://www.samsungazetesi.com/kpss-adaylari-dikkat-gozler-osymden-gelecek-duyuruda",
+    "t": "KPSS adayları dikkat! Gözler ÖSYM’den gelecek duyuruda",
+    "u": "https://www.samsungazetesi.com/kpss-adaylari-dikkat-gozler-osymden-gelecek-duyuruda",
+    "src": "Samsun Gazetesi",
+    "d": "2026-08-23T22:46:00+03:00",
+    "desc": "2026 KPSS Lisans sınavı için geri sayım başladı. 6 Eylül'de yapılacak Genel Yetenek-Genel Kültür oturumu öncesi gözler sınav giriş belgelerine çevrildi.",
+    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/08/kpss-4.jpg",
+    "kat": "Eğitim"
+  },
+  {
+    "id": "https://www.gazetearena.com/merkez-bankasindan-repo-ihalelerine-iliskin-yeni-karar",
+    "t": "Merkez Bankası’ndan repo ihalelerine ilişkin yeni karar",
+    "u": "https://www.gazetearena.com/merkez-bankasindan-repo-ihalelerine-iliskin-yeni-karar",
+    "src": "Gazete Arena",
+    "d": "2026-08-23T22:44:00+03:00",
+    "desc": "Türkiye Cumhuriyet Merkez Bankası (TCMB), 1 Mart 2026’da ara verilen bir hafta vadeli repo ihalelerine yeniden başlanmasına karar verdi.",
+    "img": "https://gazetearenacom.teimg.com/crop/1280x720/gazetearena-com/uploads/2026/08/merkez-bankasindan-repo-ihalelerine-iliskin-yeni-karar-1-1.jpg",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://www.samsuncanlihaber.com/samsunda-seyir-halindeki-otomobil-alev-topuna-dondu",
+    "t": "Samsun'da seyir halindeki otomobil alev topuna döndü",
+    "u": "https://www.samsuncanlihaber.com/samsunda-seyir-halindeki-otomobil-alev-topuna-dondu",
+    "src": "Samsun Canlı Haber",
+    "d": "2026-08-23T22:43:38+03:00",
+    "desc": "Samsun'da seyir halindeki otomobilde yangın çıktı. Alevlere teslim olan araçta yer yer patlamalar meydana gelirken, yangın çevrede kısa süreli paniğe neden oldu.",
+    "img": "https://samsuncanlihabercom.teimg.com/crop/1280x720/samsuncanlihaber-com/uploads/2026/08/agency/iha/samsunda-seyir-halindeki-otomobil-alev-topuna-dondu.jpg",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://www.samsunetikhaber3.com/haber-senol-kul-dunyanin-bildigi-efsaneyi-kendi-topraklarinda-yeniden-gun-yuzune-cikaracagiz-14384.html",
+    "t": "Şenol Kul, ‘Dünyanın bildiği efsaneyi kendi topraklarında yeniden gün yüzüne çıkaracağız’",
+    "u": "https://www.samsunetikhaber3.com/haber-senol-kul-dunyanin-bildigi-efsaneyi-kendi-topraklarinda-yeniden-gun-yuzune-cikaracagiz-14384.html",
+    "src": "Samsun Etik Haber",
+    "d": "2026-08-23T19:43:15+00:00",
+    "desc": "Amazonların başkenti Temiskira ile özdeşleşen Terme’de, ilçenin binlerce yıllık tarihini ve kültürel mirasını gün yüzüne çıkarmak amacıyla uzun soluklu akademik araştırma için ilk adım atıldı.",
+    "img": "https://www.samsunetikhaber3.com/images/haber/senol-kul-dunyanin-bildigi-efsaneyi-kendi-topraklarinda-yeniden-gun-yuzune-cikaracagiz-224415-20260823.webp",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0RJR29kQzd3dldwa241aTAyNHJhWU1kVnYyeHZ4SjFNVFk4MmxjQTdfUTRMMHl6ZGR1b0dBZG1Cd2lzaFI5RkxTZTFZaEFrcmVxdDZkbDBlc3V1cmdTV2VFV1c3UTBBWjlQb3lvNHIzOW1rUmU0Z1Z2SW5kVC1MTFVwS0Q5REtuYzMtLTJRQ0lfRC13dGVJOVREaXhVVXBZWXVkR0dFUHpBTVFHaVlSOHdEeWE1dw?oc=5",
+    "t": "Samsun'da seyir halindeki otomobil alev topuna döndü - Habertürk",
+    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0RJR29kQzd3dldwa241aTAyNHJhWU1kVnYyeHZ4SjFNVFk4MmxjQTdfUTRMMHl6ZGR1b0dBZG1Cd2lzaFI5RkxTZTFZaEFrcmVxdDZkbDBlc3V1cmdTV2VFV1c3UTBBWjlQb3lvNHIzOW1rUmU0Z1Z2SW5kVC1MTFVwS0Q5REtuYzMtLTJRQ0lfRC13dGVJOVREaXhVVXBZWXVkR0dFUHpBTVFHaVlSOHdEeWE1dw?oc=5",
+    "src": "Habertürk",
+    "d": "2026-08-23T19:43:00+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Gündem"
+  },
+  {
+    "id": "https://www.samsungazetesi.com/findik-bahcesinde-aci-olay-ucuruma-duserek-hayatini-kaybetti",
+    "t": "Fındık bahçesinde acı olay! Uçuruma düşerek hayatını kaybetti",
+    "u": "https://www.samsungazetesi.com/findik-bahcesinde-aci-olay-ucuruma-duserek-hayatini-kaybetti",
+    "src": "Samsun Gazetesi",
+    "d": "2026-08-23T22:34:00+03:00",
+    "desc": "Giresun'un Çanakçı ilçesinde fındık bahçesinde çuval taşıyan 32 yaşındaki Emre G., dengesini kaybederek uçuruma düşmesi sonucu hayatını kaybetti.",
+    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/08/findik-bahcesinde-aci-olay-ucuruma-duserek-hayatini-kaybetti.jpg",
+    "kat": "Sağlık"
+  },
+  {
     "id": "https://www.samsunetikhaber3.com/haber-dehlizin-fedaileri-serisinin-final-kitabi-tufan-cikti-14383.html",
     "t": "Dehlizin Fedaileri Serisinin Final Kitabı ‘TUFAN’ Çıktı",
     "u": "https://www.samsunetikhaber3.com/haber-dehlizin-fedaileri-serisinin-final-kitabi-tufan-cikti-14383.html",
@@ -1258,6 +1328,16 @@
     "desc": "BBC Türkçe &#8211; Kanada&#8217;dan ithal edilen çok çeşitli mallara yönelik yeni bir ABD gümrük vergisi dalgası, ticaret görüşmelerinin son anda çıkmaza girmesinin ardından 22 Ağustos Cumartesi günü yürürlüğe girdi. Donald Trump konuyla ilgili ilk açıklamasında, Kanada&#8217;nın &#8220;eyalet olmadan, eyalet olmanın avantajlarına sahip olmak istediğini&#8221; söyledi. ABD Başkanı&#8217;nın sözler",
     "img": "",
     "kat": "Siyaset"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3FQNUxjal9qTmVlQzVmY3RCMHpxWGtBalh1LXBHS3lJRFd6UUdKWndZeDYwejZyTHN3RU5zS19JbnhoMHpaaEZ4ZTFWRnF0Mk83bUNkZ0VHSEtUTWZBeXVVVC00NVlXRnUwcEc4LU9iVGZLWC1NN25pRHlYSElxVGxxMV9pNjFGY3QwOEx3?oc=5",
+    "t": "Samsun’da takla atan otomobildeki 3 kişi hafif yaralandı - Safranbolu Birlik Haber",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3FQNUxjal9qTmVlQzVmY3RCMHpxWGtBalh1LXBHS3lJRFd6UUdKWndZeDYwejZyTHN3RU5zS19JbnhoMHpaaEZ4ZTFWRnF0Mk83bUNkZ0VHSEtUTWZBeXVVVC00NVlXRnUwcEc4LU9iVGZLWC1NN25pRHlYSElxVGxxMV9pNjFGY3QwOEx3?oc=5",
+    "src": "Safranbolu Birlik Haber",
+    "d": "2026-08-23T11:04:32+00:00",
+    "desc": "",
+    "img": "",
+    "kat": "Trafik/Kaza"
   },
   {
     "id": "https://www.samsungazetesi.com/samsunspordan-oskar-ohlenschlaeger-bombasi-anlasma-saglandi",
@@ -14918,85 +14998,5 @@
     "desc": "",
     "img": "",
     "kat": "Siyaset"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00cmFHWVlXUDQtOW5mT2lzMEo0NUZXYmR1SENMWEtodWRacU9sU2Zob3BfZUtxWVVOVThQWUxvd1lyc2F2cml6Vnk1M3BUWUFLZ2ZTY01acUZWSXVwLXB1OHlZbFFiZEQ3My05TDVCZnU1RTNTazhKSW14X0g?oc=5",
-    "t": "Samsun'da silahlı yaralama zanlısı tutuklandı - Gazete Arena",
-    "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00cmFHWVlXUDQtOW5mT2lzMEo0NUZXYmR1SENMWEtodWRacU9sU2Zob3BfZUtxWVVOVThQWUxvd1lyc2F2cml6Vnk1M3BUWUFLZ2ZTY01acUZWSXVwLXB1OHlZbFFiZEQ3My05TDVCZnU1RTNTazhKSW14X0g?oc=5",
-    "src": "Gazete Arena",
-    "d": "2026-08-20T10:51:00+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Asayiş"
-  },
-  {
-    "id": "https://www.gazetearena.com/caykur-rizespor-samsunspor-macinin-hakemi-belli-oldu-1",
-    "t": "Çaykur Rizespor Samsunspor maçının hakemi belli oldu",
-    "u": "https://www.gazetearena.com/caykur-rizespor-samsunspor-macinin-hakemi-belli-oldu-1",
-    "src": "Gazete Arena",
-    "d": "2026-08-20T13:50:00+03:00",
-    "desc": "Trendyol Süper Lig'in 2. haftasında Çaykur Rizespor ile Samsunspor arasında oynanacak maçı yönetecek hakem Ömer Faruk Turtay olarak belirlendi",
-    "img": "https://gazetearenacom.teimg.com/crop/1280x720/gazetearena-com/uploads/2026/08/hakem-2-12.jpg",
-    "kat": "Spor"
-  },
-  {
-    "id": "https://www.samsungazetesi.com/samsunda-pazaryerinde-dolandiricilik-alarmi",
-    "t": "Samsun’da pazar yerinde dolandırıcılık alarmı!",
-    "u": "https://www.samsungazetesi.com/samsunda-pazaryerinde-dolandiricilik-alarmi",
-    "src": "Samsun Gazetesi",
-    "d": "2026-08-20T13:48:00+03:00",
-    "desc": "SAMSUN HABER... Samsun’da polis ekipleri, İlkadım’daki pazar yerinde 215 vatandaşı dolandırıcılık yöntemleri ile KADES ve Hayat 112 uygulamaları hakkında bilgilendirdi.",
-    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/08/samsun-opazar-yeri.jpg",
-    "kat": "Asayiş"
-  },
-  {
-    "id": "https://www.samsungazetesi.com/samsunda-6-bin-kisiye-narko-nokta-bilgilendirmesi",
-    "t": "Samsun’da 6 bin kişiye NARKO-NOKTA bilgilendirmesi",
-    "u": "https://www.samsungazetesi.com/samsunda-6-bin-kisiye-narko-nokta-bilgilendirmesi",
-    "src": "Samsun Gazetesi",
-    "d": "2026-08-20T13:46:00+03:00",
-    "desc": "SAMSUN HABER... Samsun’da uyuşturucuyla mücadele kapsamında sürdürülen farkındalık çalışmaları çerçevesinde Alaçam’daki Geyikkoşan Festivali’nde NARKO-NOKTA standı kuruldu. Etkinlikte yaklaşık 6 bin kişiye UYUMA uygulaması ve NARVAS projesi hakkında bilgi verildi.",
-    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/08/whatsapp-image-2026-08-20-at-133750.jpeg",
-    "kat": "Asayiş"
-  },
-  {
-    "id": "https://www.gazetearena.com/samsunsporda-tomas-bobcek-karmasasi-suruyor",
-    "t": "Samsunspor'da Tomas Bobcek karmaşası sürüyor",
-    "u": "https://www.gazetearena.com/samsunsporda-tomas-bobcek-karmasasi-suruyor",
-    "src": "Gazete Arena",
-    "d": "2026-08-20T13:45:00+03:00",
-    "desc": "Samsunspor, Slovak santrfor Tomas Bobcek'i kadrosuna katmak için girişimlerini sürdürürken, kulüp bütçesini aşan maliyetler ve İtalya'dan gelen rakip teklifler nedeniyle transfer süreci karmaşık bir hal aldı",
-    "img": "https://gazetearenacom.teimg.com/crop/1280x720/gazetearena-com/uploads/2026/08/gazete-arena-samsun-haber-recovered-177.jpg",
-    "kat": "Spor"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEV2p1QmcwYV9xVDVUdF83X3czVzg0Y0Q2X241ZW9Tb3I3bU0xb3NtT1QxOVZ0QVl0ZktHZU5YOWxySmEzdEhOV1VHbHVyUFcxVjhfcnpfNFpiTDEwaGpydktfX1RRalRtOWhYU1JZc2tLcVQtUlhia0s3aw?oc=5",
-    "t": "Samsunspor'da Tomas Bobcek karmaşası sürüyor - Gazete Arena",
-    "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEV2p1QmcwYV9xVDVUdF83X3czVzg0Y0Q2X241ZW9Tb3I3bU0xb3NtT1QxOVZ0QVl0ZktHZU5YOWxySmEzdEhOV1VHbHVyUFcxVjhfcnpfNFpiTDEwaGpydktfX1RRalRtOWhYU1JZc2tLcVQtUlhia0s3aw?oc=5",
-    "src": "Gazete Arena",
-    "d": "2026-08-20T10:45:00+00:00",
-    "desc": "",
-    "img": "",
-    "kat": "Spor"
-  },
-  {
-    "id": "https://www.gazetegercek.com.tr/samsunda-4-urune-toplatma-karari/234810",
-    "t": "Samsun'da 4 ürüne toplatma kararı!",
-    "u": "https://www.gazetegercek.com.tr/samsunda-4-urune-toplatma-karari/234810",
-    "src": "Gazete Gerçek",
-    "d": "2026-08-20T13:43:30+03:00",
-    "desc": "Ticaret Bakanlığı, küçük parçalarının kolayca ayrılması nedeniyle boğulma ve yaralanma riski taşıdığı belirlenen 4 bebek giyim ürünü için piyasaya arz yasağı ve toplatma kararı verdi. Karar, Samsun’daki aileler başta olmak üzere Türkiye genelindeki tüketicileri yakından ilgilendiriyor.",
-    "img": "",
-    "kat": "Siyaset"
-  },
-  {
-    "id": "https://www.samsungazetesi.com/caykur-rizespor-samsunspor-macinin-hakemi-aciklandi",
-    "t": "Çaykur Rizespor-Samsunspor  maçının hakemi açıklandı",
-    "u": "https://www.samsungazetesi.com/caykur-rizespor-samsunspor-macinin-hakemi-aciklandi",
-    "src": "Samsun Gazetesi",
-    "d": "2026-08-20T13:42:00+03:00",
-    "desc": "SAMSUNSPOR HABER... Trendyol Süper Lig’in 2. haftasında oynanacak Çaykur Rizespor-Samsunspor maçının hakemi belli oldu. Karadeniz derbisinde Ömer Faruk Turtay düdük çalacak.",
-    "img": "https://samsungazetesicom.teimg.com/crop/1280x720/samsungazetesi-com/uploads/2026/08/basliksiz-17.jpg",
-    "kat": "Spor"
   }
 ]
